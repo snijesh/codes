@@ -1,0 +1,1088 @@
+Sample	Dnumber	FamilyNumber	DiagnosisRev	chr_position	Gene	ExonicFunc	avsnp150	AF_sas	AF_afr	AF_amr	AF_eas	variant_class	SFARI_gene_score	syndromic	genetic_category	eagle
+4538	D638	275	Familial_control	chr16_8866767_8866767_C_T	ABAT	nonsynonymous SNV	rs555183419	2.00E-04	0	0	0	missense	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+14894	D336	9773	Schizophrenia	chr7_48567884_48567884_T_G	ABCA13	nonsynonymous SNV	rs749109867	3.00E-04	0	0	0	missense	2	0	"Rare Single Gene Mutation, Functional"	0
+16610	D948	9829	Familial_control	chr7_48412006_48412006_C_-	ABCA13	frameshift deletion	NotAvailable	3.27E-05	0	0	0	indel	2	0	"Rare Single Gene Mutation, Functional"	0
+14970	D223	9829	Schizophrenia	chr7_48412006_48412006_C_-	ABCA13	frameshift deletion	NotAvailable	3.27E-05	0	0	0	indel	2	0	"Rare Single Gene Mutation, Functional"	0
+15626	D300	10198	Schizophrenia	chr7_48411788_48411788_T_A	ABCA13	nonsynonymous SNV	rs771610168	0	6.46E-05	0	0	missense	2	0	"Rare Single Gene Mutation, Functional"	0
+16275	D619	7862	Familial_control	chr19_1058262_1058262_C_T	ABCA7	nonsynonymous SNV	rs749753167	4.00E-04	0	5.79E-05	5.44E-05	missense	2	0	Rare Single Gene Mutation	0
+16273	D617	7862	OCD	chr19_1058262_1058262_C_T	ABCA7	nonsynonymous SNV	rs749753167	4.00E-04	0	5.79E-05	5.44E-05	missense	2	0	Rare Single Gene Mutation	0
+ICNBSX329	NotAvailable	gg30	population_control	chr19_1055224_1055224_C_T	ABCA7	nonsynonymous SNV	NotAvailable	0	0	0	5.86E-05	missense	2	0	Rare Single Gene Mutation	0
+ICNBSX306	NotAvailable	gg7	population_control	chr1_179081513_179081513_C_T	ABL2	nonsynonymous SNV	rs754261724	2.00E-04	0	0	0	missense	3	0	"Rare Single Gene Mutation, Functional"	0
+GNPC127	D1433	g72	population_control	chr17_61559066_61559066_C_T	ACE	nonsynonymous SNV	rs142328237	0	0	0	1.00E-04	missense	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+ICNBSX310	NotAvailable	gg11	population_control	chr17_61559951_61559951_G_A	ACE	nonsynonymous SNV	rs149252911	0	7.00E-04	0	5.44E-05	missense	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+ICNBSX302	NotAvailable	gg3	population_control	chr17_61559951_61559951_G_A	ACE	nonsynonymous SNV	rs149252911	0	7.00E-04	0	5.44E-05	missense	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+ICNBSX303	NotAvailable	gg4	population_control	chr17_61559951_61559951_G_A	ACE	nonsynonymous SNV	rs149252911	0	7.00E-04	0	5.44E-05	missense	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+16470	D868	10449	Familial_control	chr20_43255233_43255233_G_A	ADA	nonsynonymous SNV	rs121908736	2.00E-04	0.0028	2.00E-04	0	missense	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+15468	D267	9975	Familial_control	chr2_236626225_236626225_G_A	AGAP1	nonsynonymous SNV	rs201400274	0.001	6.33E-05	0.0013	1.00E-04	missense	2	0	Rare Single Gene Mutation	0
+15274	D249	9975	OCD	chr2_236626225_236626225_G_A	AGAP1	nonsynonymous SNV	rs201400274	0.001	6.33E-05	0.0013	1.00E-04	missense	2	0	Rare Single Gene Mutation	0
+14557	D59	195	Familial_control	chr7_91671392_91671393_AG_-	AKAP9	frameshift deletion	rs779447911	0	6.22E-05	0	5.55E-05	indel	2	0	Rare Single Gene Mutation	0
+15684	D326	167	Familial_control	chr3_125825997_125825997_G_A	ALDH1L1	nonsynonymous SNV	rs778946941	6.53E-05	0	0	0	missense	3	0	Rare Single Gene Mutation	0
+ICNBSX329	NotAvailable	gg30	population_control	chr6_24505163_24505163_G_A	ALDH5A1	nonsynonymous SNV	rs770884090	0	6.15E-05	0	0	missense	1	0	"Rare Single Gene Mutation, Syndromic"	2.35
+WAF157	D5	S3	Schizophrenia	chr6_24505125_24505125_G_A	ALDH5A1	nonsynonymous SNV	rs553257538	3.27E-05	0	0	5.44E-05	missense	1	0	"Rare Single Gene Mutation, Syndromic"	2.35
+14361	D140	8889	Familial_control	chr1_115216547_115216547_G_A	AMPD1	stopgain	rs749628995	7.00E-04	0	2.89E-05	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+2503	D628	1058	Schizophrenia	chr14_32561313_32561313_C_T	ARHGAP5	stopgain	rs201986816	1.00E-04	0.0018	2.00E-04	0	LOF	2	0	Rare Single Gene Mutation	0
+2503	D628	1058	Schizophrenia	chr14_32561316_32561316_G_T	ARHGAP5	stopgain	rs200628183	1.00E-04	0.0019	2.00E-04	0	LOF	2	0	Rare Single Gene Mutation	0
+12972	D713	8356	BPAD	chr14_32561313_32561313_C_T	ARHGAP5	stopgain	rs201986816	1.00E-04	0.0018	2.00E-04	0	LOF	2	0	Rare Single Gene Mutation	0
+12972	D713	8356	BPAD	chr14_32561316_32561316_G_T	ARHGAP5	stopgain	rs200628183	1.00E-04	0.0019	2.00E-04	0	LOF	2	0	Rare Single Gene Mutation	0
+14634	D160	8356	Familial_control	chr14_32561313_32561313_C_T	ARHGAP5	stopgain	rs201986816	1.00E-04	0.0018	2.00E-04	0	LOF	2	0	Rare Single Gene Mutation	0
+14634	D160	8356	Familial_control	chr14_32561316_32561316_G_T	ARHGAP5	stopgain	rs200628183	1.00E-04	0.0019	2.00E-04	0	LOF	2	0	Rare Single Gene Mutation	0
+16610	D948	9829	Familial_control	chr14_32561313_32561313_C_T	ARHGAP5	stopgain	rs201986816	1.00E-04	0.0018	2.00E-04	0	LOF	2	0	Rare Single Gene Mutation	0
+16610	D948	9829	Familial_control	chr14_32561316_32561316_G_T	ARHGAP5	stopgain	rs200628183	1.00E-04	0.0019	2.00E-04	0	LOF	2	0	Rare Single Gene Mutation	0
+15416	D264	10061	Familial_control	chr14_32561313_32561313_C_T	ARHGAP5	stopgain	rs201986816	1.00E-04	0.0018	2.00E-04	0	LOF	2	0	Rare Single Gene Mutation	0
+15416	D264	10061	Familial_control	chr14_32561316_32561316_G_T	ARHGAP5	stopgain	rs200628183	1.00E-04	0.0019	2.00E-04	0	LOF	2	0	Rare Single Gene Mutation	0
+16332	D790	10496	Familial_control	chr14_32561313_32561313_C_T	ARHGAP5	stopgain	rs201986816	1.00E-04	0.0018	2.00E-04	0	LOF	2	0	Rare Single Gene Mutation	0
+16332	D790	10496	Familial_control	chr14_32561316_32561316_G_T	ARHGAP5	stopgain	rs200628183	1.00E-04	0.0019	2.00E-04	0	LOF	2	0	Rare Single Gene Mutation	0
+17590	D1407	11022	Familial_control	chr14_32561313_32561313_C_T	ARHGAP5	stopgain	rs201986816	1.00E-04	0.0018	2.00E-04	0	LOF	2	0	Rare Single Gene Mutation	0
+17590	D1407	11022	Familial_control	chr14_32561316_32561316_G_T	ARHGAP5	stopgain	rs200628183	1.00E-04	0.0019	2.00E-04	0	LOF	2	0	Rare Single Gene Mutation	0
+1103	D863	10545	BPAD	chr1_155449253_155449253_C_A	ASH1L	nonsynonymous SNV	rs201358541	2.00E-04	0	2.00E-04	0	missense	1	0	"Rare Single Gene Mutation, Syndromic, Genetic Association, Functional"	14.15
+GNPC420	D1437	g84	population_control	chrX_1746653_1746653_G_-	ASMT	frameshift deletion	rs748417389	2.00E-04	0	0	0	indel	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+2439	D626	1028	BPAD	chr1_197072148_197072148_C_T	ASPM	nonsynonymous SNV	rs543236716	2.00E-04	0	5.82E-05	0	missense	2	0	"Rare Single Gene Mutation, Syndromic, Functional"	0
+14263	D138	8889	Schizophrenia	chr15_25971136_25971136_A_G	ATP10A	nonsynonymous SNV	rs76854611	9.80E-05	0	2.89E-05	0.0137	missense	2	0	"Rare Single Gene Mutation, Genetic Association, Functional"	0
+ICNBSX306	NotAvailable	gg7	population_control	chr15_25961885_25961885_G_A	ATP10A	stopgain	rs149299773	0	0	0	6.00E-05	LOF	2	0	"Rare Single Gene Mutation, Genetic Association, Functional"	0
+14556	D65	195	BPAD	chrX_76937066_76937066_G_A	ATRX	nonsynonymous SNV	rs782743875	4.00E-04	0	0	0	missense	1	0	"Rare Single Gene Mutation, Syndromic"	0
+14557	D59	195	Familial_control	chrX_76937066_76937066_G_A	ATRX	nonsynonymous SNV	rs782743875	4.00E-04	0	0	0	missense	1	0	"Rare Single Gene Mutation, Syndromic"	0
+1453	D60	195	Familial_control	chrX_76937066_76937066_G_A	ATRX	nonsynonymous SNV	rs782743875	4.00E-04	0	0	0	missense	1	0	"Rare Single Gene Mutation, Syndromic"	0
+17072	D1186	195	Familial_control	chrX_76937066_76937066_G_A	ATRX	nonsynonymous SNV	rs782743875	4.00E-04	0	0	0	missense	1	0	"Rare Single Gene Mutation, Syndromic"	0
+ICNBSX336	NotAvailable	gg37	population_control	chr15_73029185_73029185_A_C	BBS4	nonsynonymous SNV	rs527839219	5.00E-04	0	0	0	missense	2	0	"Rare Single Gene Mutation, Syndromic"	0
+ICNBSX318	NotAvailable	gg19	population_control	chr13_32953926_32953926_C_T	BRCA2	nonsynonymous SNV	rs587780664	0	0	0	5.44E-05	missense	2	0	Rare Single Gene Mutation	0
+ICNBSX331	NotAvailable	gg32	population_control	chr13_32968844_32968844_A_G	BRCA2	nonsynonymous SNV	rs80359195	2.00E-04	0	1.00E-04	5.44E-05	missense	2	0	Rare Single Gene Mutation	0
+15648	D309	167	BPAD	chr9_141016353_141016353_C_T	CACNA1B	nonsynonymous SNV	rs200556692	3.27E-05	6.47E-05	0	0	missense	2	0	"Rare Single Gene Mutation, Syndromic, Genetic Association"	0
+6324	D631	167	BPAD	chr9_141016353_141016353_C_T	CACNA1B	nonsynonymous SNV	rs200556692	3.27E-05	6.47E-05	0	0	missense	2	0	"Rare Single Gene Mutation, Syndromic, Genetic Association"	0
+2968	D315	167	Depression	chr9_141016353_141016353_C_T	CACNA1B	nonsynonymous SNV	rs200556692	3.27E-05	6.47E-05	0	0	missense	2	0	"Rare Single Gene Mutation, Syndromic, Genetic Association"	0
+16134	D564	167	Familial_control	chr9_141016353_141016353_C_T	CACNA1B	nonsynonymous SNV	rs200556692	3.27E-05	6.47E-05	0	0	missense	2	0	"Rare Single Gene Mutation, Syndromic, Genetic Association"	0
+16133	D563	167	Schizophrenia	chr9_141016353_141016353_C_T	CACNA1B	nonsynonymous SNV	rs200556692	3.27E-05	6.47E-05	0	0	missense	2	0	"Rare Single Gene Mutation, Syndromic, Genetic Association"	0
+15416	D264	10061	Familial_control	chr12_2786374_2786374_C_T	CACNA1C	nonsynonymous SNV	rs767199033	4.00E-04	0	0	0	missense	1	0	"Rare Single Gene Mutation, Syndromic, Genetic Association, Functional"	0
+109	D694	7	Schizophrenia	chr1_181767878_181767878_C_T	CACNA1E	nonsynonymous SNV	rs770456006	0	0	0	0	missense	1	0	Rare Single Gene Mutation	0
+1142	D666	535	BPAD	chr1_181701642_181701642_C_T	CACNA1E	nonsynonymous SNV	rs986188761	0	0	0	0	missense	1	0	Rare Single Gene Mutation	0
+1263	D681	583	Familial_control	chr1_181726120_181726120_G_A	CACNA1E	nonsynonymous SNV	rs776066299	3.27E-05	0	0	0	missense	1	0	Rare Single Gene Mutation	0
+16427	D831	10530	Familial_control	chr1_181685247_181685247_G_A	CACNA1E	nonsynonymous SNV	rs575438278	5.00E-04	0	0	0	missense	1	0	Rare Single Gene Mutation	0
+16135	D565	167	Schizophrenia	chr17_48655719_48655719_G_A	CACNA1G	nonsynonymous SNV	rs773232530	3.27E-05	0	0	0	missense	2	0	"Rare Single Gene Mutation, Syndromic, Genetic Association"	0
+14592	D111	760	BPAD	chr17_48646559_48646559_G_A	CACNA1G	nonsynonymous SNV	rs752802222	3.27E-05	0	0	0	missense	2	0	"Rare Single Gene Mutation, Syndromic, Genetic Association"	0
+ICNBSX337	NotAvailable	gg38	population_control	chr17_48646274_48646274_G_A	CACNA1G	nonsynonymous SNV	rs201146969	4.00E-04	1.00E-04	5.79E-05	0	missense	2	0	"Rare Single Gene Mutation, Syndromic, Genetic Association"	0
+14586	D152	190	BPAD	chr16_1257057_1257057_A_T	CACNA1H	nonsynonymous SNV	rs541053755	3.00E-04	0	0	0	missense	2	0	Rare Single Gene Mutation	0
+14629	D159	9067	Familial_control	chr16_1256169_1256169_G_A	CACNA1H	nonsynonymous SNV	rs750793774	0	0	0	6.67E-05	missense	2	0	Rare Single Gene Mutation	0
+15414	D262	10061	OCD	chr16_1257341_1257341_G_T	CACNA1H	nonsynonymous SNV	NotAvailable	0	0	0	0	missense	2	0	Rare Single Gene Mutation	0
+ICNBSX325	NotAvailable	gg26	population_control	chr16_1257777_1257777_C_T	CACNA1H	nonsynonymous SNV	NotAvailable	0	0	3.14E-05	0	missense	2	0	Rare Single Gene Mutation	0
+16134	D564	167	Familial_control	chr22_40015406_40015406_G_A	CACNA1I	nonsynonymous SNV	NotAvailable	0	0	2.90E-05	0	missense	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+14375	D723	8868	Schizophrenia	chr22_40066230_40066230_G_A	CACNA1I	nonsynonymous SNV	rs373284314	6.54E-05	0	0	0	missense	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+15099	D231	9877	Addiction	chr7_81613992_81613992_T_C	CACNA2D1	nonsynonymous SNV	NotAvailable	3.92E-05	0	0	0	missense	2	0	"Rare Single Gene Mutation, Syndromic"	0
+16534	D916	9877	BPAD	chr7_81613992_81613992_T_C	CACNA2D1	nonsynonymous SNV	NotAvailable	3.92E-05	0	0	0	missense	2	0	"Rare Single Gene Mutation, Syndromic"	0
+15098	D230	9877	Schizophrenia	chr7_81613992_81613992_T_C	CACNA2D1	nonsynonymous SNV	NotAvailable	3.92E-05	0	0	0	missense	2	0	"Rare Single Gene Mutation, Syndromic"	0
+ICNBSX307	NotAvailable	gg8	population_control	chr3_62739382_62739382_G_A	CADPS	nonsynonymous SNV	rs150525596	0	0	2.89E-05	0	missense	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+2580	D115	760	BPAD	chr19_39227855_39227855_G_A	CAPN12	nonsynonymous SNV	rs756672339	4.35E-05	0	8.00E-05	0	missense	2	0	Rare Single Gene Mutation	0
+17222	D1227	760	BPAD	chr19_39227855_39227855_G_A	CAPN12	nonsynonymous SNV	rs756672339	4.35E-05	0	8.00E-05	0	missense	2	0	Rare Single Gene Mutation	0
+17224	D1229	760	Familial_control	chr19_39227855_39227855_G_A	CAPN12	nonsynonymous SNV	rs756672339	4.35E-05	0	8.00E-05	0	missense	2	0	Rare Single Gene Mutation	0
+1833	D706	764	Schizophrenia	chr19_39232475_39232475_C_T	CAPN12	nonsynonymous SNV	rs137937350	6.54E-05	9.00E-04	0	5.44E-05	missense	2	0	Rare Single Gene Mutation	0
+9034	D126	5069	Familial_control	chr16_2239544_2239544_G_A	CASKIN1	nonsynonymous SNV	rs538769493	0	0	0	0	missense	2	0	"Rare Single Gene Mutation, Functional"	0
+14498	D148	5069	Familial_control	chr16_2239544_2239544_G_A	CASKIN1	nonsynonymous SNV	rs538769493	0	0	0	0	missense	2	0	"Rare Single Gene Mutation, Functional"	0
+14634	D160	8356	Familial_control	chr2_62106082_62106082_C_A	CCT4	nonsynonymous SNV	rs528619072	9.00E-04	0	0	0	missense	2	0	Rare Single Gene Mutation	0
+364	D62	195	BPAD	chr15_73995228_73995228_G_A	CD276	stopgain	rs202232823	3.00E-04	6.16E-05	5.78E-05	0	LOF	2	0	Rare Single Gene Mutation	0
+14545	D151	195	Familial_control	chr15_73995228_73995228_G_A	CD276	stopgain	rs202232823	3.00E-04	6.16E-05	5.78E-05	0	LOF	2	0	Rare Single Gene Mutation	0
+1337	D64	195	Familial_control	chr15_73995228_73995228_G_A	CD276	stopgain	rs202232823	3.00E-04	6.16E-05	5.78E-05	0	LOF	2	0	Rare Single Gene Mutation	0
+17072	D1186	195	Familial_control	chr15_73995228_73995228_G_A	CD276	stopgain	rs202232823	3.00E-04	6.16E-05	5.78E-05	0	LOF	2	0	Rare Single Gene Mutation	0
+17202	D1223	9913	Schizophrenia	chr15_74000728_74000729_TG_-	CD276	frameshift deletion	rs768941439	0	0	0	0	indel	2	0	Rare Single Gene Mutation	0
+17202	D1223	9913	Schizophrenia	chr15_74000732_74000733_TG_-	CD276	frameshift deletion	rs750359383	0	0	0	0	indel	2	0	Rare Single Gene Mutation	0
+ICNBSX321	NotAvailable	gg22	population_control	chr12_88530529_88530529_C_T	CEP290	nonsynonymous SNV	rs562747993	2.00E-04	6.46E-05	0	0	missense	2	1	"Rare Single Gene Mutation, Syndromic"	0
+ICNBSX345	NotAvailable	gg46	population_control	chr12_88530529_88530529_C_T	CEP290	nonsynonymous SNV	rs562747993	2.00E-04	6.46E-05	0	0	missense	2	1	"Rare Single Gene Mutation, Syndromic"	0
+17072	D1186	195	Familial_control	chr17_7797536_7797536_G_A	CHD3	nonsynonymous SNV	rs138539483	1.00E-04	2.00E-04	1.00E-04	0	missense	1	0	"Rare Single Gene Mutation, Syndromic"	0
+2098	D715	885	Schizophrenia	chr17_7810262_7810262_C_T	CHD3	nonsynonymous SNV	rs768154770	0	0	8.68E-05	0	missense	1	0	"Rare Single Gene Mutation, Syndromic"	0
+14545	D151	195	Familial_control	chr8_61754502_61754502_A_G	CHD7	nonsynonymous SNV	rs745721998	3.31E-05	0	0	0	missense	1	0	"Rare Single Gene Mutation, Syndromic, Functional"	8.1
+109	D694	7	Schizophrenia	chr16_53342649_53342649_C_T	CHD9	nonsynonymous SNV	rs777398251	1.00E-04	0	0	0	missense	3	0	Rare Single Gene Mutation	0
+548	D642	280	BPAD	chr16_53358087_53358087_G_T	CHD9	nonsynonymous SNV	rs561224716	3.00E-04	0	0	0	missense	3	0	Rare Single Gene Mutation	0
+12998	D72	319	BPAD	chr16_53191101_53191101_C_T	CHD9	nonsynonymous SNV	rs763829620	1.00E-04	0	0	0	missense	3	0	Rare Single Gene Mutation	0
+5056	D87	319	BPAD	chr16_53191101_53191101_C_T	CHD9	nonsynonymous SNV	rs763829620	1.00E-04	0	0	0	missense	3	0	Rare Single Gene Mutation	0
+5991	D1431	2793	BPAD	chr16_53269100_53269100_C_T	CHD9	nonsynonymous SNV	rs369035655	0	9.76E-05	0	7.89E-05	missense	3	0	Rare Single Gene Mutation	0
+15626	D300	10198	Schizophrenia	chr16_53338424_53338424_C_T	CHD9	nonsynonymous SNV	rs566366905	4.00E-04	0	0	0	missense	3	0	Rare Single Gene Mutation	0
+16331	D789	10496	Addiction	chr16_53269100_53269100_C_T	CHD9	nonsynonymous SNV	rs369035655	0	9.76E-05	0	7.89E-05	missense	3	0	Rare Single Gene Mutation	0
+16332	D790	10496	Familial_control	chr16_53269100_53269100_C_T	CHD9	nonsynonymous SNV	rs369035655	0	9.76E-05	0	7.89E-05	missense	3	0	Rare Single Gene Mutation	0
+17590	D1407	11022	Familial_control	chr16_53330923_53330923_G_A	CHD9	nonsynonymous SNV	rs755196531	6.54E-05	0	0	0	missense	3	0	Rare Single Gene Mutation	0
+17588	D1405	11022	Schizophrenia	chr16_53330923_53330923_G_A	CHD9	nonsynonymous SNV	rs755196531	6.54E-05	0	0	0	missense	3	0	Rare Single Gene Mutation	0
+17589	D1406	11022	Schizophrenia	chr16_53330923_53330923_G_A	CHD9	nonsynonymous SNV	rs755196531	6.54E-05	0	0	0	missense	3	0	Rare Single Gene Mutation	0
+15064	D228	9829	Familial_control	chrX_85128188_85128188_G_T	CHM	nonsynonymous SNV	rs373323172	5.80E-05	0	0	0	missense	3	0	Rare Single Gene Mutation	0
+16610	D948	9829	Familial_control	chrX_85128188_85128188_G_T	CHM	nonsynonymous SNV	rs373323172	5.80E-05	0	0	0	missense	3	0	Rare Single Gene Mutation	0
+6310	D19	72	BPAD	chr15_32449875_32449876_TG_-	CHRNA7	frameshift deletion	rs67158670	0	0	7.60E-05	1.00E-04	indel	2	0	Rare Single Gene Mutation	0
+6545	D20	72	BPAD	chr15_32449875_32449876_TG_-	CHRNA7	frameshift deletion	rs67158670	0	0	7.60E-05	1.00E-04	indel	2	0	Rare Single Gene Mutation	0
+15648	D309	167	BPAD	chr15_32449875_32449876_TG_-	CHRNA7	frameshift deletion	rs67158670	0	0	7.60E-05	1.00E-04	indel	2	0	Rare Single Gene Mutation	0
+15627	D301	167	BPAD	chr15_32449875_32449876_TG_-	CHRNA7	frameshift deletion	rs67158670	0	0	7.60E-05	1.00E-04	indel	2	0	Rare Single Gene Mutation	0
+15684	D326	167	Familial_control	chr15_32449875_32449876_TG_-	CHRNA7	frameshift deletion	rs67158670	0	0	7.60E-05	1.00E-04	indel	2	0	Rare Single Gene Mutation	0
+16134	D564	167	Familial_control	chr15_32449875_32449876_TG_-	CHRNA7	frameshift deletion	rs67158670	0	0	7.60E-05	1.00E-04	indel	2	0	Rare Single Gene Mutation	0
+16340	D798	167	Familial_control	chr15_32449875_32449876_TG_-	CHRNA7	frameshift deletion	rs67158670	0	0	7.60E-05	1.00E-04	indel	2	0	Rare Single Gene Mutation	0
+16341	D799	167	Familial_control	chr15_32449875_32449876_TG_-	CHRNA7	frameshift deletion	rs67158670	0	0	7.60E-05	1.00E-04	indel	2	0	Rare Single Gene Mutation	0
+16342	D800	167	Familial_control	chr15_32449875_32449876_TG_-	CHRNA7	frameshift deletion	rs67158670	0	0	7.60E-05	1.00E-04	indel	2	0	Rare Single Gene Mutation	0
+17476	D1343	167	Familial_control	chr15_32449875_32449876_TG_-	CHRNA7	frameshift deletion	rs67158670	0	0	7.60E-05	1.00E-04	indel	2	0	Rare Single Gene Mutation	0
+14586	D152	190	BPAD	chr15_32449875_32449876_TG_-	CHRNA7	frameshift deletion	rs67158670	0	0	7.60E-05	1.00E-04	indel	2	0	Rare Single Gene Mutation	0
+14587	D153	190	BPAD	chr15_32449875_32449876_TG_-	CHRNA7	frameshift deletion	rs67158670	0	0	7.60E-05	1.00E-04	indel	2	0	Rare Single Gene Mutation	0
+14556	D65	195	BPAD	chr15_32449875_32449876_TG_-	CHRNA7	frameshift deletion	rs67158670	0	0	7.60E-05	1.00E-04	indel	2	0	Rare Single Gene Mutation	0
+14557	D59	195	Familial_control	chr15_32449875_32449876_TG_-	CHRNA7	frameshift deletion	rs67158670	0	0	7.60E-05	1.00E-04	indel	2	0	Rare Single Gene Mutation	0
+17072	D1186	195	Familial_control	chr15_32449875_32449876_TG_-	CHRNA7	frameshift deletion	rs67158670	0	0	7.60E-05	1.00E-04	indel	2	0	Rare Single Gene Mutation	0
+4538	D638	275	Familial_control	chr15_32449875_32449876_TG_-	CHRNA7	frameshift deletion	rs67158670	0	0	7.60E-05	1.00E-04	indel	2	0	Rare Single Gene Mutation	0
+521	D636	275	Schizophrenia	chr15_32449875_32449876_TG_-	CHRNA7	frameshift deletion	rs67158670	0	0	7.60E-05	1.00E-04	indel	2	0	Rare Single Gene Mutation	0
+1846	D637	275	Schizophrenia	chr15_32449875_32449876_TG_-	CHRNA7	frameshift deletion	rs67158670	0	0	7.60E-05	1.00E-04	indel	2	0	Rare Single Gene Mutation	0
+522	D635	275	Schizophrenia	chr15_32449875_32449876_TG_-	CHRNA7	frameshift deletion	rs67158670	0	0	7.60E-05	1.00E-04	indel	2	0	Rare Single Gene Mutation	0
+525	D639	276	BPAD	chr15_32449875_32449876_TG_-	CHRNA7	frameshift deletion	rs67158670	0	0	7.60E-05	1.00E-04	indel	2	0	Rare Single Gene Mutation	0
+12998	D72	319	BPAD	chr15_32449875_32449876_TG_-	CHRNA7	frameshift deletion	rs67158670	0	0	7.60E-05	1.00E-04	indel	2	0	Rare Single Gene Mutation	0
+922	D653	450	Schizophrenia	chr15_32449875_32449876_TG_-	CHRNA7	frameshift deletion	rs67158670	0	0	7.60E-05	1.00E-04	indel	2	0	Rare Single Gene Mutation	0
+1005	D658	490	BPAD	chr15_32449875_32449876_TG_-	CHRNA7	frameshift deletion	rs67158670	0	0	7.60E-05	1.00E-04	indel	2	0	Rare Single Gene Mutation	0
+13545	D102	518	BPAD	chr15_32449875_32449876_TG_-	CHRNA7	frameshift deletion	rs67158670	0	0	7.60E-05	1.00E-04	indel	2	0	Rare Single Gene Mutation	0
+1105	D101	518	BPAD	chr15_32449875_32449876_TG_-	CHRNA7	frameshift deletion	rs67158670	0	0	7.60E-05	1.00E-04	indel	2	0	Rare Single Gene Mutation	0
+14355	D95	518	Familial_control	chr15_32449875_32449876_TG_-	CHRNA7	frameshift deletion	rs67158670	0	0	7.60E-05	1.00E-04	indel	2	0	Rare Single Gene Mutation	0
+16751	D1012	518	Familial_control	chr15_32449875_32449876_TG_-	CHRNA7	frameshift deletion	rs67158670	0	0	7.60E-05	1.00E-04	indel	2	0	Rare Single Gene Mutation	0
+1142	D666	535	BPAD	chr15_32449875_32449876_TG_-	CHRNA7	frameshift deletion	rs67158670	0	0	7.60E-05	1.00E-04	indel	2	0	Rare Single Gene Mutation	0
+1179	D667	535	BPAD	chr15_32449875_32449876_TG_-	CHRNA7	frameshift deletion	rs67158670	0	0	7.60E-05	1.00E-04	indel	2	0	Rare Single Gene Mutation	0
+1235	D673	573	BPAD	chr15_32449875_32449876_TG_-	CHRNA7	frameshift deletion	rs67158670	0	0	7.60E-05	1.00E-04	indel	2	0	Rare Single Gene Mutation	0
+1258	D678	580	BPAD	chr15_32449875_32449876_TG_-	CHRNA7	frameshift deletion	rs67158670	0	0	7.60E-05	1.00E-04	indel	2	0	Rare Single Gene Mutation	0
+1252	D674	580	BPAD	chr15_32449875_32449876_TG_-	CHRNA7	frameshift deletion	rs67158670	0	0	7.60E-05	1.00E-04	indel	2	0	Rare Single Gene Mutation	0
+1253	D675	580	Schizophrenia	chr15_32449875_32449876_TG_-	CHRNA7	frameshift deletion	rs67158670	0	0	7.60E-05	1.00E-04	indel	2	0	Rare Single Gene Mutation	0
+1266	D682	583	BPAD	chr15_32449875_32449876_TG_-	CHRNA7	frameshift deletion	rs67158670	0	0	7.60E-05	1.00E-04	indel	2	0	Rare Single Gene Mutation	0
+1264	D106	583	BPAD	chr15_32449875_32449876_TG_-	CHRNA7	frameshift deletion	rs67158670	0	0	7.60E-05	1.00E-04	indel	2	0	Rare Single Gene Mutation	0
+1263	D681	583	Familial_control	chr15_32449875_32449876_TG_-	CHRNA7	frameshift deletion	rs67158670	0	0	7.60E-05	1.00E-04	indel	2	0	Rare Single Gene Mutation	0
+1357	D685	606	Schizophrenia	chr15_32449875_32449876_TG_-	CHRNA7	frameshift deletion	rs67158670	0	0	7.60E-05	1.00E-04	indel	2	0	Rare Single Gene Mutation	0
+1431	D688	629	Schizophrenia	chr15_32449875_32449876_TG_-	CHRNA7	frameshift deletion	rs67158670	0	0	7.60E-05	1.00E-04	indel	2	0	Rare Single Gene Mutation	0
+14592	D111	760	BPAD	chr15_32449875_32449876_TG_-	CHRNA7	frameshift deletion	rs67158670	0	0	7.60E-05	1.00E-04	indel	2	0	Rare Single Gene Mutation	0
+16509	D899	760	BPAD	chr15_32449875_32449876_TG_-	CHRNA7	frameshift deletion	rs67158670	0	0	7.60E-05	1.00E-04	indel	2	0	Rare Single Gene Mutation	0
+14516	D149	760	Familial_control	chr15_32449875_32449876_TG_-	CHRNA7	frameshift deletion	rs67158670	0	0	7.60E-05	1.00E-04	indel	2	0	Rare Single Gene Mutation	0
+14594	D155	760	Familial_control	chr15_32449875_32449876_TG_-	CHRNA7	frameshift deletion	rs67158670	0	0	7.60E-05	1.00E-04	indel	2	0	Rare Single Gene Mutation	0
+17224	D1229	760	Familial_control	chr15_32449875_32449876_TG_-	CHRNA7	frameshift deletion	rs67158670	0	0	7.60E-05	1.00E-04	indel	2	0	Rare Single Gene Mutation	0
+1802	D705	764	Schizophrenia	chr15_32449875_32449876_TG_-	CHRNA7	frameshift deletion	rs67158670	0	0	7.60E-05	1.00E-04	indel	2	0	Rare Single Gene Mutation	0
+1833	D706	764	Schizophrenia	chr15_32449875_32449876_TG_-	CHRNA7	frameshift deletion	rs67158670	0	0	7.60E-05	1.00E-04	indel	2	0	Rare Single Gene Mutation	0
+1832	D1430	771	BPAD	chr15_32449875_32449876_TG_-	CHRNA7	frameshift deletion	rs67158670	0	0	7.60E-05	1.00E-04	indel	2	0	Rare Single Gene Mutation	0
+3480	D709	777	Schizophrenia	chr15_32449875_32449876_TG_-	CHRNA7	frameshift deletion	rs67158670	0	0	7.60E-05	1.00E-04	indel	2	0	Rare Single Gene Mutation	0
+12995	D711	825	BPAD	chr15_32449875_32449876_TG_-	CHRNA7	frameshift deletion	rs67158670	0	0	7.60E-05	1.00E-04	indel	2	0	Rare Single Gene Mutation	0
+12838	D710	825	BPAD	chr15_32449875_32449876_TG_-	CHRNA7	frameshift deletion	rs67158670	0	0	7.60E-05	1.00E-04	indel	2	0	Rare Single Gene Mutation	0
+2190	D721	885	Familial_control	chr15_32449875_32449876_TG_-	CHRNA7	frameshift deletion	rs67158670	0	0	7.60E-05	1.00E-04	indel	2	0	Rare Single Gene Mutation	0
+2298	D728	961	Schizophrenia	chr15_32449875_32449876_TG_-	CHRNA7	frameshift deletion	rs67158670	0	0	7.60E-05	1.00E-04	indel	2	0	Rare Single Gene Mutation	0
+2446	D627	1028	BPAD	chr15_32449875_32449876_TG_-	CHRNA7	frameshift deletion	rs67158670	0	0	7.60E-05	1.00E-04	indel	2	0	Rare Single Gene Mutation	0
+2503	D628	1058	Schizophrenia	chr15_32449875_32449876_TG_-	CHRNA7	frameshift deletion	rs67158670	0	0	7.60E-05	1.00E-04	indel	2	0	Rare Single Gene Mutation	0
+2502	D629	1058	Schizophrenia	chr15_32449875_32449876_TG_-	CHRNA7	frameshift deletion	rs67158670	0	0	7.60E-05	1.00E-04	indel	2	0	Rare Single Gene Mutation	0
+4201	D632	1904	Schizophrenia	chr15_32449875_32449876_TG_-	CHRNA7	frameshift deletion	rs67158670	0	0	7.60E-05	1.00E-04	indel	2	0	Rare Single Gene Mutation	0
+14382	D651	3681	Familial_control	chr15_32449875_32449876_TG_-	CHRNA7	frameshift deletion	rs67158670	0	0	7.60E-05	1.00E-04	indel	2	0	Rare Single Gene Mutation	0
+9034	D126	5069	Familial_control	chr15_32449875_32449876_TG_-	CHRNA7	frameshift deletion	rs67158670	0	0	7.60E-05	1.00E-04	indel	2	0	Rare Single Gene Mutation	0
+14498	D148	5069	Familial_control	chr15_32449875_32449876_TG_-	CHRNA7	frameshift deletion	rs67158670	0	0	7.60E-05	1.00E-04	indel	2	0	Rare Single Gene Mutation	0
+9033	D125	5069	Schizophrenia	chr15_32449875_32449876_TG_-	CHRNA7	frameshift deletion	rs67158670	0	0	7.60E-05	1.00E-04	indel	2	0	Rare Single Gene Mutation	0
+14634	D160	8356	Familial_control	chr15_32449875_32449876_TG_-	CHRNA7	frameshift deletion	rs67158670	0	0	7.60E-05	1.00E-04	indel	2	0	Rare Single Gene Mutation	0
+14361	D140	8889	Familial_control	chr15_32449875_32449876_TG_-	CHRNA7	frameshift deletion	rs67158670	0	0	7.60E-05	1.00E-04	indel	2	0	Rare Single Gene Mutation	0
+14159	D143	8890	Schizophrenia	chr15_32449875_32449876_TG_-	CHRNA7	frameshift deletion	rs67158670	0	0	7.60E-05	1.00E-04	indel	2	0	Rare Single Gene Mutation	0
+14629	D159	9067	Familial_control	chr15_32449875_32449876_TG_-	CHRNA7	frameshift deletion	rs67158670	0	0	7.60E-05	1.00E-04	indel	2	0	Rare Single Gene Mutation	0
+14833	D194	9766	Schizophrenia	chr15_32449875_32449876_TG_-	CHRNA7	frameshift deletion	rs67158670	0	0	7.60E-05	1.00E-04	indel	2	0	Rare Single Gene Mutation	0
+17517	D1360	9766	Schizophrenia	chr15_32449875_32449876_TG_-	CHRNA7	frameshift deletion	rs67158670	0	0	7.60E-05	1.00E-04	indel	2	0	Rare Single Gene Mutation	0
+14890	D204	9781	BPAD	chr15_32449875_32449876_TG_-	CHRNA7	frameshift deletion	rs67158670	0	0	7.60E-05	1.00E-04	indel	2	0	Rare Single Gene Mutation	0
+16610	D948	9829	Familial_control	chr15_32449875_32449876_TG_-	CHRNA7	frameshift deletion	rs67158670	0	0	7.60E-05	1.00E-04	indel	2	0	Rare Single Gene Mutation	0
+15775	D375	9860	Familial_control	chr15_32449875_32449876_TG_-	CHRNA7	frameshift deletion	rs67158670	0	0	7.60E-05	1.00E-04	indel	2	0	Rare Single Gene Mutation	0
+15099	D231	9877	Addiction	chr15_32449875_32449876_TG_-	CHRNA7	frameshift deletion	rs67158670	0	0	7.60E-05	1.00E-04	indel	2	0	Rare Single Gene Mutation	0
+16534	D916	9877	BPAD	chr15_32449875_32449876_TG_-	CHRNA7	frameshift deletion	rs67158670	0	0	7.60E-05	1.00E-04	indel	2	0	Rare Single Gene Mutation	0
+17202	D1223	9913	Schizophrenia	chr15_32449875_32449876_TG_-	CHRNA7	frameshift deletion	rs67158670	0	0	7.60E-05	1.00E-04	indel	2	0	Rare Single Gene Mutation	0
+15468	D267	9975	Familial_control	chr15_32449875_32449876_TG_-	CHRNA7	frameshift deletion	rs67158670	0	0	7.60E-05	1.00E-04	indel	2	0	Rare Single Gene Mutation	0
+15416	D264	10061	Familial_control	chr15_32449875_32449876_TG_-	CHRNA7	frameshift deletion	rs67158670	0	0	7.60E-05	1.00E-04	indel	2	0	Rare Single Gene Mutation	0
+15503	D275	10124	Addiction	chr15_32446118_32446118_C_T	CHRNA7	nonsynonymous SNV	NotAvailable	2.00E-04	0	0	0	missense	2	0	Rare Single Gene Mutation	0
+15503	D275	10124	Addiction	chr15_32449875_32449876_TG_-	CHRNA7	frameshift deletion	rs67158670	0	0	7.60E-05	1.00E-04	indel	2	0	Rare Single Gene Mutation	0
+15503	D275	10124	Addiction	chr15_32451778_32451778_-_TCTT	CHRNA7	frameshift insertion	rs766050282	1.00E-04	0	0	0	indel	2	0	Rare Single Gene Mutation	0
+15502	D274	10124	Addiction	chr15_32449875_32449876_TG_-	CHRNA7	frameshift deletion	rs67158670	0	0	7.60E-05	1.00E-04	indel	2	0	Rare Single Gene Mutation	0
+17578	D1396	10124	Familial_control	chr15_32449875_32449876_TG_-	CHRNA7	frameshift deletion	rs67158670	0	0	7.60E-05	1.00E-04	indel	2	0	Rare Single Gene Mutation	0
+15691	D328	10237	Familial_control	chr15_32449875_32449876_TG_-	CHRNA7	frameshift deletion	rs67158670	0	0	7.60E-05	1.00E-04	indel	2	0	Rare Single Gene Mutation	0
+15744	D471	10237	Familial_control	chr15_32449875_32449876_TG_-	CHRNA7	frameshift deletion	rs67158670	0	0	7.60E-05	1.00E-04	indel	2	0	Rare Single Gene Mutation	0
+15745	D472	10237	Familial_control	chr15_32449875_32449876_TG_-	CHRNA7	frameshift deletion	rs67158670	0	0	7.60E-05	1.00E-04	indel	2	0	Rare Single Gene Mutation	0
+15746	D473	10237	Familial_control	chr15_32449875_32449876_TG_-	CHRNA7	frameshift deletion	rs67158670	0	0	7.60E-05	1.00E-04	indel	2	0	Rare Single Gene Mutation	0
+16798	D1043	10487	Familial_control	chr15_32449875_32449876_TG_-	CHRNA7	frameshift deletion	rs67158670	0	0	7.60E-05	1.00E-04	indel	2	0	Rare Single Gene Mutation	0
+16331	D789	10496	Addiction	chr15_32449875_32449876_TG_-	CHRNA7	frameshift deletion	rs67158670	0	0	7.60E-05	1.00E-04	indel	2	0	Rare Single Gene Mutation	0
+16332	D790	10496	Familial_control	chr15_32449875_32449876_TG_-	CHRNA7	frameshift deletion	rs67158670	0	0	7.60E-05	1.00E-04	indel	2	0	Rare Single Gene Mutation	0
+16437	D840	10534	BPAD	chr15_32449875_32449876_TG_-	CHRNA7	frameshift deletion	rs67158670	0	0	7.60E-05	1.00E-04	indel	2	0	Rare Single Gene Mutation	0
+16440	D843	10534	BPAD	chr15_32449875_32449876_TG_-	CHRNA7	frameshift deletion	rs67158670	0	0	7.60E-05	1.00E-04	indel	2	0	Rare Single Gene Mutation	0
+16438	D841	10534	Familial_control	chr15_32449875_32449876_TG_-	CHRNA7	frameshift deletion	rs67158670	0	0	7.60E-05	1.00E-04	indel	2	0	Rare Single Gene Mutation	0
+16443	D846	10535	Familial_control	chr15_32449875_32449876_TG_-	CHRNA7	frameshift deletion	rs67158670	0	0	7.60E-05	1.00E-04	indel	2	0	Rare Single Gene Mutation	0
+17095	D1201	10798	Familial_control	chr15_32449875_32449876_TG_-	CHRNA7	frameshift deletion	rs67158670	0	0	7.60E-05	1.00E-04	indel	2	0	Rare Single Gene Mutation	0
+17590	D1407	11022	Familial_control	chr15_32449875_32449876_TG_-	CHRNA7	frameshift deletion	rs67158670	0	0	7.60E-05	1.00E-04	indel	2	0	Rare Single Gene Mutation	0
+17589	D1406	11022	Schizophrenia	chr15_32449875_32449876_TG_-	CHRNA7	frameshift deletion	rs67158670	0	0	7.60E-05	1.00E-04	indel	2	0	Rare Single Gene Mutation	0
+GNPC390	D1436	g134	population_control	chr15_32449875_32449876_TG_-	CHRNA7	frameshift deletion	rs67158670	0	0	7.60E-05	1.00E-04	indel	2	0	Rare Single Gene Mutation	0
+GNPC559	D1439	g304	population_control	chr15_32449875_32449876_TG_-	CHRNA7	frameshift deletion	rs67158670	0	0	7.60E-05	1.00E-04	indel	2	0	Rare Single Gene Mutation	0
+GNPC570	D1440	g315	population_control	chr15_32449875_32449876_TG_-	CHRNA7	frameshift deletion	rs67158670	0	0	7.60E-05	1.00E-04	indel	2	0	Rare Single Gene Mutation	0
+GNPC101	D1432	g46	population_control	chr15_32449875_32449876_TG_-	CHRNA7	frameshift deletion	rs67158670	0	0	7.60E-05	1.00E-04	indel	2	0	Rare Single Gene Mutation	0
+GNPC420	D1437	g84	population_control	chr15_32449875_32449876_TG_-	CHRNA7	frameshift deletion	rs67158670	0	0	7.60E-05	1.00E-04	indel	2	0	Rare Single Gene Mutation	0
+ICNBSX311	NotAvailable	gg12	population_control	chr15_32450694_32450694_G_A	CHRNA7	nonsynonymous SNV	rs138222088	7.00E-04	0.0081	4.00E-04	0	missense	2	0	Rare Single Gene Mutation	0
+ICNBSX311	NotAvailable	gg12	population_control	chr15_32449875_32449876_TG_-	CHRNA7	frameshift deletion	rs67158670	0	0	7.60E-05	1.00E-04	indel	2	0	Rare Single Gene Mutation	0
+ICNBSX313	NotAvailable	gg14	population_control	chr15_32450694_32450694_G_A	CHRNA7	nonsynonymous SNV	rs138222088	7.00E-04	0.0081	4.00E-04	0	missense	2	0	Rare Single Gene Mutation	0
+ICNBSX315	NotAvailable	gg16	population_control	chr15_32449875_32449876_TG_-	CHRNA7	frameshift deletion	rs67158670	0	0	7.60E-05	1.00E-04	indel	2	0	Rare Single Gene Mutation	0
+ICNBSX316	NotAvailable	gg17	population_control	chr15_32449875_32449876_TG_-	CHRNA7	frameshift deletion	rs67158670	0	0	7.60E-05	1.00E-04	indel	2	0	Rare Single Gene Mutation	0
+ICNBSX318	NotAvailable	gg19	population_control	chr15_32449875_32449876_TG_-	CHRNA7	frameshift deletion	rs67158670	0	0	7.60E-05	1.00E-04	indel	2	0	Rare Single Gene Mutation	0
+ICNBSX321	NotAvailable	gg22	population_control	chr15_32449875_32449876_TG_-	CHRNA7	frameshift deletion	rs67158670	0	0	7.60E-05	1.00E-04	indel	2	0	Rare Single Gene Mutation	0
+ICNBSX322	NotAvailable	gg23	population_control	chr15_32449875_32449876_TG_-	CHRNA7	frameshift deletion	rs67158670	0	0	7.60E-05	1.00E-04	indel	2	0	Rare Single Gene Mutation	0
+ICNBSX325	NotAvailable	gg26	population_control	chr15_32449875_32449876_TG_-	CHRNA7	frameshift deletion	rs67158670	0	0	7.60E-05	1.00E-04	indel	2	0	Rare Single Gene Mutation	0
+ICNBSX326	NotAvailable	gg27	population_control	chr15_32449875_32449876_TG_-	CHRNA7	frameshift deletion	rs67158670	0	0	7.60E-05	1.00E-04	indel	2	0	Rare Single Gene Mutation	0
+ICNBSX328	NotAvailable	gg29	population_control	chr15_32449875_32449876_TG_-	CHRNA7	frameshift deletion	rs67158670	0	0	7.60E-05	1.00E-04	indel	2	0	Rare Single Gene Mutation	0
+ICNBSX302	NotAvailable	gg3	population_control	chr15_32449875_32449876_TG_-	CHRNA7	frameshift deletion	rs67158670	0	0	7.60E-05	1.00E-04	indel	2	0	Rare Single Gene Mutation	0
+ICNBSX330	NotAvailable	gg31	population_control	chr15_32449875_32449876_TG_-	CHRNA7	frameshift deletion	rs67158670	0	0	7.60E-05	1.00E-04	indel	2	0	Rare Single Gene Mutation	0
+ICNBSX334	NotAvailable	gg35	population_control	chr15_32449875_32449876_TG_-	CHRNA7	frameshift deletion	rs67158670	0	0	7.60E-05	1.00E-04	indel	2	0	Rare Single Gene Mutation	0
+ICNBSX335	NotAvailable	gg36	population_control	chr15_32449875_32449876_TG_-	CHRNA7	frameshift deletion	rs67158670	0	0	7.60E-05	1.00E-04	indel	2	0	Rare Single Gene Mutation	0
+ICNBSX342	NotAvailable	gg43	population_control	chr15_32449875_32449876_TG_-	CHRNA7	frameshift deletion	rs67158670	0	0	7.60E-05	1.00E-04	indel	2	0	Rare Single Gene Mutation	0
+ICNBSX345	NotAvailable	gg46	population_control	chr15_32449875_32449876_TG_-	CHRNA7	frameshift deletion	rs67158670	0	0	7.60E-05	1.00E-04	indel	2	0	Rare Single Gene Mutation	0
+ICNBSX346	NotAvailable	gg47	population_control	chr15_32449875_32449876_TG_-	CHRNA7	frameshift deletion	rs67158670	0	0	7.60E-05	1.00E-04	indel	2	0	Rare Single Gene Mutation	0
+ICNBSX306	NotAvailable	gg7	population_control	chr15_32449875_32449876_TG_-	CHRNA7	frameshift deletion	rs67158670	0	0	7.60E-05	1.00E-04	indel	2	0	Rare Single Gene Mutation	0
+ICNBSX307	NotAvailable	gg8	population_control	chr15_32449875_32449876_TG_-	CHRNA7	frameshift deletion	rs67158670	0	0	7.60E-05	1.00E-04	indel	2	0	Rare Single Gene Mutation	0
+WAF157	D5	S3	Schizophrenia	chr15_32449875_32449876_TG_-	CHRNA7	frameshift deletion	rs67158670	0	0	7.60E-05	1.00E-04	indel	2	0	Rare Single Gene Mutation	0
+S185	D643	S4	Schizophrenia	chr15_32449875_32449876_TG_-	CHRNA7	frameshift deletion	rs67158670	0	0	7.60E-05	1.00E-04	indel	2	0	Rare Single Gene Mutation	0
+W157	D4	S5	Schizophrenia	chr15_32449875_32449876_TG_-	CHRNA7	frameshift deletion	rs67158670	0	0	7.60E-05	1.00E-04	indel	2	0	Rare Single Gene Mutation	0
+17223	D1228	760	Addiction	chr8_42587207_42587207_C_T	CHRNB3	nonsynonymous SNV	rs768919509	6.53E-05	0	0	0	missense	2	0	Rare Single Gene Mutation	0
+14592	D111	760	BPAD	chr8_42587207_42587207_C_T	CHRNB3	nonsynonymous SNV	rs768919509	6.53E-05	0	0	0	missense	2	0	Rare Single Gene Mutation	0
+2580	D115	760	BPAD	chr8_42587207_42587207_C_T	CHRNB3	nonsynonymous SNV	rs768919509	6.53E-05	0	0	0	missense	2	0	Rare Single Gene Mutation	0
+17222	D1227	760	BPAD	chr8_42587207_42587207_C_T	CHRNB3	nonsynonymous SNV	rs768919509	6.53E-05	0	0	0	missense	2	0	Rare Single Gene Mutation	0
+16509	D899	760	BPAD	chr8_42587207_42587207_C_T	CHRNB3	nonsynonymous SNV	rs768919509	6.53E-05	0	0	0	missense	2	0	Rare Single Gene Mutation	0
+14516	D149	760	Familial_control	chr8_42587207_42587207_C_T	CHRNB3	nonsynonymous SNV	rs768919509	6.53E-05	0	0	0	missense	2	0	Rare Single Gene Mutation	0
+14594	D155	760	Familial_control	chr8_42587207_42587207_C_T	CHRNB3	nonsynonymous SNV	rs768919509	6.53E-05	0	0	0	missense	2	0	Rare Single Gene Mutation	0
+17224	D1229	760	Familial_control	chr8_42587207_42587207_C_T	CHRNB3	nonsynonymous SNV	rs768919509	6.53E-05	0	0	0	missense	2	0	Rare Single Gene Mutation	0
+12998	D72	319	BPAD	chr22_19175073_19175073_G_C	CLTCL1	stopgain	rs782482513	3.00E-04	0	2.90E-05	0	LOF	2	0	Rare Single Gene Mutation	0
+717	D646	36	Dementia	chr9_39149853_39149853_C_-	CNTNAP3	frameshift deletion	NotAvailable	0	0	1.00E-04	0	indel	2	0	"Rare Single Gene Mutation, Functional"	0
+14640	D161	72	Familial_control	chr9_39149853_39149853_C_-	CNTNAP3	frameshift deletion	NotAvailable	0	0	1.00E-04	0	indel	2	0	"Rare Single Gene Mutation, Functional"	0
+14639	D21	72	Familial_control	chr9_39149853_39149853_C_-	CNTNAP3	frameshift deletion	NotAvailable	0	0	1.00E-04	0	indel	2	0	"Rare Single Gene Mutation, Functional"	0
+2968	D315	167	Depression	chr9_39149853_39149853_C_-	CNTNAP3	frameshift deletion	NotAvailable	0	0	1.00E-04	0	indel	2	0	"Rare Single Gene Mutation, Functional"	0
+16341	D799	167	Familial_control	chr9_39149853_39149853_C_-	CNTNAP3	frameshift deletion	NotAvailable	0	0	1.00E-04	0	indel	2	0	"Rare Single Gene Mutation, Functional"	0
+17476	D1343	167	Familial_control	chr9_39149853_39149853_C_-	CNTNAP3	frameshift deletion	NotAvailable	0	0	1.00E-04	0	indel	2	0	"Rare Single Gene Mutation, Functional"	0
+14557	D59	195	Familial_control	chr9_39149853_39149853_C_-	CNTNAP3	frameshift deletion	NotAvailable	0	0	1.00E-04	0	indel	2	0	"Rare Single Gene Mutation, Functional"	0
+14545	D151	195	Familial_control	chr9_39149853_39149853_C_-	CNTNAP3	frameshift deletion	NotAvailable	0	0	1.00E-04	0	indel	2	0	"Rare Single Gene Mutation, Functional"	0
+5705	D103	518	BPAD	chr9_39149853_39149853_C_-	CNTNAP3	frameshift deletion	NotAvailable	0	0	1.00E-04	0	indel	2	0	"Rare Single Gene Mutation, Functional"	0
+14355	D95	518	Familial_control	chr9_39149853_39149853_C_-	CNTNAP3	frameshift deletion	NotAvailable	0	0	1.00E-04	0	indel	2	0	"Rare Single Gene Mutation, Functional"	0
+14516	D149	760	Familial_control	chr9_39149853_39149853_C_-	CNTNAP3	frameshift deletion	NotAvailable	0	0	1.00E-04	0	indel	2	0	"Rare Single Gene Mutation, Functional"	0
+14594	D155	760	Familial_control	chr9_39149853_39149853_C_-	CNTNAP3	frameshift deletion	NotAvailable	0	0	1.00E-04	0	indel	2	0	"Rare Single Gene Mutation, Functional"	0
+14382	D651	3681	Familial_control	chr9_39149853_39149853_C_-	CNTNAP3	frameshift deletion	NotAvailable	0	0	1.00E-04	0	indel	2	0	"Rare Single Gene Mutation, Functional"	0
+GNPC476	D1438	4348	population_control	chr9_39149853_39149853_C_-	CNTNAP3	frameshift deletion	NotAvailable	0	0	1.00E-04	0	indel	2	0	"Rare Single Gene Mutation, Functional"	0
+16275	D619	7862	Familial_control	chr9_39149853_39149853_C_-	CNTNAP3	frameshift deletion	NotAvailable	0	0	1.00E-04	0	indel	2	0	"Rare Single Gene Mutation, Functional"	0
+14634	D160	8356	Familial_control	chr9_39149853_39149853_C_-	CNTNAP3	frameshift deletion	NotAvailable	0	0	1.00E-04	0	indel	2	0	"Rare Single Gene Mutation, Functional"	0
+13241	D1427	8617	BPAD	chr9_39149853_39149853_C_-	CNTNAP3	frameshift deletion	NotAvailable	0	0	1.00E-04	0	indel	2	0	"Rare Single Gene Mutation, Functional"	0
+14361	D140	8889	Familial_control	chr9_39149853_39149853_C_-	CNTNAP3	frameshift deletion	NotAvailable	0	0	1.00E-04	0	indel	2	0	"Rare Single Gene Mutation, Functional"	0
+14629	D159	9067	Familial_control	chr9_39149853_39149853_C_-	CNTNAP3	frameshift deletion	NotAvailable	0	0	1.00E-04	0	indel	2	0	"Rare Single Gene Mutation, Functional"	0
+14627	D157	9067	Schizophrenia	chr9_39149853_39149853_C_-	CNTNAP3	frameshift deletion	NotAvailable	0	0	1.00E-04	0	indel	2	0	"Rare Single Gene Mutation, Functional"	0
+14892	D206	9780	Familial_control	chr9_39149853_39149853_C_-	CNTNAP3	frameshift deletion	NotAvailable	0	0	1.00E-04	0	indel	2	0	"Rare Single Gene Mutation, Functional"	0
+16166	D580	9780	Familial_control	chr9_39149853_39149853_C_-	CNTNAP3	frameshift deletion	NotAvailable	0	0	1.00E-04	0	indel	2	0	"Rare Single Gene Mutation, Functional"	0
+15468	D267	9975	Familial_control	chr9_39149853_39149853_C_-	CNTNAP3	frameshift deletion	NotAvailable	0	0	1.00E-04	0	indel	2	0	"Rare Single Gene Mutation, Functional"	0
+15416	D264	10061	Familial_control	chr9_39149853_39149853_C_-	CNTNAP3	frameshift deletion	NotAvailable	0	0	1.00E-04	0	indel	2	0	"Rare Single Gene Mutation, Functional"	0
+17578	D1396	10124	Familial_control	chr9_39149853_39149853_C_-	CNTNAP3	frameshift deletion	NotAvailable	0	0	1.00E-04	0	indel	2	0	"Rare Single Gene Mutation, Functional"	0
+16840	D1056	10198	Familial_control	chr9_39149853_39149853_C_-	CNTNAP3	frameshift deletion	NotAvailable	0	0	1.00E-04	0	indel	2	0	"Rare Single Gene Mutation, Functional"	0
+15744	D471	10237	Familial_control	chr9_39149853_39149853_C_-	CNTNAP3	frameshift deletion	NotAvailable	0	0	1.00E-04	0	indel	2	0	"Rare Single Gene Mutation, Functional"	0
+15745	D472	10237	Familial_control	chr9_39149853_39149853_C_-	CNTNAP3	frameshift deletion	NotAvailable	0	0	1.00E-04	0	indel	2	0	"Rare Single Gene Mutation, Functional"	0
+16470	D868	10449	Familial_control	chr9_39149853_39149853_C_-	CNTNAP3	frameshift deletion	NotAvailable	0	0	1.00E-04	0	indel	2	0	"Rare Single Gene Mutation, Functional"	0
+16798	D1043	10487	Familial_control	chr9_39149853_39149853_C_-	CNTNAP3	frameshift deletion	NotAvailable	0	0	1.00E-04	0	indel	2	0	"Rare Single Gene Mutation, Functional"	0
+16332	D790	10496	Familial_control	chr9_39149853_39149853_C_-	CNTNAP3	frameshift deletion	NotAvailable	0	0	1.00E-04	0	indel	2	0	"Rare Single Gene Mutation, Functional"	0
+16426	D830	10530	Familial_control	chr9_39149853_39149853_C_-	CNTNAP3	frameshift deletion	NotAvailable	0	0	1.00E-04	0	indel	2	0	"Rare Single Gene Mutation, Functional"	0
+16427	D831	10530	Familial_control	chr9_39149853_39149853_C_-	CNTNAP3	frameshift deletion	NotAvailable	0	0	1.00E-04	0	indel	2	0	"Rare Single Gene Mutation, Functional"	0
+16428	D832	10530	Schizophrenia	chr9_39149853_39149853_C_-	CNTNAP3	frameshift deletion	NotAvailable	0	0	1.00E-04	0	indel	2	0	"Rare Single Gene Mutation, Functional"	0
+16438	D841	10534	Familial_control	chr9_39149853_39149853_C_-	CNTNAP3	frameshift deletion	NotAvailable	0	0	1.00E-04	0	indel	2	0	"Rare Single Gene Mutation, Functional"	0
+16443	D846	10535	Familial_control	chr9_39149853_39149853_C_-	CNTNAP3	frameshift deletion	NotAvailable	0	0	1.00E-04	0	indel	2	0	"Rare Single Gene Mutation, Functional"	0
+17590	D1407	11022	Familial_control	chr9_39149853_39149853_C_-	CNTNAP3	frameshift deletion	NotAvailable	0	0	1.00E-04	0	indel	2	0	"Rare Single Gene Mutation, Functional"	0
+17589	D1406	11022	Schizophrenia	chr9_39149853_39149853_C_-	CNTNAP3	frameshift deletion	NotAvailable	0	0	1.00E-04	0	indel	2	0	"Rare Single Gene Mutation, Functional"	0
+GNPC390	D1436	g134	population_control	chr9_39149853_39149853_C_-	CNTNAP3	frameshift deletion	NotAvailable	0	0	1.00E-04	0	indel	2	0	"Rare Single Gene Mutation, Functional"	0
+GNPC343	D1435	g184	population_control	chr9_39149853_39149853_C_-	CNTNAP3	frameshift deletion	NotAvailable	0	0	1.00E-04	0	indel	2	0	"Rare Single Gene Mutation, Functional"	0
+GNPC559	D1439	g304	population_control	chr9_39149853_39149853_C_-	CNTNAP3	frameshift deletion	NotAvailable	0	0	1.00E-04	0	indel	2	0	"Rare Single Gene Mutation, Functional"	0
+GNPC570	D1440	g315	population_control	chr9_39149853_39149853_C_-	CNTNAP3	frameshift deletion	NotAvailable	0	0	1.00E-04	0	indel	2	0	"Rare Single Gene Mutation, Functional"	0
+GNPC609	D1441	g352	population_control	chr9_39149853_39149853_C_-	CNTNAP3	frameshift deletion	NotAvailable	0	0	1.00E-04	0	indel	2	0	"Rare Single Gene Mutation, Functional"	0
+GNPC101	D1432	g46	population_control	chr9_39149853_39149853_C_-	CNTNAP3	frameshift deletion	NotAvailable	0	0	1.00E-04	0	indel	2	0	"Rare Single Gene Mutation, Functional"	0
+GNPC127	D1433	g72	population_control	chr9_39149853_39149853_C_-	CNTNAP3	frameshift deletion	NotAvailable	0	0	1.00E-04	0	indel	2	0	"Rare Single Gene Mutation, Functional"	0
+GNPC420	D1437	g84	population_control	chr9_39149853_39149853_C_-	CNTNAP3	frameshift deletion	NotAvailable	0	0	1.00E-04	0	indel	2	0	"Rare Single Gene Mutation, Functional"	0
+GNPC264	D1434	g95	population_control	chr9_39149853_39149853_C_-	CNTNAP3	frameshift deletion	NotAvailable	0	0	1.00E-04	0	indel	2	0	"Rare Single Gene Mutation, Functional"	0
+17202	D1223	9913	Schizophrenia	chr16_76389281_76389281_G_A	CNTNAP4	nonsynonymous SNV	rs532410036	4.00E-04	0	8.86E-05	0	missense	2	0	"Rare Single Gene Mutation, Functional"	0
+1142	D666	535	BPAD	chr7_7457552_7457553_TA_-	COL28A1	frameshift deletion	rs767220062	0.001	0	0	0	indel	2	0	Rare Single Gene Mutation	0
+12838	D710	825	BPAD	chr7_7483281_7483281_C_T	COL28A1	nonsynonymous SNV	rs768670774	0	0	0	2.00E-04	missense	2	0	Rare Single Gene Mutation	0
+2301	D727	961	Schizophrenia	chr7_7457552_7457553_TA_-	COL28A1	frameshift deletion	rs767220062	0.001	0	0	0	indel	2	0	Rare Single Gene Mutation	0
+2299	D729	961	Schizophrenia	chr7_7457552_7457553_TA_-	COL28A1	frameshift deletion	rs767220062	0.001	0	0	0	indel	2	0	Rare Single Gene Mutation	0
+2298	D728	961	Schizophrenia	chr7_7457552_7457553_TA_-	COL28A1	frameshift deletion	rs767220062	0.001	0	0	0	indel	2	0	Rare Single Gene Mutation	0
+ICNBSX306	NotAvailable	gg7	population_control	chr1_53662743_53662743_T_C	CPT2	nonsynonymous SNV	rs766740182	8.85E-05	0	0	0	missense	2	0	Rare Single Gene Mutation	0
+GNPC343	D1435	g184	population_control	chr4_8613823_8613823_T_G	CPZ	nonsynonymous SNV	rs538387375	3.28E-05	0	0	0	missense	2	0	Rare Single Gene Mutation	0
+14592	D111	760	BPAD	chr16_3778906_3778906_C_T	CREBBP	nonsynonymous SNV	rs771638045	3.28E-05	0	0	5.66E-05	missense	1	0	"Rare Single Gene Mutation, Syndromic, Genetic Association"	31.35
+17588	D1405	11022	Schizophrenia	chr16_3820885_3820885_T_C	CREBBP	nonsynonymous SNV	rs373531233	0	0	2.89E-05	0	missense	1	0	"Rare Single Gene Mutation, Syndromic, Genetic Association"	31.35
+17589	D1406	11022	Schizophrenia	chr16_3820885_3820885_T_C	CREBBP	nonsynonymous SNV	rs373531233	0	0	2.89E-05	0	missense	1	0	"Rare Single Gene Mutation, Syndromic, Genetic Association"	31.35
+17202	D1223	9913	Schizophrenia	chr5_11159743_11159743_G_A	CTNND2	nonsynonymous SNV	rs753918436	6.57E-05	0	0	0	missense	2	0	"Rare Single Gene Mutation, Functional"	0
+15503	D275	10124	Addiction	chr6_43018723_43018723_C_T	CUL7	nonsynonymous SNV	rs752434919	0	0	2.89E-05	0	missense	2	0	Rare Single Gene Mutation	0
+15501	D273	10124	Addiction	chr6_43018723_43018723_C_T	CUL7	nonsynonymous SNV	rs752434919	0	0	2.89E-05	0	missense	2	0	Rare Single Gene Mutation	0
+15502	D274	10124	Addiction	chr6_43018723_43018723_C_T	CUL7	nonsynonymous SNV	rs752434919	0	0	2.89E-05	0	missense	2	0	Rare Single Gene Mutation	0
+2301	D727	961	Schizophrenia	chr12_111779749_111779749_G_A	CUX2	nonsynonymous SNV	rs747760741	0	0	2.90E-05	5.56E-05	missense	2	1	"Rare Single Gene Mutation, Syndromic"	0
+2299	D729	961	Schizophrenia	chr12_111779749_111779749_G_A	CUX2	nonsynonymous SNV	rs747760741	0	0	2.90E-05	5.56E-05	missense	2	1	"Rare Single Gene Mutation, Syndromic"	0
+2099	D716	885	Schizophrenia	chr2_219679440_219679440_G_A	CYP27A1	nonsynonymous SNV	rs199638075	2.00E-04	6.23E-05	2.00E-04	1.00E-04	missense	0	1	"Rare Single Gene Mutation, Syndromic"	0
+15099	D231	9877	Addiction	chr2_219678754_219678754_C_T	CYP27A1	nonsynonymous SNV	rs372194079	6.53E-05	6.15E-05	5.00E-04	5.44E-05	missense	0	1	"Rare Single Gene Mutation, Syndromic"	0
+16535	D917	9877	Familial_control	chr2_219678754_219678754_C_T	CYP27A1	nonsynonymous SNV	rs372194079	6.53E-05	6.15E-05	5.00E-04	5.44E-05	missense	0	1	"Rare Single Gene Mutation, Syndromic"	0
+15713	D338	10248	Familial_control	chr11_71146444_71146444_G_A	DHCR7	nonsynonymous SNV	rs148660993	0	1.00E-04	0	0	missense	1	0	"Rare Single Gene Mutation, Syndromic"	0
+14894	D336	9773	Schizophrenia	chr6_170594425_170594425_G_A	DLL1	nonsynonymous SNV	rs199820107	6.53E-05	0	1.00E-04	5.44E-05	missense	2	1	"Rare Single Gene Mutation, Syndromic"	0
+GNPC390	D1436	g134	population_control	chr6_170592117_170592117_C_T	DLL1	nonsynonymous SNV	rs558852722	0.001	0	0	0	missense	2	1	"Rare Single Gene Mutation, Syndromic"	0
+15713	D338	10248	Familial_control	chr12_124399469_124399469_C_T	DNAH10	nonsynonymous SNV	rs558787392	6.60E-05	0	2.92E-05	0	missense	2	0	Rare Single Gene Mutation	0
+14159	D143	8890	Schizophrenia	chr16_20999070_20999070_C_T	DNAH3	nonsynonymous SNV	rs146276233	6.53E-05	6.15E-05	2.89E-05	0.0118	missense	2	0	Rare Single Gene Mutation	0
+17578	D1396	10124	Familial_control	chr16_21035992_21035992_G_T	DNAH3	nonsynonymous SNV	rs367961280	4.00E-04	0	0	0	missense	2	0	Rare Single Gene Mutation	0
+ICNBSX332	NotAvailable	gg33	population_control	chr16_20975173_20975173_G_A	DNAH3	nonsynonymous SNV	rs373258094	3.27E-05	0	0	0	missense	2	0	Rare Single Gene Mutation	0
+ICNBSX333	NotAvailable	gg34	population_control	chr16_20975173_20975173_G_A	DNAH3	nonsynonymous SNV	rs373258094	3.27E-05	0	0	0	missense	2	0	Rare Single Gene Mutation	0
+GNPC343	D1435	g184	population_control	chr10_128796487_128796487_-_G	DOCK1	frameshift insertion	rs768625958	3.00E-04	0	0	0	indel	2	0	Rare Single Gene Mutation	0
+GNPC343	D1435	g184	population_control	chr10_128796490_128796493_CCCT_-	DOCK1	frameshift deletion	rs774239244	3.00E-04	0	0	0	indel	2	0	Rare Single Gene Mutation	0
+GNPC127	D1433	g72	population_control	chr10_128797685_128797685_C_T	DOCK1	stopgain	NotAvailable	0	0	0	0	LOF	2	0	Rare Single Gene Mutation	0
+12995	D711	825	BPAD	chr1_98058883_98058883_G_A	DPYD	nonsynonymous SNV	NotAvailable	3.27E-05	0	0	0	missense	2	0	"Rare Single Gene Mutation, Syndromic, Genetic Association"	0
+15468	D267	9975	Familial_control	chr1_98348879_98348879_T_C	DPYD	nonsynonymous SNV	rs768501828	0	0	0	0	missense	2	0	"Rare Single Gene Mutation, Syndromic, Genetic Association"	0
+15274	D249	9975	OCD	chr1_98348879_98348879_T_C	DPYD	nonsynonymous SNV	rs768501828	0	0	0	0	missense	2	0	"Rare Single Gene Mutation, Syndromic, Genetic Association"	0
+15298	D250	9975	OCD	chr1_98348879_98348879_T_C	DPYD	nonsynonymous SNV	rs768501828	0	0	0	0	missense	2	0	"Rare Single Gene Mutation, Syndromic, Genetic Association"	0
+15743	D470	10237	BPAD	chr21_41725499_41725499_G_A	DSCAM	nonsynonymous SNV	rs752670424	3.31E-05	1.00E-04	0	0	missense	1	0	"Rare Single Gene Mutation, Genetic Association, Functional"	13.5
+15746	D473	10237	Familial_control	chr21_41725499_41725499_G_A	DSCAM	nonsynonymous SNV	rs752670424	3.31E-05	1.00E-04	0	0	missense	1	0	"Rare Single Gene Mutation, Genetic Association, Functional"	13.5
+ICNBSX313	NotAvailable	gg14	population_control	chr21_41741083_41741083_G_A	DSCAM	nonsynonymous SNV	rs201979167	0	6.47E-05	2.94E-05	5.57E-05	missense	1	0	"Rare Single Gene Mutation, Genetic Association, Functional"	13.5
+1267	D684	583	BPAD	chr22_41489037_41489037_C_G	EP300	nonsynonymous SNV	rs764405219	2.00E-04	0	0	0	missense	1	0	"Rare Single Gene Mutation, Syndromic"	0
+1263	D681	583	Familial_control	chr22_41489037_41489037_C_G	EP300	nonsynonymous SNV	rs764405219	2.00E-04	0	0	0	missense	1	0	"Rare Single Gene Mutation, Syndromic"	0
+4538	D638	275	Familial_control	chr12_132512003_132512003_C_T	EP400	nonsynonymous SNV	NotAvailable	0	0	0	0	missense	2	0	Rare Single Gene Mutation	0
+GNPC264	D1434	g95	population_control	chr12_132446098_132446098_G_A	EP400	nonsynonymous SNV	rs751629332	8.00E-04	0	0	3.00E-04	missense	2	0	Rare Single Gene Mutation	0
+1235	D673	573	BPAD	chr7_143091938_143091938_C_T	EPHA1	nonsynonymous SNV	rs550789024	5.00E-04	0	0	0	missense	2	0	Rare Single Gene Mutation	0
+14545	D151	195	Familial_control	chr3_134825359_134825359_G_A	EPHB1	nonsynonymous SNV	rs761687482	5.00E-04	0	0	2.00E-04	missense	3	0	Rare Single Gene Mutation	0
+78	D48	190	BPAD	chr1_23240208_23240208_C_T	EPHB2	stopgain	rs375096051	2.00E-04	5.00E-04	3.20E-05	0.0042	LOF	2	0	Rare Single Gene Mutation	0
+1832	D1430	771	BPAD	chr8_144941696_144941696_-_C	EPPK1	frameshift insertion	rs545377325	8.00E-04	6.58E-05	0	5.57E-05	indel	2	0	Rare Single Gene Mutation	0
+14634	D160	8356	Familial_control	chr5_65321695_65321695_C_A	ERBIN	nonsynonymous SNV	rs148121803	8.20E-05	0	0	0	missense	2	0	Rare Single Gene Mutation	0
+1258	D678	580	BPAD	chr19_51848527_51848527_C_T	ETFB	nonsynonymous SNV	rs375326450	3.00E-04	6.15E-05	5.78E-05	0	missense	2	0	Rare Single Gene Mutation	0
+1253	D675	580	Schizophrenia	chr19_51848527_51848527_C_T	ETFB	nonsynonymous SNV	rs375326450	3.00E-04	6.15E-05	5.78E-05	0	missense	2	0	Rare Single Gene Mutation	0
+ICNBSX302	NotAvailable	gg3	population_control	chr19_51848527_51848527_C_T	ETFB	nonsynonymous SNV	rs375326450	3.00E-04	6.15E-05	5.78E-05	0	missense	2	0	Rare Single Gene Mutation	0
+ICNBSX303	NotAvailable	gg4	population_control	chr19_51848527_51848527_C_T	ETFB	nonsynonymous SNV	rs375326450	3.00E-04	6.15E-05	5.78E-05	0	missense	2	0	Rare Single Gene Mutation	0
+1684	D696	712	Schizophrenia	chr19_38897643_38897643_C_T	FAM98C	stopgain	rs201037487	5.00E-04	0	0	0.0011	LOF	2	0	Rare Single Gene Mutation	0
+16302	D766	10487	BPAD	chr15_31222813_31222813_G_A	FAN1	nonsynonymous SNV	rs557866501	2.00E-04	0	0	0	missense	2	0	"Rare Single Gene Mutation, Genetic Association, Functional"	0
+16798	D1043	10487	Familial_control	chr15_31222813_31222813_G_A	FAN1	nonsynonymous SNV	rs557866501	2.00E-04	0	0	0	missense	2	0	"Rare Single Gene Mutation, Genetic Association, Functional"	0
+ICNBSX336	NotAvailable	gg37	population_control	chr15_31214473_31214473_G_C	FAN1	nonsynonymous SNV	rs574197731	5.00E-04	0	0	0	missense	2	0	"Rare Single Gene Mutation, Genetic Association, Functional"	0
+548	D642	280	BPAD	chr4_187549707_187549707_C_T	FAT1	nonsynonymous SNV	rs377067763	3.27E-05	6.46E-05	0	0	missense	2	0	"Rare Single Gene Mutation, Functional"	0
+547	D641	280	BPAD	chr4_187549707_187549707_C_T	FAT1	nonsynonymous SNV	rs377067763	3.27E-05	6.46E-05	0	0	missense	2	0	"Rare Single Gene Mutation, Functional"	0
+1802	D705	764	Schizophrenia	chr4_187627847_187627847_T_A	FAT1	nonsynonymous SNV	rs776597631	6.54E-05	0	0	0	missense	2	0	"Rare Single Gene Mutation, Functional"	0
+1833	D706	764	Schizophrenia	chr4_187627847_187627847_T_A	FAT1	nonsynonymous SNV	rs776597631	6.54E-05	0	0	0	missense	2	0	"Rare Single Gene Mutation, Functional"	0
+ICNBSX320	NotAvailable	gg21	population_control	chr4_187539482_187539482_A_G	FAT1	nonsynonymous SNV	rs752527804	6.54E-05	0	0	0	missense	2	0	"Rare Single Gene Mutation, Functional"	0
+ICNBSX323	NotAvailable	gg24	population_control	chr4_187539482_187539482_A_G	FAT1	nonsynonymous SNV	rs752527804	6.54E-05	0	0	0	missense	2	0	"Rare Single Gene Mutation, Functional"	0
+2446	D627	1028	BPAD	chr15_48737674_48737674_C_T	FBN1	nonsynonymous SNV	rs752367915	6.53E-05	0	0	0	missense	2	0	Rare Single Gene Mutation	0
+16275	D619	7862	Familial_control	chr15_48718056_48718056_C_T	FBN1	nonsynonymous SNV	rs530059069	3.00E-04	0	5.79E-05	5.44E-05	missense	2	0	Rare Single Gene Mutation	0
+16726	D998	7862	Familial_control	chr15_48718056_48718056_C_T	FBN1	nonsynonymous SNV	rs530059069	3.00E-04	0	5.79E-05	5.44E-05	missense	2	0	Rare Single Gene Mutation	0
+16273	D617	7862	OCD	chr15_48718056_48718056_C_T	FBN1	nonsynonymous SNV	rs530059069	3.00E-04	0	5.79E-05	5.44E-05	missense	2	0	Rare Single Gene Mutation	0
+16428	D832	10530	Schizophrenia	chr15_48737674_48737674_C_T	FBN1	nonsynonymous SNV	rs752367915	6.53E-05	0	0	0	missense	2	0	Rare Single Gene Mutation	0
+16443	D846	10535	Familial_control	chr15_48764807_48764807_C_G	FBN1	nonsynonymous SNV	rs531751210	2.00E-04	0	0	0	missense	2	0	Rare Single Gene Mutation	0
+16331	D789	10496	Addiction	chr3_71102918_71102918_C_G	FOXP1	nonsynonymous SNV	rs148369068	3.27E-05	0	0	0	missense	1	0	"Rare Single Gene Mutation, Syndromic, Genetic Association, Functional"	60.45
+16332	D790	10496	Familial_control	chr3_71102918_71102918_C_G	FOXP1	nonsynonymous SNV	rs148369068	3.27E-05	0	0	0	missense	1	0	"Rare Single Gene Mutation, Syndromic, Genetic Association, Functional"	60.45
+14545	D151	195	Familial_control	chr4_190878562_190878562_G_C	FRG1	nonsynonymous SNV	rs759965642	2.00E-04	0.0232	2.00E-04	2.00E-04	missense	2	0	Rare Single Gene Mutation	0
+4538	D638	275	Familial_control	chr4_190884267_190884267_G_A	FRG1	nonsynonymous SNV	rs373037319	0	6.18E-05	0	5.48E-05	missense	2	0	Rare Single Gene Mutation	0
+14516	D149	760	Familial_control	chr4_190878562_190878562_G_C	FRG1	nonsynonymous SNV	rs759965642	2.00E-04	0.0232	2.00E-04	2.00E-04	missense	2	0	Rare Single Gene Mutation	0
+14594	D155	760	Familial_control	chr4_190878562_190878562_G_C	FRG1	nonsynonymous SNV	rs759965642	2.00E-04	0.0232	2.00E-04	2.00E-04	missense	2	0	Rare Single Gene Mutation	0
+14382	D651	3681	Familial_control	chr4_190878562_190878562_G_C	FRG1	nonsynonymous SNV	rs759965642	2.00E-04	0.0232	2.00E-04	2.00E-04	missense	2	0	Rare Single Gene Mutation	0
+14634	D160	8356	Familial_control	chr4_190878562_190878562_G_C	FRG1	nonsynonymous SNV	rs759965642	2.00E-04	0.0232	2.00E-04	2.00E-04	missense	2	0	Rare Single Gene Mutation	0
+16840	D1056	10198	Familial_control	chr4_190878562_190878562_G_C	FRG1	nonsynonymous SNV	rs759965642	2.00E-04	0.0232	2.00E-04	2.00E-04	missense	2	0	Rare Single Gene Mutation	0
+15744	D471	10237	Familial_control	chr4_190878622_190878622_A_T	FRG1	stopgain	rs768193505	0	0	0	0	LOF	2	0	Rare Single Gene Mutation	0
+16798	D1043	10487	Familial_control	chr4_190878562_190878562_G_C	FRG1	nonsynonymous SNV	rs759965642	2.00E-04	0.0232	2.00E-04	2.00E-04	missense	2	0	Rare Single Gene Mutation	0
+16427	D831	10530	Familial_control	chr4_190876277_190876277_A_T	FRG1	stopgain	rs765983424	0	0	0	0	LOF	2	0	Rare Single Gene Mutation	0
+16428	D832	10530	Schizophrenia	chr4_190876277_190876277_A_T	FRG1	stopgain	rs765983424	0	0	0	0	LOF	2	0	Rare Single Gene Mutation	0
+GNPC559	D1439	g304	population_control	chr4_190878562_190878562_G_C	FRG1	nonsynonymous SNV	rs759965642	2.00E-04	0.0232	2.00E-04	2.00E-04	missense	2	0	Rare Single Gene Mutation	0
+ICNBSX332	NotAvailable	gg33	population_control	chr4_190883080_190883080_C_A	FRG1	nonsynonymous SNV	rs777434347	0	2.00E-04	7.53E-05	0	missense	2	0	Rare Single Gene Mutation	0
+ICNBSX332	NotAvailable	gg33	population_control	chr4_190883081_190883081_T_G	FRG1	nonsynonymous SNV	rs753433043	0	2.00E-04	3.87E-05	0	missense	2	0	Rare Single Gene Mutation	0
+ICNBSX346	NotAvailable	gg47	population_control	chr4_190883080_190883080_C_A	FRG1	nonsynonymous SNV	rs777434347	0	2.00E-04	7.53E-05	0	missense	2	0	Rare Single Gene Mutation	0
+ICNBSX346	NotAvailable	gg47	population_control	chr4_190883081_190883081_T_G	FRG1	nonsynonymous SNV	rs753433043	0	2.00E-04	3.87E-05	0	missense	2	0	Rare Single Gene Mutation	0
+16331	D789	10496	Addiction	chr6_116265538_116265538_G_A	FRK	stopgain	rs777256878	2.00E-04	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+1750	D698	737	Schizophrenia	chrX_151424446_151424446_G_A	GABRA3	nonsynonymous SNV	rs750973085	0	0	0	0	missense	0	1	Rare Single Gene Mutation	0
+12995	D711	825	BPAD	chr7_100283691_100283691_C_G	GIGYF1	nonsynonymous SNV	rs368712084	2.00E-04	0	0	2.00E-04	missense	1	0	Rare Single Gene Mutation	17.25
+12838	D710	825	BPAD	chr7_100283691_100283691_C_G	GIGYF1	nonsynonymous SNV	rs368712084	2.00E-04	0	0	2.00E-04	missense	1	0	Rare Single Gene Mutation	17.25
+15775	D375	9860	Familial_control	chr1_54059905_54059905_C_T	GLIS1	nonsynonymous SNV	rs761232530	0	6.17E-05	3.00E-04	0	missense	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+15772	D372	9860	OCD	chr1_54059905_54059905_C_T	GLIS1	nonsynonymous SNV	rs761232530	0	6.17E-05	3.00E-04	0	missense	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+2446	D627	1028	BPAD	chr20_57429867_57429867_C_T	GNAS	stopgain	NotAvailable	0	0	0	0	LOF	2	0	Rare Single Gene Mutation	0
+ICNBSX327	NotAvailable	gg28	population_control	chr22_19808830_19808830_G_A	GNB1L	stopgain	rs1026246637	0	0	5.79E-05	5.45E-05	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+17578	D1396	10124	Familial_control	chr14_67576899_67576899_A_G	GPHN	nonsynonymous SNV	rs776988756	3.00E-04	0	0	0	missense	2	0	Rare Single Gene Mutation	0
+ICNBSX339	NotAvailable	gg40	population_control	chr5_153026675_153026675_C_G	GRIA1	nonsynonymous SNV	rs764610021	5.00E-04	0	0	0	missense	2	0	"Rare Single Gene Mutation, Syndromic"	0
+ICNBSX340	NotAvailable	gg41	population_control	chr5_153026675_153026675_C_G	GRIA1	nonsynonymous SNV	rs764610021	5.00E-04	0	0	0	missense	2	0	"Rare Single Gene Mutation, Syndromic"	0
+14361	D140	8889	Familial_control	chr4_94316758_94316758_C_A	GRID2	nonsynonymous SNV	rs765486654	3.28E-05	0	0	0	missense	2	0	"Rare Single Gene Mutation, Syndromic, Genetic Association"	0
+14264	D139	8889	Schizophrenia	chr4_94316758_94316758_C_A	GRID2	nonsynonymous SNV	rs765486654	3.28E-05	0	0	0	missense	2	0	"Rare Single Gene Mutation, Syndromic, Genetic Association"	0
+1832	D1430	771	BPAD	chr1_37325497_37325497_C_T	GRIK3	nonsynonymous SNV	rs558095977	3.00E-04	0	0	5.44E-05	missense	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+14498	D148	5069	Familial_control	chr4_2986250_2986250_-_A	GRK4	frameshift insertion	rs780241596	9.00E-04	6.19E-05	3.00E-04	5.50E-05	indel	2	0	"Rare Single Gene Mutation, Functional"	0
+9033	D125	5069	Schizophrenia	chr4_2986250_2986250_-_A	GRK4	frameshift insertion	rs780241596	9.00E-04	6.19E-05	3.00E-04	5.50E-05	indel	2	0	"Rare Single Gene Mutation, Functional"	0
+GNPC476	D1438	4348	population_control	chr11_88583287_88583287_T_C	GRM5	nonsynonymous SNV	NotAvailable	0	0	0	0	missense	2	0	"Rare Single Gene Mutation, Genetic Association, Functional"	0
+16840	D1056	10198	Familial_control	chr11_88300969_88300969_C_T	GRM5	nonsynonymous SNV	rs771258481	0	0	2.89E-05	0	missense	2	0	"Rare Single Gene Mutation, Genetic Association, Functional"	0
+15626	D300	10198	Schizophrenia	chr11_88300969_88300969_C_T	GRM5	nonsynonymous SNV	rs771258481	0	0	2.89E-05	0	missense	2	0	"Rare Single Gene Mutation, Genetic Association, Functional"	0
+1432	D687	629	Schizophrenia	chr2_197135972_197135972_T_C	HECW2	nonsynonymous SNV	rs377305091	9.80E-05	0	0	0	missense	2	0	"Rare Single Gene Mutation, Syndromic"	0
+1337	D64	195	Familial_control	chr15_63924926_63924926_C_T	HERC1	nonsynonymous SNV	rs755292840	5.00E-04	0	0	0	missense	2	1	"Rare Single Gene Mutation, Syndromic, Functional"	0
+16340	D798	167	Familial_control	chr15_28483865_28483865_G_A	HERC2	nonsynonymous SNV	rs74898827	6.00E-04	0.0242	3.00E-04	4.00E-04	missense	0	1	Rare Single Gene Mutation	0
+16341	D799	167	Familial_control	chr15_28483865_28483865_G_A	HERC2	nonsynonymous SNV	rs74898827	6.00E-04	0.0242	3.00E-04	4.00E-04	missense	0	1	Rare Single Gene Mutation	0
+16342	D800	167	Familial_control	chr15_28483865_28483865_G_A	HERC2	nonsynonymous SNV	rs74898827	6.00E-04	0.0242	3.00E-04	4.00E-04	missense	0	1	Rare Single Gene Mutation	0
+14557	D59	195	Familial_control	chr15_28483865_28483865_G_A	HERC2	nonsynonymous SNV	rs74898827	6.00E-04	0.0242	3.00E-04	4.00E-04	missense	0	1	Rare Single Gene Mutation	0
+1337	D64	195	Familial_control	chr15_28483865_28483865_G_A	HERC2	nonsynonymous SNV	rs74898827	6.00E-04	0.0242	3.00E-04	4.00E-04	missense	0	1	Rare Single Gene Mutation	0
+14355	D95	518	Familial_control	chr15_28483865_28483865_G_A	HERC2	nonsynonymous SNV	rs74898827	6.00E-04	0.0242	3.00E-04	4.00E-04	missense	0	1	Rare Single Gene Mutation	0
+16751	D1012	518	Familial_control	chr15_28483865_28483865_G_A	HERC2	nonsynonymous SNV	rs74898827	6.00E-04	0.0242	3.00E-04	4.00E-04	missense	0	1	Rare Single Gene Mutation	0
+14516	D149	760	Familial_control	chr15_28479308_28479308_G_A	HERC2	stopgain	rs575492335	0	2.00E-04	0	8.00E-04	LOF	0	1	Rare Single Gene Mutation	0
+14594	D155	760	Familial_control	chr15_28483865_28483865_G_A	HERC2	nonsynonymous SNV	rs74898827	6.00E-04	0.0242	3.00E-04	4.00E-04	missense	0	1	Rare Single Gene Mutation	0
+17224	D1229	760	Familial_control	chr15_28483865_28483865_G_A	HERC2	nonsynonymous SNV	rs74898827	6.00E-04	0.0242	3.00E-04	4.00E-04	missense	0	1	Rare Single Gene Mutation	0
+17224	D1229	760	Familial_control	chr15_28479308_28479308_G_A	HERC2	stopgain	rs575492335	0	2.00E-04	0	8.00E-04	LOF	0	1	Rare Single Gene Mutation	0
+12838	D710	825	BPAD	chr15_28479308_28479308_G_A	HERC2	stopgain	rs575492335	0	2.00E-04	0	8.00E-04	LOF	0	1	Rare Single Gene Mutation	0
+14382	D651	3681	Familial_control	chr15_28479308_28479308_G_A	HERC2	stopgain	rs575492335	0	2.00E-04	0	8.00E-04	LOF	0	1	Rare Single Gene Mutation	0
+GNPC476	D1438	4348	population_control	chr15_28479308_28479308_G_A	HERC2	stopgain	rs575492335	0	2.00E-04	0	8.00E-04	LOF	0	1	Rare Single Gene Mutation	0
+14498	D148	5069	Familial_control	chr15_28483865_28483865_G_A	HERC2	nonsynonymous SNV	rs74898827	6.00E-04	0.0242	3.00E-04	4.00E-04	missense	0	1	Rare Single Gene Mutation	0
+16275	D619	7862	Familial_control	chr15_28483865_28483865_G_A	HERC2	nonsynonymous SNV	rs74898827	6.00E-04	0.0242	3.00E-04	4.00E-04	missense	0	1	Rare Single Gene Mutation	0
+16726	D998	7862	Familial_control	chr15_28483865_28483865_G_A	HERC2	nonsynonymous SNV	rs74898827	6.00E-04	0.0242	3.00E-04	4.00E-04	missense	0	1	Rare Single Gene Mutation	0
+14634	D160	8356	Familial_control	chr15_28479308_28479308_G_A	HERC2	stopgain	rs575492335	0	2.00E-04	0	8.00E-04	LOF	0	1	Rare Single Gene Mutation	0
+14629	D159	9067	Familial_control	chr15_28479308_28479308_G_A	HERC2	stopgain	rs575492335	0	2.00E-04	0	8.00E-04	LOF	0	1	Rare Single Gene Mutation	0
+14892	D206	9780	Familial_control	chr15_28483865_28483865_G_A	HERC2	nonsynonymous SNV	rs74898827	6.00E-04	0.0242	3.00E-04	4.00E-04	missense	0	1	Rare Single Gene Mutation	0
+16166	D580	9780	Familial_control	chr15_28483865_28483865_G_A	HERC2	nonsynonymous SNV	rs74898827	6.00E-04	0.0242	3.00E-04	4.00E-04	missense	0	1	Rare Single Gene Mutation	0
+15064	D228	9829	Familial_control	chr15_28483865_28483865_G_A	HERC2	nonsynonymous SNV	rs74898827	6.00E-04	0.0242	3.00E-04	4.00E-04	missense	0	1	Rare Single Gene Mutation	0
+16610	D948	9829	Familial_control	chr15_28483865_28483865_G_A	HERC2	nonsynonymous SNV	rs74898827	6.00E-04	0.0242	3.00E-04	4.00E-04	missense	0	1	Rare Single Gene Mutation	0
+15775	D375	9860	Familial_control	chr15_28483865_28483865_G_A	HERC2	nonsynonymous SNV	rs74898827	6.00E-04	0.0242	3.00E-04	4.00E-04	missense	0	1	Rare Single Gene Mutation	0
+15468	D267	9975	Familial_control	chr15_28483865_28483865_G_A	HERC2	nonsynonymous SNV	rs74898827	6.00E-04	0.0242	3.00E-04	4.00E-04	missense	0	1	Rare Single Gene Mutation	0
+15468	D267	9975	Familial_control	chr15_28479308_28479308_G_A	HERC2	stopgain	rs575492335	0	2.00E-04	0	8.00E-04	LOF	0	1	Rare Single Gene Mutation	0
+15416	D264	10061	Familial_control	chr15_28483865_28483865_G_A	HERC2	nonsynonymous SNV	rs74898827	6.00E-04	0.0242	3.00E-04	4.00E-04	missense	0	1	Rare Single Gene Mutation	0
+17578	D1396	10124	Familial_control	chr15_28483865_28483865_G_A	HERC2	nonsynonymous SNV	rs74898827	6.00E-04	0.0242	3.00E-04	4.00E-04	missense	0	1	Rare Single Gene Mutation	0
+16840	D1056	10198	Familial_control	chr15_28483865_28483865_G_A	HERC2	nonsynonymous SNV	rs74898827	6.00E-04	0.0242	3.00E-04	4.00E-04	missense	0	1	Rare Single Gene Mutation	0
+15747	D474	10237	Familial_control	chr15_28483865_28483865_G_A	HERC2	nonsynonymous SNV	rs74898827	6.00E-04	0.0242	3.00E-04	4.00E-04	missense	0	1	Rare Single Gene Mutation	0
+15691	D328	10237	Familial_control	chr15_28483865_28483865_G_A	HERC2	nonsynonymous SNV	rs74898827	6.00E-04	0.0242	3.00E-04	4.00E-04	missense	0	1	Rare Single Gene Mutation	0
+15744	D471	10237	Familial_control	chr15_28483865_28483865_G_A	HERC2	nonsynonymous SNV	rs74898827	6.00E-04	0.0242	3.00E-04	4.00E-04	missense	0	1	Rare Single Gene Mutation	0
+15745	D472	10237	Familial_control	chr15_28483865_28483865_G_A	HERC2	nonsynonymous SNV	rs74898827	6.00E-04	0.0242	3.00E-04	4.00E-04	missense	0	1	Rare Single Gene Mutation	0
+15746	D473	10237	Familial_control	chr15_28483865_28483865_G_A	HERC2	nonsynonymous SNV	rs74898827	6.00E-04	0.0242	3.00E-04	4.00E-04	missense	0	1	Rare Single Gene Mutation	0
+16470	D868	10449	Familial_control	chr15_28483865_28483865_G_A	HERC2	nonsynonymous SNV	rs74898827	6.00E-04	0.0242	3.00E-04	4.00E-04	missense	0	1	Rare Single Gene Mutation	0
+16470	D868	10449	Familial_control	chr15_28479308_28479308_G_A	HERC2	stopgain	rs575492335	0	2.00E-04	0	8.00E-04	LOF	0	1	Rare Single Gene Mutation	0
+16798	D1043	10487	Familial_control	chr15_28483865_28483865_G_A	HERC2	nonsynonymous SNV	rs74898827	6.00E-04	0.0242	3.00E-04	4.00E-04	missense	0	1	Rare Single Gene Mutation	0
+16332	D790	10496	Familial_control	chr15_28483865_28483865_G_A	HERC2	nonsynonymous SNV	rs74898827	6.00E-04	0.0242	3.00E-04	4.00E-04	missense	0	1	Rare Single Gene Mutation	0
+16426	D830	10530	Familial_control	chr15_28483865_28483865_G_A	HERC2	nonsynonymous SNV	rs74898827	6.00E-04	0.0242	3.00E-04	4.00E-04	missense	0	1	Rare Single Gene Mutation	0
+16428	D832	10530	Schizophrenia	chr15_28483865_28483865_G_A	HERC2	nonsynonymous SNV	rs74898827	6.00E-04	0.0242	3.00E-04	4.00E-04	missense	0	1	Rare Single Gene Mutation	0
+16437	D840	10534	BPAD	chr15_28479308_28479308_G_A	HERC2	stopgain	rs575492335	0	2.00E-04	0	8.00E-04	LOF	0	1	Rare Single Gene Mutation	0
+16438	D841	10534	Familial_control	chr15_28483865_28483865_G_A	HERC2	nonsynonymous SNV	rs74898827	6.00E-04	0.0242	3.00E-04	4.00E-04	missense	0	1	Rare Single Gene Mutation	0
+16443	D846	10535	Familial_control	chr15_28483865_28483865_G_A	HERC2	nonsynonymous SNV	rs74898827	6.00E-04	0.0242	3.00E-04	4.00E-04	missense	0	1	Rare Single Gene Mutation	0
+17095	D1201	10798	Familial_control	chr15_28483865_28483865_G_A	HERC2	nonsynonymous SNV	rs74898827	6.00E-04	0.0242	3.00E-04	4.00E-04	missense	0	1	Rare Single Gene Mutation	0
+17095	D1201	10798	Familial_control	chr15_28479308_28479308_G_A	HERC2	stopgain	rs575492335	0	2.00E-04	0	8.00E-04	LOF	0	1	Rare Single Gene Mutation	0
+17589	D1406	11022	Schizophrenia	chr15_28483865_28483865_G_A	HERC2	nonsynonymous SNV	rs74898827	6.00E-04	0.0242	3.00E-04	4.00E-04	missense	0	1	Rare Single Gene Mutation	0
+GNPC390	D1436	g134	population_control	chr15_28479308_28479308_G_A	HERC2	stopgain	rs575492335	0	2.00E-04	0	8.00E-04	LOF	0	1	Rare Single Gene Mutation	0
+GNPC343	D1435	g184	population_control	chr15_28483865_28483865_G_A	HERC2	nonsynonymous SNV	rs74898827	6.00E-04	0.0242	3.00E-04	4.00E-04	missense	0	1	Rare Single Gene Mutation	0
+GNPC559	D1439	g304	population_control	chr15_28483865_28483865_G_A	HERC2	nonsynonymous SNV	rs74898827	6.00E-04	0.0242	3.00E-04	4.00E-04	missense	0	1	Rare Single Gene Mutation	0
+GNPC570	D1440	g315	population_control	chr15_28483865_28483865_G_A	HERC2	nonsynonymous SNV	rs74898827	6.00E-04	0.0242	3.00E-04	4.00E-04	missense	0	1	Rare Single Gene Mutation	0
+GNPC609	D1441	g352	population_control	chr15_28483865_28483865_G_A	HERC2	nonsynonymous SNV	rs74898827	6.00E-04	0.0242	3.00E-04	4.00E-04	missense	0	1	Rare Single Gene Mutation	0
+GNPC609	D1441	g352	population_control	chr15_28479308_28479308_G_A	HERC2	stopgain	rs575492335	0	2.00E-04	0	8.00E-04	LOF	0	1	Rare Single Gene Mutation	0
+GNPC264	D1434	g95	population_control	chr15_28483865_28483865_G_A	HERC2	nonsynonymous SNV	rs74898827	6.00E-04	0.0242	3.00E-04	4.00E-04	missense	0	1	Rare Single Gene Mutation	0
+14640	D161	72	Familial_control	chr6_32549399_32549399_C_-	HLA-DRB1	frameshift deletion	rs757139064	7.00E-04	0.0017	0.0028	0.0034	indel	2	0	Genetic Association	0
+14639	D21	72	Familial_control	chr6_32552141_32552141_G_A	HLA-DRB1	stopgain	rs9269957	0	0	0	0	LOF	2	0	Genetic Association	0
+14545	D151	195	Familial_control	chr6_32549399_32549399_C_-	HLA-DRB1	frameshift deletion	rs757139064	7.00E-04	0.0017	0.0028	0.0034	indel	2	0	Genetic Association	0
+16751	D1012	518	Familial_control	chr6_32549399_32549399_C_-	HLA-DRB1	frameshift deletion	rs757139064	7.00E-04	0.0017	0.0028	0.0034	indel	2	0	Genetic Association	0
+16751	D1012	518	Familial_control	chr6_32549580_32549580_G_-	HLA-DRB1	frameshift deletion	rs753045406	3.00E-04	0.0012	0.0025	6.00E-04	indel	2	0	Genetic Association	0
+16751	D1012	518	Familial_control	chr6_32549584_32549584_-_T	HLA-DRB1	frameshift insertion	rs200088269	5.00E-04	0.0012	0.0023	5.00E-04	indel	2	0	Genetic Association	0
+14516	D149	760	Familial_control	chr6_32549399_32549399_C_-	HLA-DRB1	frameshift deletion	rs757139064	7.00E-04	0.0017	0.0028	0.0034	indel	2	0	Genetic Association	0
+14594	D155	760	Familial_control	chr6_32549399_32549399_C_-	HLA-DRB1	frameshift deletion	rs757139064	7.00E-04	0.0017	0.0028	0.0034	indel	2	0	Genetic Association	0
+1832	D1430	771	BPAD	chr6_32549399_32549399_C_-	HLA-DRB1	frameshift deletion	rs757139064	7.00E-04	0.0017	0.0028	0.0034	indel	2	0	Genetic Association	0
+14498	D148	5069	Familial_control	chr6_32549399_32549399_C_-	HLA-DRB1	frameshift deletion	rs757139064	7.00E-04	0.0017	0.0028	0.0034	indel	2	0	Genetic Association	0
+14891	D205	9780	BPAD	chr6_32552141_32552141_G_A	HLA-DRB1	stopgain	rs9269957	0	0	0	0	LOF	2	0	Genetic Association	0
+15064	D228	9829	Familial_control	chr6_32549399_32549399_C_-	HLA-DRB1	frameshift deletion	rs757139064	7.00E-04	0.0017	0.0028	0.0034	indel	2	0	Genetic Association	0
+16610	D948	9829	Familial_control	chr6_32549399_32549399_C_-	HLA-DRB1	frameshift deletion	rs757139064	7.00E-04	0.0017	0.0028	0.0034	indel	2	0	Genetic Association	0
+15468	D267	9975	Familial_control	chr6_32549399_32549399_C_-	HLA-DRB1	frameshift deletion	rs757139064	7.00E-04	0.0017	0.0028	0.0034	indel	2	0	Genetic Association	0
+15746	D473	10237	Familial_control	chr6_32552141_32552141_G_A	HLA-DRB1	stopgain	rs9269957	0	0	0	0	LOF	2	0	Genetic Association	0
+16470	D868	10449	Familial_control	chr6_32549399_32549399_C_-	HLA-DRB1	frameshift deletion	rs757139064	7.00E-04	0.0017	0.0028	0.0034	indel	2	0	Genetic Association	0
+16302	D766	10487	BPAD	chr6_32549399_32549399_C_-	HLA-DRB1	frameshift deletion	rs757139064	7.00E-04	0.0017	0.0028	0.0034	indel	2	0	Genetic Association	0
+16798	D1043	10487	Familial_control	chr6_32549399_32549399_C_-	HLA-DRB1	frameshift deletion	rs757139064	7.00E-04	0.0017	0.0028	0.0034	indel	2	0	Genetic Association	0
+16332	D790	10496	Familial_control	chr6_32549399_32549399_C_-	HLA-DRB1	frameshift deletion	rs757139064	7.00E-04	0.0017	0.0028	0.0034	indel	2	0	Genetic Association	0
+16426	D830	10530	Familial_control	chr6_32549399_32549399_C_-	HLA-DRB1	frameshift deletion	rs757139064	7.00E-04	0.0017	0.0028	0.0034	indel	2	0	Genetic Association	0
+16427	D831	10530	Familial_control	chr6_32549399_32549399_C_-	HLA-DRB1	frameshift deletion	rs757139064	7.00E-04	0.0017	0.0028	0.0034	indel	2	0	Genetic Association	0
+16428	D832	10530	Schizophrenia	chr6_32549399_32549399_C_-	HLA-DRB1	frameshift deletion	rs757139064	7.00E-04	0.0017	0.0028	0.0034	indel	2	0	Genetic Association	0
+16428	D832	10530	Schizophrenia	chr6_32549580_32549580_G_-	HLA-DRB1	frameshift deletion	rs753045406	3.00E-04	0.0012	0.0025	6.00E-04	indel	2	0	Genetic Association	0
+16437	D840	10534	BPAD	chr6_32551961_32551961_-_T	HLA-DRB1	frameshift insertion	rs28986201	2.00E-04	0	0	0	indel	2	0	Genetic Association	0
+17095	D1201	10798	Familial_control	chr6_32549584_32549584_-_T	HLA-DRB1	frameshift insertion	rs200088269	5.00E-04	0.0012	0.0023	5.00E-04	indel	2	0	Genetic Association	0
+17589	D1406	11022	Schizophrenia	chr6_32551961_32551961_-_T	HLA-DRB1	frameshift insertion	rs28986201	2.00E-04	0	0	0	indel	2	0	Genetic Association	0
+GNPC390	D1436	g134	population_control	chr6_32552141_32552141_G_A	HLA-DRB1	stopgain	rs9269957	0	0	0	0	LOF	2	0	Genetic Association	0
+GNPC343	D1435	g184	population_control	chr6_32552141_32552141_G_A	HLA-DRB1	stopgain	rs9269957	0	0	0	0	LOF	2	0	Genetic Association	0
+GNPC570	D1440	g315	population_control	chr6_32549399_32549399_C_-	HLA-DRB1	frameshift deletion	rs757139064	7.00E-04	0.0017	0.0028	0.0034	indel	2	0	Genetic Association	0
+GNPC609	D1441	g352	population_control	chr6_32549399_32549399_C_-	HLA-DRB1	frameshift deletion	rs757139064	7.00E-04	0.0017	0.0028	0.0034	indel	2	0	Genetic Association	0
+GNPC127	D1433	g72	population_control	chr6_32552141_32552141_G_A	HLA-DRB1	stopgain	rs9269957	0	0	0	0	LOF	2	0	Genetic Association	0
+GNPC127	D1433	g72	population_control	chr6_32549399_32549399_C_-	HLA-DRB1	frameshift deletion	rs757139064	7.00E-04	0.0017	0.0028	0.0034	indel	2	0	Genetic Association	0
+GNPC420	D1437	g84	population_control	chr6_32549399_32549399_C_-	HLA-DRB1	frameshift deletion	rs757139064	7.00E-04	0.0017	0.0028	0.0034	indel	2	0	Genetic Association	0
+GNPC420	D1437	g84	population_control	chr6_32549580_32549580_G_-	HLA-DRB1	frameshift deletion	rs753045406	3.00E-04	0.0012	0.0025	6.00E-04	indel	2	0	Genetic Association	0
+GNPC420	D1437	g84	population_control	chr6_32549584_32549584_-_T	HLA-DRB1	frameshift insertion	rs200088269	5.00E-04	0.0012	0.0023	5.00E-04	indel	2	0	Genetic Association	0
+1263	D681	583	Familial_control	chr1_245021536_245021536_T_C	HNRNPU	nonsynonymous SNV	rs753256595	2.00E-04	0	0	0	missense	1	0	"Rare Single Gene Mutation, Syndromic, Functional"	0
+14592	D111	760	BPAD	chr11_113857249_113857249_C_T	HTR3A	nonsynonymous SNV	rs750048479	3.27E-05	0	2.89E-05	0	missense	2	0	"Rare Single Gene Mutation, Genetic Association, Functional"	0
+14361	D140	8889	Familial_control	chr11_113860405_113860405_C_A	HTR3A	nonsynonymous SNV	rs775045293	3.27E-05	0	0	0	missense	2	0	"Rare Single Gene Mutation, Genetic Association, Functional"	0
+107	D693	7	Schizophrenia	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+109	D694	7	Schizophrenia	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+717	D646	36	Dementia	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+2532	D648	36	Schizophrenia	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+5572	D649	36	Schizophrenia	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+6545	D20	72	BPAD	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+6312	D25	72	BPAD	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+197	D23	72	BPAD	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+6311	D22	72	BPAD	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+14640	D161	72	Familial_control	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+14639	D21	72	Familial_control	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+15648	D309	167	BPAD	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+6324	D631	167	BPAD	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+15627	D301	167	BPAD	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+2968	D315	167	Depression	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+15684	D326	167	Familial_control	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+16134	D564	167	Familial_control	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+16340	D798	167	Familial_control	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+16341	D799	167	Familial_control	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+16342	D800	167	Familial_control	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+17476	D1343	167	Familial_control	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+16133	D563	167	Schizophrenia	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+16135	D565	167	Schizophrenia	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+14586	D152	190	BPAD	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+14587	D153	190	BPAD	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+78	D48	190	BPAD	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+3633	D51	190	BPAD	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+2458	D53	190	BPAD	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+4853	D54	190	Schizophrenia	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+1451	D57	195	BPAD	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+14556	D65	195	BPAD	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+14349	D67	195	BPAD	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+14557	D59	195	Familial_control	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+14545	D151	195	Familial_control	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+1453	D60	195	Familial_control	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+1337	D64	195	Familial_control	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+17072	D1186	195	Familial_control	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+4538	D638	275	Familial_control	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+521	D636	275	Schizophrenia	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+1846	D637	275	Schizophrenia	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+522	D635	275	Schizophrenia	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+548	D642	280	BPAD	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+547	D641	280	BPAD	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+13543	D92	319	BPAD	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+12998	D72	319	BPAD	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+1329	D78	319	BPAD	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+5056	D87	319	BPAD	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+677	D644	333	BPAD	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+676	D645	333	BPAD	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+908	D652	450	Schizophrenia	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+1005	D658	490	BPAD	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+13545	D102	518	BPAD	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+1105	D101	518	BPAD	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+14469	D96	518	BPAD	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+5705	D103	518	BPAD	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+14355	D95	518	Familial_control	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+16751	D1012	518	Familial_control	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+1142	D666	535	BPAD	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+1185	D670	553	Schizophrenia	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+1235	D673	573	BPAD	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+4064	D680	580	BPAD	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+1258	D678	580	BPAD	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+1252	D674	580	BPAD	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+1253	D675	580	Schizophrenia	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+1267	D684	583	BPAD	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+1266	D682	583	BPAD	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+1264	D106	583	BPAD	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+1263	D681	583	Familial_control	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+1357	D685	606	Schizophrenia	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+1432	D687	629	Schizophrenia	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+1431	D688	629	Schizophrenia	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+1472	D689	639	BPAD	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+1471	D690	639	BPAD	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+1680	D697	712	Schizophrenia	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+1685	D695	712	Schizophrenia	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+1750	D698	737	Schizophrenia	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+1749	D699	737	Schizophrenia	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+17223	D1228	760	Addiction	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+14592	D111	760	BPAD	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+2580	D115	760	BPAD	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+17222	D1227	760	BPAD	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+16509	D899	760	BPAD	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+14516	D149	760	Familial_control	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+14594	D155	760	Familial_control	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+17224	D1229	760	Familial_control	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+1802	D705	764	Schizophrenia	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+1833	D706	764	Schizophrenia	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+1832	D1430	771	BPAD	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+2390	D708	777	Schizophrenia	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+3480	D709	777	Schizophrenia	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+12995	D711	825	BPAD	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+12838	D710	825	BPAD	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+2099	D716	885	Schizophrenia	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+2188	D720	885	Schizophrenia	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+2301	D727	961	Schizophrenia	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+2298	D728	961	Schizophrenia	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+2446	D627	1028	BPAD	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+2503	D628	1058	Schizophrenia	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+2502	D629	1058	Schizophrenia	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+4208	D633	1904	Schizophrenia	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+4201	D632	1904	Schizophrenia	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+5991	D1431	2793	BPAD	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+14382	D651	3681	Familial_control	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+GNPC476	D1438	4348	population_control	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+9034	D126	5069	Familial_control	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+14498	D148	5069	Familial_control	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+9032	D127	5069	Schizophrenia	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+9033	D125	5069	Schizophrenia	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+16275	D619	7862	Familial_control	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+16726	D998	7862	Familial_control	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+16273	D617	7862	OCD	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+16274	D618	7862	OCD	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+14076	D130	8356	BPAD	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+14634	D160	8356	Familial_control	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+13241	D1427	8617	BPAD	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+14376	D137	8868	BPAD	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+14375	D723	8868	Schizophrenia	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+14361	D140	8889	Familial_control	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+14263	D138	8889	Schizophrenia	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+14264	D139	8889	Schizophrenia	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+14159	D143	8890	Schizophrenia	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+14160	D142	8890	Schizophrenia	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+14628	D158	9067	Depression	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+14629	D159	9067	Familial_control	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+14627	D157	9067	Schizophrenia	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+13962	D1428	9183	BPAD	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+14833	D194	9766	Schizophrenia	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+17517	D1360	9766	Schizophrenia	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+14894	D336	9773	Schizophrenia	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+14891	D205	9780	BPAD	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+16165	D579	9780	BPAD	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+14892	D206	9780	Familial_control	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+16166	D580	9780	Familial_control	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+14890	D204	9781	BPAD	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+14897	D210	9782	Addiction	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+15064	D228	9829	Familial_control	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+16610	D948	9829	Familial_control	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+14970	D223	9829	Schizophrenia	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+15774	D374	9860	Familial_control	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+15775	D375	9860	Familial_control	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+15772	D372	9860	OCD	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+15099	D231	9877	Addiction	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+16534	D916	9877	BPAD	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+16535	D917	9877	Familial_control	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+15098	D230	9877	Schizophrenia	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+17202	D1223	9913	Schizophrenia	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+15468	D267	9975	Familial_control	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+15274	D249	9975	OCD	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+15298	D250	9975	OCD	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+15416	D264	10061	Familial_control	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+15414	D262	10061	OCD	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+15415	D263	10061	OCD	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+15503	D275	10124	Addiction	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+15501	D273	10124	Addiction	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+15502	D274	10124	Addiction	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+17578	D1396	10124	Familial_control	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+16840	D1056	10198	Familial_control	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+15625	D299	10198	Schizophrenia	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+15626	D300	10198	Schizophrenia	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+15690	D327	10237	BPAD	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+15743	D470	10237	BPAD	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+15747	D474	10237	Familial_control	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+15691	D328	10237	Familial_control	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+15744	D471	10237	Familial_control	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+15745	D472	10237	Familial_control	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+15746	D473	10237	Familial_control	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+15713	D338	10248	Familial_control	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+16470	D868	10449	Familial_control	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+16302	D766	10487	BPAD	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+16798	D1043	10487	Familial_control	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+16331	D789	10496	Addiction	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+16332	D790	10496	Familial_control	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+16426	D830	10530	Familial_control	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+16428	D832	10530	Schizophrenia	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+16437	D840	10534	BPAD	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+16440	D843	10534	BPAD	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+16438	D841	10534	Familial_control	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+16443	D846	10535	Familial_control	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+1103	D863	10545	BPAD	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+17590	D1407	11022	Familial_control	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+17588	D1405	11022	Schizophrenia	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+17589	D1406	11022	Schizophrenia	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+GNPC390	D1436	g134	population_control	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+GNPC343	D1435	g184	population_control	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+GNPC559	D1439	g304	population_control	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+GNPC570	D1440	g315	population_control	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+GNPC609	D1441	g352	population_control	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+GNPC101	D1432	g46	population_control	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+GNPC127	D1433	g72	population_control	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+GNPC420	D1437	g84	population_control	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+GNPC264	D1434	g95	population_control	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+ICNBSX300	NotAvailable	gg1	population_control	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+ICNBSX309	NotAvailable	gg10	population_control	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+ICNBSX310	NotAvailable	gg11	population_control	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+ICNBSX311	NotAvailable	gg12	population_control	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+ICNBSX313	NotAvailable	gg14	population_control	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+ICNBSX314	NotAvailable	gg15	population_control	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+ICNBSX315	NotAvailable	gg16	population_control	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+ICNBSX316	NotAvailable	gg17	population_control	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+ICNBSX317	NotAvailable	gg18	population_control	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+ICNBSX318	NotAvailable	gg19	population_control	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+ICNBSX301	NotAvailable	gg2	population_control	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+ICNBSX320	NotAvailable	gg21	population_control	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+ICNBSX321	NotAvailable	gg22	population_control	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+ICNBSX322	NotAvailable	gg23	population_control	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+ICNBSX323	NotAvailable	gg24	population_control	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+ICNBSX324	NotAvailable	gg25	population_control	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+ICNBSX325	NotAvailable	gg26	population_control	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+ICNBSX326	NotAvailable	gg27	population_control	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+ICNBSX327	NotAvailable	gg28	population_control	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+ICNBSX328	NotAvailable	gg29	population_control	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+ICNBSX302	NotAvailable	gg3	population_control	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+ICNBSX329	NotAvailable	gg30	population_control	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+ICNBSX330	NotAvailable	gg31	population_control	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+ICNBSX331	NotAvailable	gg32	population_control	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+ICNBSX332	NotAvailable	gg33	population_control	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+ICNBSX333	NotAvailable	gg34	population_control	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+ICNBSX334	NotAvailable	gg35	population_control	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+ICNBSX335	NotAvailable	gg36	population_control	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+ICNBSX336	NotAvailable	gg37	population_control	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+ICNBSX337	NotAvailable	gg38	population_control	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+ICNBSX338	NotAvailable	gg39	population_control	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+ICNBSX303	NotAvailable	gg4	population_control	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+ICNBSX339	NotAvailable	gg40	population_control	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+ICNBSX340	NotAvailable	gg41	population_control	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+ICNBSX341	NotAvailable	gg42	population_control	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+ICNBSX342	NotAvailable	gg43	population_control	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+ICNBSX343	NotAvailable	gg44	population_control	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+ICNBSX344	NotAvailable	gg45	population_control	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+ICNBSX346	NotAvailable	gg47	population_control	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+ICNBSX347	NotAvailable	gg48	population_control	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+ICNBSX304	NotAvailable	gg5	population_control	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+ICNBSX349	NotAvailable	gg50	population_control	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+ICNBSX305	NotAvailable	gg6	population_control	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+ICNBSX306	NotAvailable	gg7	population_control	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+ICNBSX308	NotAvailable	gg9	population_control	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+S186	D731	S2	Schizophrenia	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+S185	D643	S4	Schizophrenia	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+W157	D4	S5	Schizophrenia	chr16_71061495_71061495_A_G	HYDIN	stoploss	rs1022220	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+6311	D22	72	BPAD	chr12_102811649_102811649_T_C	IGF1	nonsynonymous SNV	rs372640025	9.81E-05	2.00E-04	0	0	missense	3	0	"Rare Single Gene Mutation, Functional"	0
+14640	D161	72	Familial_control	chr12_102811649_102811649_T_C	IGF1	nonsynonymous SNV	rs372640025	9.81E-05	2.00E-04	0	0	missense	3	0	"Rare Single Gene Mutation, Functional"	0
+17202	D1223	9913	Schizophrenia	chr1_156534435_156534435_G_A	IQGAP3	nonsynonymous SNV	rs777078133	5.00E-04	0	0	0	missense	2	0	Rare Single Gene Mutation	0
+16165	D579	9780	BPAD	chr10_15761611_15761611_C_A	ITGA8	nonsynonymous SNV	rs753459604	5.00E-04	0	4.12E-05	0	missense	3	0	Rare Single Gene Mutation	0
+14892	D206	9780	Familial_control	chr10_15761611_15761611_C_A	ITGA8	nonsynonymous SNV	rs753459604	5.00E-04	0	4.12E-05	0	missense	3	0	Rare Single Gene Mutation	0
+16166	D580	9780	Familial_control	chr10_15761611_15761611_C_A	ITGA8	nonsynonymous SNV	rs753459604	5.00E-04	0	4.12E-05	0	missense	3	0	Rare Single Gene Mutation	0
+15713	D338	10248	Familial_control	chr10_15761641_15761641_C_G	ITGA8	nonsynonymous SNV	rs749690110	3.00E-04	0	0	0	missense	3	0	Rare Single Gene Mutation	0
+ICNBSX300	NotAvailable	gg1	population_control	chr10_15760783_15760783_T_G	ITGA8	nonsynonymous SNV	rs774695574	0	0	0	0	missense	3	0	Rare Single Gene Mutation	0
+ICNBSX306	NotAvailable	gg7	population_control	chr17_45367092_45367092_A_G	ITGB3	nonsynonymous SNV	rs201550717	3.27E-05	2.00E-04	1.00E-04	0	missense	2	0	"Rare Single Gene Mutation, Genetic Association, Functional"	0
+ICNBSX323	NotAvailable	gg24	population_control	chr3_4842171_4842171_G_A	ITPR1	nonsynonymous SNV	rs780156688	3.27E-05	0	0	0	missense	2	0	Rare Single Gene Mutation	0
+ICNBSX321	NotAvailable	gg22	population_control	chr6_15501390_15501390_G_T	JARID2	nonsynonymous SNV	rs200766229	2.00E-04	0	1.00E-04	0	missense	2	0	"Rare Single Gene Mutation, Syndromic, Genetic Association"	0
+14586	D152	190	BPAD	chr9_711178_711178_C_T	KANK1	stopgain	rs751694838	0	0	0	5.44E-05	LOF	2	0	Rare Single Gene Mutation	0
+14587	D153	190	BPAD	chr9_711178_711178_C_T	KANK1	stopgain	rs751694838	0	0	0	5.44E-05	LOF	2	0	Rare Single Gene Mutation	0
+16275	D619	7862	Familial_control	chr17_44248730_44248730_-_C	KANSL1	frameshift insertion	rs748018297	6.53E-05	0	0	0	indel	1	0	"Rare Single Gene Mutation, Syndromic, Functional"	1.1
+14833	D194	9766	Schizophrenia	chr8_41795049_41795049_C_T	KAT6A	nonsynonymous SNV	rs764202707	3.27E-05	0	0	5.44E-05	missense	2	1	"Rare Single Gene Mutation, Syndromic, Functional"	0
+ICNBSX337	NotAvailable	gg38	population_control	chr8_41834751_41834751_C_A	KAT6A	stopgain	rs201370796	6.53E-05	2.00E-04	7.00E-04	5.44E-05	LOF	2	1	"Rare Single Gene Mutation, Syndromic, Functional"	0
+14892	D206	9780	Familial_control	chr20_48098537_48098537_C_T	KCNB1	nonsynonymous SNV	rs752198589	0	0	0	0	missense	1	0	"Rare Single Gene Mutation, Syndromic"	0
+16166	D580	9780	Familial_control	chr20_48098537_48098537_C_T	KCNB1	nonsynonymous SNV	rs752198589	0	0	0	0	missense	1	0	"Rare Single Gene Mutation, Syndromic"	0
+ICNBSX321	NotAvailable	gg22	population_control	chr1_112524864_112524864_G_A	KCND3	nonsynonymous SNV	rs780219355	0	0	5.78E-05	0	missense	2	0	"Rare Single Gene Mutation, Syndromic, Genetic Association"	0
+ICNBSX345	NotAvailable	gg46	population_control	chr1_112524864_112524864_G_A	KCND3	nonsynonymous SNV	rs780219355	0	0	5.78E-05	0	missense	2	0	"Rare Single Gene Mutation, Syndromic, Genetic Association"	0
+16426	D830	10530	Familial_control	chr21_39671449_39671449_C_T	KCNJ15	nonsynonymous SNV	rs139330268	4.00E-04	0.0011	2.89E-05	0	missense	2	0	Rare Single Gene Mutation	0
+16428	D832	10530	Schizophrenia	chr21_39671449_39671449_C_T	KCNJ15	nonsynonymous SNV	rs139330268	4.00E-04	0.0011	2.89E-05	0	missense	2	0	Rare Single Gene Mutation	0
+GNPC127	D1433	g72	population_control	chr8_133150232_133150232_-_T	KCNQ3	frameshift insertion	rs767899361	3.29E-05	0	0	1.00E-04	indel	1	0	"Rare Single Gene Mutation, Genetic Association"	11.1
+2532	D648	36	Schizophrenia	chr8_29035023_29035023_C_T	KIF13B	nonsynonymous SNV	rs933279686	6.54E-05	0	2.90E-05	0	missense	2	0	Rare Single Gene Mutation	0
+ICNBSX317	NotAvailable	gg18	population_control	chr8_28981588_28981588_C_T	KIF13B	nonsynonymous SNV	rs778060352	3.28E-05	0	0	0	missense	2	0	Rare Single Gene Mutation	0
+1802	D705	764	Schizophrenia	chr11_126306852_126306852_G_A	KIRREL3	nonsynonymous SNV	rs377164637	6.83E-05	0	1.00E-04	0	missense	2	0	Rare Single Gene Mutation	0
+1833	D706	764	Schizophrenia	chr11_126306852_126306852_G_A	KIRREL3	nonsynonymous SNV	rs377164637	6.83E-05	0	1.00E-04	0	missense	2	0	Rare Single Gene Mutation	0
+1235	D673	573	BPAD	chr11_118354911_118354911_C_T	KMT2A	nonsynonymous SNV	rs550235275	6.00E-04	0	0	0	missense	1	0	"Rare Single Gene Mutation, Syndromic, Functional"	0
+1258	D678	580	BPAD	chr11_118343280_118343280_C_T	KMT2A	nonsynonymous SNV	rs782264066	3.27E-05	0	0	0	missense	1	0	"Rare Single Gene Mutation, Syndromic, Functional"	0
+1254	D676	580	Familial_control	chr11_118343280_118343280_C_T	KMT2A	nonsynonymous SNV	rs782264066	3.27E-05	0	0	0	missense	1	0	"Rare Single Gene Mutation, Syndromic, Functional"	0
+1253	D675	580	Schizophrenia	chr11_118343280_118343280_C_T	KMT2A	nonsynonymous SNV	rs782264066	3.27E-05	0	0	0	missense	1	0	"Rare Single Gene Mutation, Syndromic, Functional"	0
+14640	D161	72	Familial_control	chr7_151962265_151962265_C_T	KMT2C	nonsynonymous SNV	rs201834857	3.96E-05	2.00E-04	5.00E-04	2.00E-04	missense	1	0	"Rare Single Gene Mutation, Syndromic, Functional"	0
+14640	D161	72	Familial_control	chr7_151970884_151970884_A_C	KMT2C	stopgain	rs759520035	0	0	0	0	LOF	1	0	"Rare Single Gene Mutation, Syndromic, Functional"	0
+14639	D21	72	Familial_control	chr7_151933015_151933015_G_A	KMT2C	nonsynonymous SNV	rs199796679	0	0	0	0	missense	1	0	"Rare Single Gene Mutation, Syndromic, Functional"	0
+16340	D798	167	Familial_control	chr7_151962265_151962265_C_T	KMT2C	nonsynonymous SNV	rs201834857	3.96E-05	2.00E-04	5.00E-04	2.00E-04	missense	1	0	"Rare Single Gene Mutation, Syndromic, Functional"	0
+16341	D799	167	Familial_control	chr7_151962265_151962265_C_T	KMT2C	nonsynonymous SNV	rs201834857	3.96E-05	2.00E-04	5.00E-04	2.00E-04	missense	1	0	"Rare Single Gene Mutation, Syndromic, Functional"	0
+16342	D800	167	Familial_control	chr7_151962265_151962265_C_T	KMT2C	nonsynonymous SNV	rs201834857	3.96E-05	2.00E-04	5.00E-04	2.00E-04	missense	1	0	"Rare Single Gene Mutation, Syndromic, Functional"	0
+17476	D1343	167	Familial_control	chr7_151962265_151962265_C_T	KMT2C	nonsynonymous SNV	rs201834857	3.96E-05	2.00E-04	5.00E-04	2.00E-04	missense	1	0	"Rare Single Gene Mutation, Syndromic, Functional"	0
+14557	D59	195	Familial_control	chr7_151962265_151962265_C_T	KMT2C	nonsynonymous SNV	rs201834857	3.96E-05	2.00E-04	5.00E-04	2.00E-04	missense	1	0	"Rare Single Gene Mutation, Syndromic, Functional"	0
+14545	D151	195	Familial_control	chr7_151962265_151962265_C_T	KMT2C	nonsynonymous SNV	rs201834857	3.96E-05	2.00E-04	5.00E-04	2.00E-04	missense	1	0	"Rare Single Gene Mutation, Syndromic, Functional"	0
+4538	D638	275	Familial_control	chr7_151933014_151933014_C_T	KMT2C	nonsynonymous SNV	rs112773078	3.40E-05	6.86E-05	2.00E-04	5.72E-05	missense	1	0	"Rare Single Gene Mutation, Syndromic, Functional"	0
+4538	D638	275	Familial_control	chr7_151933015_151933015_G_A	KMT2C	nonsynonymous SNV	rs199796679	0	0	0	0	missense	1	0	"Rare Single Gene Mutation, Syndromic, Functional"	0
+13545	D102	518	BPAD	chr7_151849883_151849883_G_A	KMT2C	nonsynonymous SNV	rs201100798	8.00E-04	0	2.89E-05	1.00E-04	missense	1	0	"Rare Single Gene Mutation, Syndromic, Functional"	0
+1105	D101	518	BPAD	chr7_151933015_151933015_G_A	KMT2C	nonsynonymous SNV	rs199796679	0	0	0	0	missense	1	0	"Rare Single Gene Mutation, Syndromic, Functional"	0
+14355	D95	518	Familial_control	chr7_151962265_151962265_C_T	KMT2C	nonsynonymous SNV	rs201834857	3.96E-05	2.00E-04	5.00E-04	2.00E-04	missense	1	0	"Rare Single Gene Mutation, Syndromic, Functional"	0
+16751	D1012	518	Familial_control	chr7_151962265_151962265_C_T	KMT2C	nonsynonymous SNV	rs201834857	3.96E-05	2.00E-04	5.00E-04	2.00E-04	missense	1	0	"Rare Single Gene Mutation, Syndromic, Functional"	0
+16751	D1012	518	Familial_control	chr7_151970884_151970884_A_C	KMT2C	stopgain	rs759520035	0	0	0	0	LOF	1	0	"Rare Single Gene Mutation, Syndromic, Functional"	0
+14516	D149	760	Familial_control	chr7_151962265_151962265_C_T	KMT2C	nonsynonymous SNV	rs201834857	3.96E-05	2.00E-04	5.00E-04	2.00E-04	missense	1	0	"Rare Single Gene Mutation, Syndromic, Functional"	0
+14516	D149	760	Familial_control	chr7_151933015_151933015_G_A	KMT2C	nonsynonymous SNV	rs199796679	0	0	0	0	missense	1	0	"Rare Single Gene Mutation, Syndromic, Functional"	0
+17224	D1229	760	Familial_control	chr7_151962265_151962265_C_T	KMT2C	nonsynonymous SNV	rs201834857	3.96E-05	2.00E-04	5.00E-04	2.00E-04	missense	1	0	"Rare Single Gene Mutation, Syndromic, Functional"	0
+2191	D718	885	BPAD	chr7_151933015_151933015_G_A	KMT2C	nonsynonymous SNV	rs199796679	0	0	0	0	missense	1	0	"Rare Single Gene Mutation, Syndromic, Functional"	0
+2099	D716	885	Schizophrenia	chr7_151933015_151933015_G_A	KMT2C	nonsynonymous SNV	rs199796679	0	0	0	0	missense	1	0	"Rare Single Gene Mutation, Syndromic, Functional"	0
+14382	D651	3681	Familial_control	chr7_151962265_151962265_C_T	KMT2C	nonsynonymous SNV	rs201834857	3.96E-05	2.00E-04	5.00E-04	2.00E-04	missense	1	0	"Rare Single Gene Mutation, Syndromic, Functional"	0
+GNPC476	D1438	4348	population_control	chr7_151962265_151962265_C_T	KMT2C	nonsynonymous SNV	rs201834857	3.96E-05	2.00E-04	5.00E-04	2.00E-04	missense	1	0	"Rare Single Gene Mutation, Syndromic, Functional"	0
+GNPC476	D1438	4348	population_control	chr7_151932949_151932949_C_A	KMT2C	nonsynonymous SNV	rs77173318	6.58E-05	0.0021	2.90E-05	2.00E-04	missense	1	0	"Rare Single Gene Mutation, Syndromic, Functional"	0
+9034	D126	5069	Familial_control	chr7_151932990_151932990_C_T	KMT2C	nonsynonymous SNV	rs76844681	5.00E-04	7.00E-04	0.0015	1.00E-04	missense	1	0	"Rare Single Gene Mutation, Syndromic, Functional"	0
+14498	D148	5069	Familial_control	chr7_151962265_151962265_C_T	KMT2C	nonsynonymous SNV	rs201834857	3.96E-05	2.00E-04	5.00E-04	2.00E-04	missense	1	0	"Rare Single Gene Mutation, Syndromic, Functional"	0
+16275	D619	7862	Familial_control	chr7_151962265_151962265_C_T	KMT2C	nonsynonymous SNV	rs201834857	3.96E-05	2.00E-04	5.00E-04	2.00E-04	missense	1	0	"Rare Single Gene Mutation, Syndromic, Functional"	0
+16726	D998	7862	Familial_control	chr7_151962265_151962265_C_T	KMT2C	nonsynonymous SNV	rs201834857	3.96E-05	2.00E-04	5.00E-04	2.00E-04	missense	1	0	"Rare Single Gene Mutation, Syndromic, Functional"	0
+14634	D160	8356	Familial_control	chr7_151962265_151962265_C_T	KMT2C	nonsynonymous SNV	rs201834857	3.96E-05	2.00E-04	5.00E-04	2.00E-04	missense	1	0	"Rare Single Gene Mutation, Syndromic, Functional"	0
+14634	D160	8356	Familial_control	chr7_151933015_151933015_G_A	KMT2C	nonsynonymous SNV	rs199796679	0	0	0	0	missense	1	0	"Rare Single Gene Mutation, Syndromic, Functional"	0
+14361	D140	8889	Familial_control	chr7_151945049_151945049_C_T	KMT2C	nonsynonymous SNV	rs755626030	0	0	0	0	missense	1	0	"Rare Single Gene Mutation, Syndromic, Functional"	0
+14361	D140	8889	Familial_control	chr7_151962265_151962265_C_T	KMT2C	nonsynonymous SNV	rs201834857	3.96E-05	2.00E-04	5.00E-04	2.00E-04	missense	1	0	"Rare Single Gene Mutation, Syndromic, Functional"	0
+14361	D140	8889	Familial_control	chr7_151933015_151933015_G_A	KMT2C	nonsynonymous SNV	rs199796679	0	0	0	0	missense	1	0	"Rare Single Gene Mutation, Syndromic, Functional"	0
+14629	D159	9067	Familial_control	chr7_151962265_151962265_C_T	KMT2C	nonsynonymous SNV	rs201834857	3.96E-05	2.00E-04	5.00E-04	2.00E-04	missense	1	0	"Rare Single Gene Mutation, Syndromic, Functional"	0
+14629	D159	9067	Familial_control	chr7_151933015_151933015_G_A	KMT2C	nonsynonymous SNV	rs199796679	0	0	0	0	missense	1	0	"Rare Single Gene Mutation, Syndromic, Functional"	0
+16166	D580	9780	Familial_control	chr7_151962265_151962265_C_T	KMT2C	nonsynonymous SNV	rs201834857	3.96E-05	2.00E-04	5.00E-04	2.00E-04	missense	1	0	"Rare Single Gene Mutation, Syndromic, Functional"	0
+15064	D228	9829	Familial_control	chr7_151845387_151845387_C_T	KMT2C	nonsynonymous SNV	NotAvailable	3.27E-05	0	0	0	missense	1	0	"Rare Single Gene Mutation, Syndromic, Functional"	0
+15064	D228	9829	Familial_control	chr7_151962265_151962265_C_T	KMT2C	nonsynonymous SNV	rs201834857	3.96E-05	2.00E-04	5.00E-04	2.00E-04	missense	1	0	"Rare Single Gene Mutation, Syndromic, Functional"	0
+16610	D948	9829	Familial_control	chr7_151845387_151845387_C_T	KMT2C	nonsynonymous SNV	NotAvailable	3.27E-05	0	0	0	missense	1	0	"Rare Single Gene Mutation, Syndromic, Functional"	0
+16610	D948	9829	Familial_control	chr7_151962265_151962265_C_T	KMT2C	nonsynonymous SNV	rs201834857	3.96E-05	2.00E-04	5.00E-04	2.00E-04	missense	1	0	"Rare Single Gene Mutation, Syndromic, Functional"	0
+15775	D375	9860	Familial_control	chr7_151962265_151962265_C_T	KMT2C	nonsynonymous SNV	rs201834857	3.96E-05	2.00E-04	5.00E-04	2.00E-04	missense	1	0	"Rare Single Gene Mutation, Syndromic, Functional"	0
+15468	D267	9975	Familial_control	chr7_151962265_151962265_C_T	KMT2C	nonsynonymous SNV	rs201834857	3.96E-05	2.00E-04	5.00E-04	2.00E-04	missense	1	0	"Rare Single Gene Mutation, Syndromic, Functional"	0
+15416	D264	10061	Familial_control	chr7_151962265_151962265_C_T	KMT2C	nonsynonymous SNV	rs201834857	3.96E-05	2.00E-04	5.00E-04	2.00E-04	missense	1	0	"Rare Single Gene Mutation, Syndromic, Functional"	0
+17578	D1396	10124	Familial_control	chr7_151962265_151962265_C_T	KMT2C	nonsynonymous SNV	rs201834857	3.96E-05	2.00E-04	5.00E-04	2.00E-04	missense	1	0	"Rare Single Gene Mutation, Syndromic, Functional"	0
+15691	D328	10237	Familial_control	chr7_151962265_151962265_C_T	KMT2C	nonsynonymous SNV	rs201834857	3.96E-05	2.00E-04	5.00E-04	2.00E-04	missense	1	0	"Rare Single Gene Mutation, Syndromic, Functional"	0
+15746	D473	10237	Familial_control	chr7_151962265_151962265_C_T	KMT2C	nonsynonymous SNV	rs201834857	3.96E-05	2.00E-04	5.00E-04	2.00E-04	missense	1	0	"Rare Single Gene Mutation, Syndromic, Functional"	0
+16470	D868	10449	Familial_control	chr7_151962265_151962265_C_T	KMT2C	nonsynonymous SNV	rs201834857	3.96E-05	2.00E-04	5.00E-04	2.00E-04	missense	1	0	"Rare Single Gene Mutation, Syndromic, Functional"	0
+16798	D1043	10487	Familial_control	chr7_151962265_151962265_C_T	KMT2C	nonsynonymous SNV	rs201834857	3.96E-05	2.00E-04	5.00E-04	2.00E-04	missense	1	0	"Rare Single Gene Mutation, Syndromic, Functional"	0
+16332	D790	10496	Familial_control	chr7_151962265_151962265_C_T	KMT2C	nonsynonymous SNV	rs201834857	3.96E-05	2.00E-04	5.00E-04	2.00E-04	missense	1	0	"Rare Single Gene Mutation, Syndromic, Functional"	0
+16332	D790	10496	Familial_control	chr7_151874895_151874895_A_G	KMT2C	nonsynonymous SNV	rs759625657	2.00E-04	0	0	0	missense	1	0	"Rare Single Gene Mutation, Syndromic, Functional"	0
+16426	D830	10530	Familial_control	chr7_151962265_151962265_C_T	KMT2C	nonsynonymous SNV	rs201834857	3.96E-05	2.00E-04	5.00E-04	2.00E-04	missense	1	0	"Rare Single Gene Mutation, Syndromic, Functional"	0
+16427	D831	10530	Familial_control	chr7_151962265_151962265_C_T	KMT2C	nonsynonymous SNV	rs201834857	3.96E-05	2.00E-04	5.00E-04	2.00E-04	missense	1	0	"Rare Single Gene Mutation, Syndromic, Functional"	0
+16428	D832	10530	Schizophrenia	chr7_151962265_151962265_C_T	KMT2C	nonsynonymous SNV	rs201834857	3.96E-05	2.00E-04	5.00E-04	2.00E-04	missense	1	0	"Rare Single Gene Mutation, Syndromic, Functional"	0
+16438	D841	10534	Familial_control	chr7_151962265_151962265_C_T	KMT2C	nonsynonymous SNV	rs201834857	3.96E-05	2.00E-04	5.00E-04	2.00E-04	missense	1	0	"Rare Single Gene Mutation, Syndromic, Functional"	0
+16443	D846	10535	Familial_control	chr7_151962265_151962265_C_T	KMT2C	nonsynonymous SNV	rs201834857	3.96E-05	2.00E-04	5.00E-04	2.00E-04	missense	1	0	"Rare Single Gene Mutation, Syndromic, Functional"	0
+17590	D1407	11022	Familial_control	chr7_151962265_151962265_C_T	KMT2C	nonsynonymous SNV	rs201834857	3.96E-05	2.00E-04	5.00E-04	2.00E-04	missense	1	0	"Rare Single Gene Mutation, Syndromic, Functional"	0
+17589	D1406	11022	Schizophrenia	chr7_151962265_151962265_C_T	KMT2C	nonsynonymous SNV	rs201834857	3.96E-05	2.00E-04	5.00E-04	2.00E-04	missense	1	0	"Rare Single Gene Mutation, Syndromic, Functional"	0
+GNPC390	D1436	g134	population_control	chr7_151962265_151962265_C_T	KMT2C	nonsynonymous SNV	rs201834857	3.96E-05	2.00E-04	5.00E-04	2.00E-04	missense	1	0	"Rare Single Gene Mutation, Syndromic, Functional"	0
+GNPC390	D1436	g134	population_control	chr7_151933015_151933015_G_A	KMT2C	nonsynonymous SNV	rs199796679	0	0	0	0	missense	1	0	"Rare Single Gene Mutation, Syndromic, Functional"	0
+GNPC343	D1435	g184	population_control	chr7_151962265_151962265_C_T	KMT2C	nonsynonymous SNV	rs201834857	3.96E-05	2.00E-04	5.00E-04	2.00E-04	missense	1	0	"Rare Single Gene Mutation, Syndromic, Functional"	0
+GNPC343	D1435	g184	population_control	chr7_151933015_151933015_G_A	KMT2C	nonsynonymous SNV	rs199796679	0	0	0	0	missense	1	0	"Rare Single Gene Mutation, Syndromic, Functional"	0
+GNPC559	D1439	g304	population_control	chr7_151962265_151962265_C_T	KMT2C	nonsynonymous SNV	rs201834857	3.96E-05	2.00E-04	5.00E-04	2.00E-04	missense	1	0	"Rare Single Gene Mutation, Syndromic, Functional"	0
+GNPC570	D1440	g315	population_control	chr7_151962265_151962265_C_T	KMT2C	nonsynonymous SNV	rs201834857	3.96E-05	2.00E-04	5.00E-04	2.00E-04	missense	1	0	"Rare Single Gene Mutation, Syndromic, Functional"	0
+GNPC570	D1440	g315	population_control	chr7_151933015_151933015_G_A	KMT2C	nonsynonymous SNV	rs199796679	0	0	0	0	missense	1	0	"Rare Single Gene Mutation, Syndromic, Functional"	0
+GNPC609	D1441	g352	population_control	chr7_151962265_151962265_C_T	KMT2C	nonsynonymous SNV	rs201834857	3.96E-05	2.00E-04	5.00E-04	2.00E-04	missense	1	0	"Rare Single Gene Mutation, Syndromic, Functional"	0
+GNPC609	D1441	g352	population_control	chr7_151933015_151933015_G_A	KMT2C	nonsynonymous SNV	rs199796679	0	0	0	0	missense	1	0	"Rare Single Gene Mutation, Syndromic, Functional"	0
+GNPC101	D1432	g46	population_control	chr7_151962265_151962265_C_T	KMT2C	nonsynonymous SNV	rs201834857	3.96E-05	2.00E-04	5.00E-04	2.00E-04	missense	1	0	"Rare Single Gene Mutation, Syndromic, Functional"	0
+GNPC127	D1433	g72	population_control	chr7_151962265_151962265_C_T	KMT2C	nonsynonymous SNV	rs201834857	3.96E-05	2.00E-04	5.00E-04	2.00E-04	missense	1	0	"Rare Single Gene Mutation, Syndromic, Functional"	0
+GNPC127	D1433	g72	population_control	chr7_151933015_151933015_G_A	KMT2C	nonsynonymous SNV	rs199796679	0	0	0	0	missense	1	0	"Rare Single Gene Mutation, Syndromic, Functional"	0
+GNPC264	D1434	g95	population_control	chr7_151962265_151962265_C_T	KMT2C	nonsynonymous SNV	rs201834857	3.96E-05	2.00E-04	5.00E-04	2.00E-04	missense	1	0	"Rare Single Gene Mutation, Syndromic, Functional"	0
+ICNBSX342	NotAvailable	gg43	population_control	chr7_152012233_152012233_C_T	KMT2C	nonsynonymous SNV	rs764829861	3.27E-05	0	0	0	missense	1	0	"Rare Single Gene Mutation, Syndromic, Functional"	0
+14640	D161	72	Familial_control	chr7_104702643_104702643_T_C	KMT2E	nonsynonymous SNV	rs542916850	3.00E-04	0	2.90E-05	0	missense	1	0	"Rare Single Gene Mutation, Syndromic, Genetic Association"	0
+15648	D309	167	BPAD	chr7_104715170_104715170_A_G	KMT2E	nonsynonymous SNV	rs768691028	6.65E-05	1.00E-04	5.95E-05	5.48E-05	missense	1	0	"Rare Single Gene Mutation, Syndromic, Genetic Association"	0
+12995	D711	825	BPAD	chr17_38928081_38928094_TGCCAGGCGGTCGT_-	KRT26	frameshift deletion	rs377053021	2.00E-04	0	0	0.0103	indel	2	0	Rare Single Gene Mutation	0
+2502	D629	1058	Schizophrenia	chr18_6950944_6950944_G_A	LAMA1	nonsynonymous SNV	rs764332410	2.00E-04	0	0	0	missense	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+14894	D336	9773	Schizophrenia	chr18_7049180_7049180_C_T	LAMA1	nonsynonymous SNV	rs112194576	9.80E-05	0.004	8.00E-04	0	missense	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+15627	D301	167	BPAD	chr2_170065963_170065963_C_G	LRP2	nonsynonymous SNV	rs769830564	2.00E-04	0	0	0	missense	2	0	"Rare Single Gene Mutation, Syndromic, Genetic Association"	0
+16341	D799	167	Familial_control	chr2_170065963_170065963_C_G	LRP2	nonsynonymous SNV	rs769830564	2.00E-04	0	0	0	missense	2	0	"Rare Single Gene Mutation, Syndromic, Genetic Association"	0
+14556	D65	195	BPAD	chr2_170088245_170088245_C_A	LRP2	nonsynonymous SNV	rs549532662	4.00E-04	0	0	0	missense	2	0	"Rare Single Gene Mutation, Syndromic, Genetic Association"	0
+14556	D65	195	BPAD	chr2_170094671_170094671_C_T	LRP2	nonsynonymous SNV	rs774823133	6.00E-04	0	2.89E-05	1.00E-04	missense	2	0	"Rare Single Gene Mutation, Syndromic, Genetic Association"	0
+14349	D67	195	BPAD	chr2_170088245_170088245_C_A	LRP2	nonsynonymous SNV	rs549532662	4.00E-04	0	0	0	missense	2	0	"Rare Single Gene Mutation, Syndromic, Genetic Association"	0
+1337	D64	195	Familial_control	chr2_170088245_170088245_C_A	LRP2	nonsynonymous SNV	rs549532662	4.00E-04	0	0	0	missense	2	0	"Rare Single Gene Mutation, Syndromic, Genetic Association"	0
+16165	D579	9780	BPAD	chr2_170034504_170034504_G_C	LRP2	nonsynonymous SNV	rs200563635	2.00E-04	0	2.89E-05	0	missense	2	0	"Rare Single Gene Mutation, Syndromic, Genetic Association"	0
+14892	D206	9780	Familial_control	chr2_170034504_170034504_G_C	LRP2	nonsynonymous SNV	rs200563635	2.00E-04	0	2.89E-05	0	missense	2	0	"Rare Single Gene Mutation, Syndromic, Genetic Association"	0
+16166	D580	9780	Familial_control	chr2_170034504_170034504_G_C	LRP2	nonsynonymous SNV	rs200563635	2.00E-04	0	2.89E-05	0	missense	2	0	"Rare Single Gene Mutation, Syndromic, Genetic Association"	0
+15691	D328	10237	Familial_control	chr2_170055344_170055344_C_T	LRP2	nonsynonymous SNV	rs533432746	3.00E-04	6.15E-05	0	0	missense	2	0	"Rare Single Gene Mutation, Syndromic, Genetic Association"	0
+ICNBSX300	NotAvailable	gg1	population_control	chr1_220826649_220826649_C_T	MARK1	nonsynonymous SNV	rs145392116	5.00E-04	0	2.89E-05	0	missense	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+2191	D718	885	BPAD	chr3_129151949_129151949_T_G	MBD4	nonsynonymous SNV	rs138445306	3.27E-05	0	0	0	missense	2	0	Rare Single Gene Mutation	0
+2099	D716	885	Schizophrenia	chr3_129151949_129151949_T_G	MBD4	nonsynonymous SNV	rs138445306	3.27E-05	0	0	0	missense	2	0	Rare Single Gene Mutation	0
+1254	D676	580	Familial_control	chr17_60028340_60028340_A_G	MED13	nonsynonymous SNV	rs200978949	0	6.46E-05	0	0	missense	1	0	"Rare Single Gene Mutation, Syndromic"	9.3
+1253	D675	580	Schizophrenia	chr17_60028340_60028340_A_G	MED13	nonsynonymous SNV	rs200978949	0	6.46E-05	0	0	missense	1	0	"Rare Single Gene Mutation, Syndromic"	9.3
+14586	D152	190	BPAD	chr15_66209214_66209214_C_T	MEGF11	nonsynonymous SNV	rs376865517	0	2.00E-04	1.00E-04	0	missense	2	0	Rare Single Gene Mutation	0
+1431	D688	629	Schizophrenia	chr18_19371465_19371465_C_T	MIB1	stopgain	rs376597435	6.54E-05	0	0	5.44E-05	LOF	2	0	Rare Single Gene Mutation	0
+12995	D711	825	BPAD	chr16_14340885_14340885_C_A	MRTFB	nonsynonymous SNV	rs114065872	3.27E-05	0	0	0.0082	missense	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+14375	D723	8868	Schizophrenia	chr8_16021639_16021639_G_A	MSR1	nonsynonymous SNV	rs536080410	8.00E-04	0	0	0	missense	2	0	Rare Single Gene Mutation	0
+16470	D868	10449	Familial_control	chr8_16012594_16012594_G_A	MSR1	stopgain	rs41341748	7.00E-04	0.0019	0.0117	5.45E-05	LOF	2	0	Rare Single Gene Mutation	0
+922	D653	450	Schizophrenia	chr7_100635606_100635606_G_T	MUC12	stopgain	NotAvailable	8.80E-05	0	0	0	LOF	2	0	Rare Single Gene Mutation	0
+GNPC476	D1438	4348	population_control	chr7_100645804_100645804_C_G	MUC12	stopgain	NotAvailable	0	0	0	0	LOF	2	0	Rare Single Gene Mutation	0
+15744	D471	10237	Familial_control	chr7_100638588_100638588_C_T	MUC12	stopgain	rs772408084	4.52E-05	3.00E-04	1.00E-04	0	LOF	2	0	Rare Single Gene Mutation	0
+15744	D471	10237	Familial_control	chr7_100643259_100643259_C_T	MUC12	stopgain	rs764167828	2.00E-04	0	5.00E-04	0	LOF	2	0	Rare Single Gene Mutation	0
+15745	D472	10237	Familial_control	chr7_100638588_100638588_C_T	MUC12	stopgain	rs772408084	4.52E-05	3.00E-04	1.00E-04	0	LOF	2	0	Rare Single Gene Mutation	0
+15745	D472	10237	Familial_control	chr7_100643259_100643259_C_T	MUC12	stopgain	rs764167828	2.00E-04	0	5.00E-04	0	LOF	2	0	Rare Single Gene Mutation	0
+15745	D472	10237	Familial_control	chr7_100643335_100643335_C_-	MUC12	frameshift deletion	NotAvailable	0	0	0	0	indel	2	0	Rare Single Gene Mutation	0
+15746	D473	10237	Familial_control	chr7_100638588_100638588_C_T	MUC12	stopgain	rs772408084	4.52E-05	3.00E-04	1.00E-04	0	LOF	2	0	Rare Single Gene Mutation	0
+15746	D473	10237	Familial_control	chr7_100643259_100643259_C_T	MUC12	stopgain	rs764167828	2.00E-04	0	5.00E-04	0	LOF	2	0	Rare Single Gene Mutation	0
+16340	D798	167	Familial_control	chr3_195506651_195506652_CA_-	MUC4	frameshift deletion	rs778981043	0	0	0	0	indel	2	0	Rare Single Gene Mutation	0
+4538	D638	275	Familial_control	chr3_195513382_195513382_-_A	MUC4	frameshift insertion	NotAvailable	0	0	8.08E-05	0	indel	2	0	Rare Single Gene Mutation	0
+4538	D638	275	Familial_control	chr3_195513385_195513385_G_-	MUC4	frameshift deletion	NotAvailable	0	0	1.00E-04	0	indel	2	0	Rare Single Gene Mutation	0
+17517	D1360	9766	Schizophrenia	chr17_8417151_8417151_C_T	MYH10	nonsynonymous SNV	rs777490499	6.53E-05	0	0	0	missense	2	0	Rare Single Gene Mutation	0
+6545	D20	72	BPAD	chr17_10351989_10351989_C_-	MYH4	frameshift deletion	rs773763976	7.00E-04	0	0	6.00E-04	indel	2	0	Rare Single Gene Mutation	0
+14639	D21	72	Familial_control	chr17_10351989_10351989_C_-	MYH4	frameshift deletion	rs773763976	7.00E-04	0	0	6.00E-04	indel	2	0	Rare Single Gene Mutation	0
+14891	D205	9780	BPAD	chr17_10367998_10367998_G_A	MYH4	nonsynonymous SNV	rs563253512	4.00E-04	6.16E-05	8.68E-05	0	missense	2	0	Rare Single Gene Mutation	0
+16166	D580	9780	Familial_control	chr17_10367998_10367998_G_A	MYH4	nonsynonymous SNV	rs563253512	4.00E-04	6.16E-05	8.68E-05	0	missense	2	0	Rare Single Gene Mutation	0
+15503	D275	10124	Addiction	chr17_10351410_10351410_G_A	MYH4	nonsynonymous SNV	rs149046569	3.27E-05	0	0	4.00E-04	missense	2	0	Rare Single Gene Mutation	0
+15501	D273	10124	Addiction	chr17_10351410_10351410_G_A	MYH4	nonsynonymous SNV	rs149046569	3.27E-05	0	0	4.00E-04	missense	2	0	Rare Single Gene Mutation	0
+3633	D51	190	BPAD	chr22_36681311_36681311_C_T	MYH9	nonsynonymous SNV	rs760128307	2.00E-04	0	0	0	missense	2	0	Rare Single Gene Mutation	0
+4853	D54	190	Schizophrenia	chr22_36681311_36681311_C_T	MYH9	nonsynonymous SNV	rs760128307	2.00E-04	0	0	0	missense	2	0	Rare Single Gene Mutation	0
+15099	D231	9877	Addiction	chr22_36691666_36691666_G_A	MYH9	nonsynonymous SNV	NotAvailable	0	0	0	0	missense	2	0	Rare Single Gene Mutation	0
+16535	D917	9877	Familial_control	chr22_36691666_36691666_G_A	MYH9	nonsynonymous SNV	NotAvailable	0	0	0	0	missense	2	0	Rare Single Gene Mutation	0
+15098	D230	9877	Schizophrenia	chr22_36691666_36691666_G_A	MYH9	nonsynonymous SNV	NotAvailable	0	0	0	0	missense	2	0	Rare Single Gene Mutation	0
+1267	D684	583	BPAD	chr13_109518537_109518537_G_T	MYO16	nonsynonymous SNV	rs535727022	5.00E-04	0	0	0	missense	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+1266	D682	583	BPAD	chr13_109518537_109518537_G_T	MYO16	nonsynonymous SNV	rs535727022	5.00E-04	0	0	0	missense	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+1264	D106	583	BPAD	chr13_109518537_109518537_G_T	MYO16	nonsynonymous SNV	rs535727022	5.00E-04	0	0	0	missense	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+6312	D25	72	BPAD	chr15_59516962_59516962_A_C	MYO1E	nonsynonymous SNV	rs777954602	3.27E-05	0	0	0	missense	2	0	Rare Single Gene Mutation	0
+6311	D22	72	BPAD	chr15_59516962_59516962_A_C	MYO1E	nonsynonymous SNV	rs777954602	3.27E-05	0	0	0	missense	2	0	Rare Single Gene Mutation	0
+14640	D161	72	Familial_control	chr15_59516962_59516962_A_C	MYO1E	nonsynonymous SNV	rs777954602	3.27E-05	0	0	0	missense	2	0	Rare Single Gene Mutation	0
+17202	D1223	9913	Schizophrenia	chr15_52664445_52664445_C_T	MYO5A	nonsynonymous SNV	rs764683651	0	0	2.90E-05	0	missense	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+548	D642	280	BPAD	chr15_52536641_52536641_G_A	MYO5C	nonsynonymous SNV	rs543424613	1.00E-04	0	0	0	missense	2	0	Rare Single Gene Mutation	0
+ICNBSX349	NotAvailable	gg50	population_control	chr15_52532033_52532033_C_T	MYO5C	nonsynonymous SNV	rs561520606	2.00E-04	0	0	0	missense	2	0	Rare Single Gene Mutation	0
+ICNBSX305	NotAvailable	gg6	population_control	chr15_52532033_52532033_C_T	MYO5C	nonsynonymous SNV	rs561520606	2.00E-04	0	0	0	missense	2	0	Rare Single Gene Mutation	0
+GNPC264	D1434	g95	population_control	chr15_73415066_73415066_G_A	NEO1	nonsynonymous SNV	rs199732048	9.80E-05	6.15E-05	0	0	missense	2	0	0	0
+2503	D628	1058	Schizophrenia	chr7_26225180_26225181_AG_-	NFE2L3	frameshift deletion	rs781540262	3.27E-05	0	2.90E-05	5.44E-05	indel	2	0	Rare Single Gene Mutation	0
+2502	D629	1058	Schizophrenia	chr7_26225180_26225181_AG_-	NFE2L3	frameshift deletion	rs781540262	3.27E-05	0	2.90E-05	5.44E-05	indel	2	0	Rare Single Gene Mutation	0
+4208	D633	1904	Schizophrenia	chr7_26225015_26225015_T_G	NFE2L3	stopgain	rs571354002	5.00E-04	0	0	0	LOF	2	0	Rare Single Gene Mutation	0
+ICNBSX300	NotAvailable	gg1	population_control	chr7_26225015_26225015_T_G	NFE2L3	stopgain	rs571354002	5.00E-04	0	0	0	LOF	2	0	Rare Single Gene Mutation	0
+ICNBSX301	NotAvailable	gg2	population_control	chr7_26225179_26225182_AAGA_-	NFE2L3	frameshift deletion	rs747447312	1.00E-04	1.00E-04	2.90E-05	1.00E-04	indel	2	0	Rare Single Gene Mutation	0
+ICNBSX349	NotAvailable	gg50	population_control	chr7_26225179_26225182_AAGA_-	NFE2L3	frameshift deletion	rs747447312	1.00E-04	1.00E-04	2.90E-05	1.00E-04	indel	2	0	Rare Single Gene Mutation	0
+2301	D727	961	Schizophrenia	chr5_36986184_36986184_A_G	NIPBL	nonsynonymous SNV	rs759781764	5.00E-04	0	0	0	missense	1	0	"Rare Single Gene Mutation, Syndromic"	0
+16331	D789	10496	Addiction	chr7_107834757_107834757_C_A	NRCAM	nonsynonymous SNV	rs575809441	9.83E-05	0	0	0	missense	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+15274	D249	9975	OCD	chr2_206608155_206608155_G_A	NRP2	nonsynonymous SNV	rs537993529	5.00E-04	0	2.89E-05	0	missense	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+GNPC609	D1441	g352	population_control	chr2_206605378_206605378_C_T	NRP2	nonsynonymous SNV	rs139711818	5.00E-04	0	0	0	missense	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+17517	D1360	9766	Schizophrenia	chr2_50733680_50733680_C_T	NRXN1	nonsynonymous SNV	rs201873057	0	0	0	0	missense	1	0	"Rare Single Gene Mutation, Syndromic, Genetic Association, Functional"	143.75
+14355	D95	518	Familial_control	chr14_79181288_79181288_A_G	NRXN3	nonsynonymous SNV	rs202245705	0	0	0	0	missense	1	0	"Rare Single Gene Mutation, Genetic Association, Functional"	11.1
+14361	D140	8889	Familial_control	chr14_79432416_79432416_C_T	NRXN3	nonsynonymous SNV	rs772692723	2.00E-04	0	0	0	missense	1	0	"Rare Single Gene Mutation, Genetic Association, Functional"	11.1
+14263	D138	8889	Schizophrenia	chr14_79432416_79432416_C_T	NRXN3	nonsynonymous SNV	rs772692723	2.00E-04	0	0	0	missense	1	0	"Rare Single Gene Mutation, Genetic Association, Functional"	11.1
+ICNBSX304	NotAvailable	gg5	population_control	chr5_176562639_176562639_A_G	NSD1	nonsynonymous SNV	rs752487790	6.53E-05	0	0	0	missense	1	0	"Rare Single Gene Mutation, Syndromic"	0
+S186	D731	S2	Schizophrenia	chr5_176637765_176637765_A_G	NSD1	nonsynonymous SNV	rs764409548	3.27E-05	0	0	0	missense	1	0	"Rare Single Gene Mutation, Syndromic"	0
+S185	D643	S4	Schizophrenia	chr5_176637765_176637765_A_G	NSD1	nonsynonymous SNV	rs764409548	3.27E-05	0	0	0	missense	1	0	"Rare Single Gene Mutation, Syndromic"	0
+15415	D263	10061	OCD	chr1_156834169_156834169_T_A	NTRK1	nonsynonymous SNV	rs139140006	2.00E-04	0	2.00E-04	0	missense	2	0	"Rare Single Gene Mutation, Syndromic"	0
+ICNBSX335	NotAvailable	gg36	population_control	chr9_87482332_87482332_T_A	NTRK2	nonsynonymous SNV	NotAvailable	3.27E-05	0	0	0	missense	0	1	"Rare Single Gene Mutation, Syndromic"	0
+ICNBSX336	NotAvailable	gg37	population_control	chr9_87482332_87482332_T_A	NTRK2	nonsynonymous SNV	NotAvailable	3.27E-05	0	0	0	missense	0	1	"Rare Single Gene Mutation, Syndromic"	0
+15503	D275	10124	Addiction	chr5_37299582_37299582_A_G	NUP155	nonsynonymous SNV	NotAvailable	0	0	2.89E-05	0	missense	1	0	Rare Single Gene Mutation	0.1
+15501	D273	10124	Addiction	chr5_37299582_37299582_A_G	NUP155	nonsynonymous SNV	NotAvailable	0	0	2.89E-05	0	missense	1	0	Rare Single Gene Mutation	0.1
+ICNBSX316	NotAvailable	gg17	population_control	chr5_37348614_37348614_T_A	NUP155	nonsynonymous SNV	rs748909089	9.80E-05	0	0	0	missense	1	0	Rare Single Gene Mutation	0.1
+15064	D228	9829	Familial_control	chrX_13787218_13787218_C_G	OFD1	nonsynonymous SNV	rs777878434	3.00E-04	0	0	0	missense	2	0	Rare Single Gene Mutation	0
+16610	D948	9829	Familial_control	chrX_13787218_13787218_C_G	OFD1	nonsynonymous SNV	rs777878434	3.00E-04	0	0	0	missense	2	0	Rare Single Gene Mutation	0
+15774	D374	9860	Familial_control	chrX_13775836_13775836_A_G	OFD1	nonsynonymous SNV	rs754484224	4.00E-04	0	0	0	missense	2	0	Rare Single Gene Mutation	0
+15772	D372	9860	OCD	chrX_13775836_13775836_A_G	OFD1	nonsynonymous SNV	rs754484224	4.00E-04	0	0	0	missense	2	0	Rare Single Gene Mutation	0
+2446	D627	1028	BPAD	chr12_103288572_103288572_A_G	PAH	nonsynonymous SNV	rs62517167	1.00E-04	0	0	0	missense	1	0	"Rare Single Gene Mutation, Syndromic"	0
+9032	D127	5069	Schizophrenia	chr12_103246654_103246654_G_A	PAH	stopgain	rs5030850	0	0	2.89E-05	0	LOF	1	0	"Rare Single Gene Mutation, Syndromic"	0
+9033	D125	5069	Schizophrenia	chr12_103246654_103246654_G_A	PAH	stopgain	rs5030850	0	0	2.89E-05	0	LOF	1	0	"Rare Single Gene Mutation, Syndromic"	0
+14639	D21	72	Familial_control	chr3_196529902_196529902_G_C	PAK2	nonsynonymous SNV	rs201465227	3.00E-04	4.00E-04	0.0011	8.00E-04	missense	2	0	"Rare Single Gene Mutation, Syndromic"	0
+14639	D21	72	Familial_control	chr3_196530035_196530035_-_A	PAK2	frameshift insertion	rs753242485	1.00E-04	0	0	0	indel	2	0	"Rare Single Gene Mutation, Syndromic"	0
+14556	D65	195	BPAD	chr3_196529902_196529902_G_C	PAK2	nonsynonymous SNV	rs201465227	3.00E-04	4.00E-04	0.0011	8.00E-04	missense	2	0	"Rare Single Gene Mutation, Syndromic"	0
+14557	D59	195	Familial_control	chr3_196530035_196530035_-_A	PAK2	frameshift insertion	rs753242485	1.00E-04	0	0	0	indel	2	0	"Rare Single Gene Mutation, Syndromic"	0
+1846	D637	275	Schizophrenia	chr3_196530035_196530035_-_A	PAK2	frameshift insertion	rs753242485	1.00E-04	0	0	0	indel	2	0	"Rare Single Gene Mutation, Syndromic"	0
+1005	D658	490	BPAD	chr3_196530035_196530035_-_A	PAK2	frameshift insertion	rs753242485	1.00E-04	0	0	0	indel	2	0	"Rare Single Gene Mutation, Syndromic"	0
+13545	D102	518	BPAD	chr3_196529902_196529902_G_C	PAK2	nonsynonymous SNV	rs201465227	3.00E-04	4.00E-04	0.0011	8.00E-04	missense	2	0	"Rare Single Gene Mutation, Syndromic"	0
+14594	D155	760	Familial_control	chr3_196529902_196529902_G_C	PAK2	nonsynonymous SNV	rs201465227	3.00E-04	4.00E-04	0.0011	8.00E-04	missense	2	0	"Rare Single Gene Mutation, Syndromic"	0
+14594	D155	760	Familial_control	chr3_196530035_196530035_-_A	PAK2	frameshift insertion	rs753242485	1.00E-04	0	0	0	indel	2	0	"Rare Single Gene Mutation, Syndromic"	0
+14382	D651	3681	Familial_control	chr3_196529902_196529902_G_C	PAK2	nonsynonymous SNV	rs201465227	3.00E-04	4.00E-04	0.0011	8.00E-04	missense	2	0	"Rare Single Gene Mutation, Syndromic"	0
+14382	D651	3681	Familial_control	chr3_196530035_196530035_-_A	PAK2	frameshift insertion	rs753242485	1.00E-04	0	0	0	indel	2	0	"Rare Single Gene Mutation, Syndromic"	0
+9034	D126	5069	Familial_control	chr3_196529902_196529902_G_C	PAK2	nonsynonymous SNV	rs201465227	3.00E-04	4.00E-04	0.0011	8.00E-04	missense	2	0	"Rare Single Gene Mutation, Syndromic"	0
+16275	D619	7862	Familial_control	chr3_196529902_196529902_G_C	PAK2	nonsynonymous SNV	rs201465227	3.00E-04	4.00E-04	0.0011	8.00E-04	missense	2	0	"Rare Single Gene Mutation, Syndromic"	0
+16726	D998	7862	Familial_control	chr3_196529902_196529902_G_C	PAK2	nonsynonymous SNV	rs201465227	3.00E-04	4.00E-04	0.0011	8.00E-04	missense	2	0	"Rare Single Gene Mutation, Syndromic"	0
+14634	D160	8356	Familial_control	chr3_196530035_196530035_-_A	PAK2	frameshift insertion	rs753242485	1.00E-04	0	0	0	indel	2	0	"Rare Single Gene Mutation, Syndromic"	0
+13241	D1427	8617	BPAD	chr3_196529902_196529902_G_C	PAK2	nonsynonymous SNV	rs201465227	3.00E-04	4.00E-04	0.0011	8.00E-04	missense	2	0	"Rare Single Gene Mutation, Syndromic"	0
+14629	D159	9067	Familial_control	chr3_196529902_196529902_G_C	PAK2	nonsynonymous SNV	rs201465227	3.00E-04	4.00E-04	0.0011	8.00E-04	missense	2	0	"Rare Single Gene Mutation, Syndromic"	0
+14627	D157	9067	Schizophrenia	chr3_196529902_196529902_G_C	PAK2	nonsynonymous SNV	rs201465227	3.00E-04	4.00E-04	0.0011	8.00E-04	missense	2	0	"Rare Single Gene Mutation, Syndromic"	0
+14891	D205	9780	BPAD	chr3_196529902_196529902_G_C	PAK2	nonsynonymous SNV	rs201465227	3.00E-04	4.00E-04	0.0011	8.00E-04	missense	2	0	"Rare Single Gene Mutation, Syndromic"	0
+14892	D206	9780	Familial_control	chr3_196529902_196529902_G_C	PAK2	nonsynonymous SNV	rs201465227	3.00E-04	4.00E-04	0.0011	8.00E-04	missense	2	0	"Rare Single Gene Mutation, Syndromic"	0
+15099	D231	9877	Addiction	chr3_196529902_196529902_G_C	PAK2	nonsynonymous SNV	rs201465227	3.00E-04	4.00E-04	0.0011	8.00E-04	missense	2	0	"Rare Single Gene Mutation, Syndromic"	0
+15098	D230	9877	Schizophrenia	chr3_196529902_196529902_G_C	PAK2	nonsynonymous SNV	rs201465227	3.00E-04	4.00E-04	0.0011	8.00E-04	missense	2	0	"Rare Single Gene Mutation, Syndromic"	0
+15691	D328	10237	Familial_control	chr3_196529902_196529902_G_C	PAK2	nonsynonymous SNV	rs201465227	3.00E-04	4.00E-04	0.0011	8.00E-04	missense	2	0	"Rare Single Gene Mutation, Syndromic"	0
+16443	D846	10535	Familial_control	chr3_196529902_196529902_G_C	PAK2	nonsynonymous SNV	rs201465227	3.00E-04	4.00E-04	0.0011	8.00E-04	missense	2	0	"Rare Single Gene Mutation, Syndromic"	0
+GNPC390	D1436	g134	population_control	chr3_196529902_196529902_G_C	PAK2	nonsynonymous SNV	rs201465227	3.00E-04	4.00E-04	0.0011	8.00E-04	missense	2	0	"Rare Single Gene Mutation, Syndromic"	0
+GNPC343	D1435	g184	population_control	chr3_196529902_196529902_G_C	PAK2	nonsynonymous SNV	rs201465227	3.00E-04	4.00E-04	0.0011	8.00E-04	missense	2	0	"Rare Single Gene Mutation, Syndromic"	0
+GNPC559	D1439	g304	population_control	chr3_196529902_196529902_G_C	PAK2	nonsynonymous SNV	rs201465227	3.00E-04	4.00E-04	0.0011	8.00E-04	missense	2	0	"Rare Single Gene Mutation, Syndromic"	0
+GNPC559	D1439	g304	population_control	chr3_196530035_196530035_-_A	PAK2	frameshift insertion	rs753242485	1.00E-04	0	0	0	indel	2	0	"Rare Single Gene Mutation, Syndromic"	0
+GNPC609	D1441	g352	population_control	chr3_196530035_196530035_-_A	PAK2	frameshift insertion	rs753242485	1.00E-04	0	0	0	indel	2	0	"Rare Single Gene Mutation, Syndromic"	0
+GNPC101	D1432	g46	population_control	chr3_196530035_196530035_-_A	PAK2	frameshift insertion	rs753242485	1.00E-04	0	0	0	indel	2	0	"Rare Single Gene Mutation, Syndromic"	0
+GNPC127	D1433	g72	population_control	chr3_196529902_196529902_G_C	PAK2	nonsynonymous SNV	rs201465227	3.00E-04	4.00E-04	0.0011	8.00E-04	missense	2	0	"Rare Single Gene Mutation, Syndromic"	0
+GNPC264	D1434	g95	population_control	chr3_196529902_196529902_G_C	PAK2	nonsynonymous SNV	rs201465227	3.00E-04	4.00E-04	0.0011	8.00E-04	missense	2	0	"Rare Single Gene Mutation, Syndromic"	0
+2532	D648	36	Schizophrenia	chr11_66617873_66617873_C_T	PC	nonsynonymous SNV	rs745486772	2.00E-04	0	2.89E-05	0	missense	3	0	Rare Single Gene Mutation	0
+1372	D302	167	Familial_control	chr10_55569135_55569135_T_A	PCDH15	stopgain	rs778486965	3.27E-05	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Syndromic, Genetic Association"	0
+16340	D798	167	Familial_control	chr10_55569135_55569135_T_A	PCDH15	stopgain	rs778486965	3.27E-05	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Syndromic, Genetic Association"	0
+16341	D799	167	Familial_control	chr10_55569135_55569135_T_A	PCDH15	stopgain	rs778486965	3.27E-05	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Syndromic, Genetic Association"	0
+17476	D1343	167	Familial_control	chr10_55569135_55569135_T_A	PCDH15	stopgain	rs778486965	3.27E-05	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Syndromic, Genetic Association"	0
+ICNBSX301	NotAvailable	gg2	population_control	chr5_140236526_140236526_C_-	PCDHA10	frameshift deletion	rs782681005	5.00E-04	0	0	0	indel	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+ICNBSX349	NotAvailable	gg50	population_control	chr5_140236526_140236526_C_-	PCDHA10	frameshift deletion	rs782681005	5.00E-04	0	0	0	indel	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+ICNBSX305	NotAvailable	gg6	population_control	chr5_140236526_140236526_C_-	PCDHA10	frameshift deletion	rs782681005	5.00E-04	0	0	0	indel	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+364	D62	195	BPAD	chr5_140255934_140255934_T_G	PCDHA12	nonsynonymous SNV	rs781967314	8.00E-04	0	0	0	missense	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+14349	D67	195	BPAD	chr5_140255934_140255934_T_G	PCDHA12	nonsynonymous SNV	rs781967314	8.00E-04	0	0	0	missense	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+14545	D151	195	Familial_control	chr5_140255934_140255934_T_G	PCDHA12	nonsynonymous SNV	rs781967314	8.00E-04	0	0	0	missense	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+1453	D60	195	Familial_control	chr5_140255934_140255934_T_G	PCDHA12	nonsynonymous SNV	rs781967314	8.00E-04	0	0	0	missense	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+1337	D64	195	Familial_control	chr5_140255934_140255934_T_G	PCDHA12	nonsynonymous SNV	rs781967314	8.00E-04	0	0	0	missense	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+17072	D1186	195	Familial_control	chr5_140255934_140255934_T_G	PCDHA12	nonsynonymous SNV	rs781967314	8.00E-04	0	0	0	missense	2	0	"Rare Single Gene Mutation, Genetic Association"	0
+14376	D137	8868	BPAD	chr8_22675168_22675168_C_A	PEBP4	nonsynonymous SNV	rs766098198	2.00E-04	0	0	0	missense	3	0	Rare Single Gene Mutation	0
+14498	D148	5069	Familial_control	chr9_140356418_140356419_CG_-	PNPLA7	frameshift deletion	rs1048353633	0	0	0	0	indel	2	0	Rare Single Gene Mutation	0
+9032	D127	5069	Schizophrenia	chr9_140356418_140356419_CG_-	PNPLA7	frameshift deletion	rs1048353633	0	0	0	0	indel	2	0	Rare Single Gene Mutation	0
+9033	D125	5069	Schizophrenia	chr9_140356418_140356419_CG_-	PNPLA7	frameshift deletion	rs1048353633	0	0	0	0	indel	2	0	Rare Single Gene Mutation	0
+17202	D1223	9913	Schizophrenia	chr9_140417240_140417240_C_T	PNPLA7	nonsynonymous SNV	rs777851424	9.00E-04	0	0	0	missense	2	0	Rare Single Gene Mutation	0
+16426	D830	10530	Familial_control	chr9_140392672_140392672_C_T	PNPLA7	nonsynonymous SNV	rs755276428	9.80E-05	0	5.79E-05	1.00E-04	missense	2	0	Rare Single Gene Mutation	0
+ICNBSX325	NotAvailable	gg26	population_control	chr9_140392635_140392635_G_A	PNPLA7	nonsynonymous SNV	rs539382882	9.80E-05	6.20E-05	0	3.00E-04	missense	2	0	Rare Single Gene Mutation	0
+1802	D705	764	Schizophrenia	chr9_134394333_134394333_G_A	POMT1	nonsynonymous SNV	rs549698565	3.27E-05	0	0	1.00E-04	missense	2	0	Rare Single Gene Mutation	0
+1833	D706	764	Schizophrenia	chr9_134394333_134394333_G_A	POMT1	nonsynonymous SNV	rs549698565	3.27E-05	0	0	1.00E-04	missense	2	0	Rare Single Gene Mutation	0
+14263	D138	8889	Schizophrenia	chr9_134394794_134394794_G_A	POMT1	nonsynonymous SNV	NotAvailable	0	0	0	0	missense	2	0	Rare Single Gene Mutation	0
+ICNBSX338	NotAvailable	gg39	population_control	chr9_134397571_134397571_C_T	POMT1	nonsynonymous SNV	rs547373832	2.00E-04	0	0	0	missense	2	0	Rare Single Gene Mutation	0
+ICNBSX310	NotAvailable	gg11	population_control	chr11_70221026_70221026_G_A	PPFIA1	nonsynonymous SNV	rs746898657	1.00E-04	6.28E-05	0	0	missense	2	0	Rare Single Gene Mutation	0
+1457	D704	75	BPAD	chr12_42853747_42853747_C_T	PRICKLE1	nonsynonymous SNV	rs776819993	3.00E-04	0	0	0	missense	2	0	"Rare Single Gene Mutation, Syndromic, Functional"	0
+14382	D651	3681	Familial_control	chr14_30046611_30046611_G_A	PRKD1	nonsynonymous SNV	rs556530827	1.00E-04	6.16E-05	1.00E-04	0	missense	0	1	"Rare Single Gene Mutation, Syndromic"	0
+GNPC127	D1433	g72	population_control	chr14_30194858_30194858_C_T	PRKD1	nonsynonymous SNV	rs771807174	0	0	0	0	missense	0	1	"Rare Single Gene Mutation, Syndromic"	0
+ICNBSX313	NotAvailable	gg14	population_control	chr6_163148699_163148699_A_G	PRKN	startloss	rs771586218	5.00E-04	0	0	1.00E-04	missense	2	0	"Rare Single Gene Mutation, Genetic Association, Functional"	0
+ICNBSX313	NotAvailable	gg14	population_control	chr6_163148699_163148699_A_G	PRKN	startloss	rs771586218	5.00E-04	0	0	1.00E-04	LOF	2	0	"Rare Single Gene Mutation, Genetic Association, Functional"	0
+717	D646	36	Dementia	chr6_43126606_43126606_C_T	PTK7	nonsynonymous SNV	rs140848241	2.00E-04	6.15E-05	2.89E-05	0	missense	1	0	Rare Single Gene Mutation	0
+5572	D649	36	Schizophrenia	chr6_43126606_43126606_C_T	PTK7	nonsynonymous SNV	rs140848241	2.00E-04	6.15E-05	2.89E-05	0	missense	1	0	Rare Single Gene Mutation	0
+1357	D685	606	Schizophrenia	chr6_43112206_43112206_G_T	PTK7	nonsynonymous SNV	rs200622454	6.53E-05	0	0	0	missense	1	0	Rare Single Gene Mutation	0
+12838	D710	825	BPAD	chr20_40743919_40743919_C_A	PTPRT	nonsynonymous SNV	rs188297454	0	0	0	0.0012	missense	2	0	"Rare Single Gene Mutation, Functional"	0
+14594	D155	760	Familial_control	chr2_1652001_1652001_G_A	PXDN	nonsynonymous SNV	rs370226454	5.00E-04	1.00E-04	5.79E-05	0	missense	2	0	"Rare Single Gene Mutation, Syndromic"	0
+4064	D680	580	BPAD	chr20_1209128_1209128_C_T	RAD21L1	stopgain	rs762518164	8.88E-05	0	0	0	LOF	2	0	Rare Single Gene Mutation	0
+1372	D302	167	Familial_control	chr20_37203491_37203491_C_T	RALGAPB	nonsynonymous SNV	NotAvailable	0	0	0	0	missense	1	0	Rare Single Gene Mutation	0
+16133	D563	167	Schizophrenia	chr20_37203491_37203491_C_T	RALGAPB	nonsynonymous SNV	NotAvailable	0	0	0	0	missense	1	0	Rare Single Gene Mutation	0
+16135	D565	167	Schizophrenia	chr20_37203491_37203491_C_T	RALGAPB	nonsynonymous SNV	NotAvailable	0	0	0	0	missense	1	0	Rare Single Gene Mutation	0
+364	D62	195	BPAD	chr20_37198625_37198625_G_A	RALGAPB	nonsynonymous SNV	rs147384010	3.27E-05	0.0014	2.00E-04	0	missense	1	0	Rare Single Gene Mutation	0
+17072	D1186	195	Familial_control	chr20_37198625_37198625_G_A	RALGAPB	nonsynonymous SNV	rs147384010	3.27E-05	0.0014	2.00E-04	0	missense	1	0	Rare Single Gene Mutation	0
+1357	D685	606	Schizophrenia	chr1_874816_874816_-_T	SAMD11	frameshift insertion	rs200996316	5.00E-04	3.00E-04	1.00E-04	5.54E-05	indel	2	0	Rare Single Gene Mutation	0
+1749	D699	737	Schizophrenia	chr1_874816_874816_-_T	SAMD11	frameshift insertion	rs200996316	5.00E-04	3.00E-04	1.00E-04	5.54E-05	indel	2	0	Rare Single Gene Mutation	0
+14594	D155	760	Familial_control	chr1_874816_874816_-_T	SAMD11	frameshift insertion	rs200996316	5.00E-04	3.00E-04	1.00E-04	5.54E-05	indel	2	0	Rare Single Gene Mutation	0
+2390	D708	777	Schizophrenia	chr1_874816_874816_-_T	SAMD11	frameshift insertion	rs200996316	5.00E-04	3.00E-04	1.00E-04	5.54E-05	indel	2	0	Rare Single Gene Mutation	0
+2190	D721	885	Familial_control	chr1_874816_874816_-_T	SAMD11	frameshift insertion	rs200996316	5.00E-04	3.00E-04	1.00E-04	5.54E-05	indel	2	0	Rare Single Gene Mutation	0
+5991	D1431	2793	BPAD	chr1_874816_874816_-_T	SAMD11	frameshift insertion	rs200996316	5.00E-04	3.00E-04	1.00E-04	5.54E-05	indel	2	0	Rare Single Gene Mutation	0
+14628	D158	9067	Depression	chr1_874816_874816_-_T	SAMD11	frameshift insertion	rs200996316	5.00E-04	3.00E-04	1.00E-04	5.54E-05	indel	2	0	Rare Single Gene Mutation	0
+13962	D1428	9183	BPAD	chr1_874816_874816_-_T	SAMD11	frameshift insertion	rs200996316	5.00E-04	3.00E-04	1.00E-04	5.54E-05	indel	2	0	Rare Single Gene Mutation	0
+15468	D267	9975	Familial_control	chr1_874816_874816_-_T	SAMD11	frameshift insertion	rs200996316	5.00E-04	3.00E-04	1.00E-04	5.54E-05	indel	2	0	Rare Single Gene Mutation	0
+GNPC127	D1433	g72	population_control	chr1_874816_874816_-_T	SAMD11	frameshift insertion	rs200996316	5.00E-04	3.00E-04	1.00E-04	5.54E-05	indel	2	0	Rare Single Gene Mutation	0
+GNPC420	D1437	g84	population_control	chr1_874816_874816_-_T	SAMD11	frameshift insertion	rs200996316	5.00E-04	3.00E-04	1.00E-04	5.54E-05	indel	2	0	Rare Single Gene Mutation	0
+ICNBSX347	NotAvailable	gg48	population_control	chr1_874816_874816_-_T	SAMD11	frameshift insertion	rs200996316	5.00E-04	3.00E-04	1.00E-04	5.54E-05	indel	2	0	Rare Single Gene Mutation	0
+16443	D846	10535	Familial_control	chr22_50897994_50897994_C_T	SBF1	nonsynonymous SNV	rs767017894	0	0	0	0	missense	2	0	Rare Single Gene Mutation	0
+16751	D1012	518	Familial_control	chr4_54140057_54140057_G_A	SCFD2	nonsynonymous SNV	rs147079371	5.00E-04	0	2.91E-05	2.00E-04	missense	2	0	Rare Single Gene Mutation	0
+14890	D204	9781	BPAD	chr2_166868749_166868749_G_A	SCN1A	nonsynonymous SNV	rs140731963	2.00E-04	6.19E-05	2.00E-04	0	missense	1	0	"Rare Single Gene Mutation, Syndromic, Genetic Association, Functional"	0
+ICNBSX310	NotAvailable	gg11	population_control	chr2_166903318_166903318_T_C	SCN1A	nonsynonymous SNV	rs777596738	9.80E-05	0	0	0	missense	1	0	"Rare Single Gene Mutation, Syndromic, Genetic Association, Functional"	0
+ICNBSX302	NotAvailable	gg3	population_control	chr2_166903318_166903318_T_C	SCN1A	nonsynonymous SNV	rs777596738	9.80E-05	0	0	0	missense	1	0	"Rare Single Gene Mutation, Syndromic, Genetic Association, Functional"	0
+15064	D228	9829	Familial_control	chr2_166211176_166211176_A_G	SCN2A	nonsynonymous SNV	NotAvailable	3.27E-05	0	0	0	missense	1	0	"Rare Single Gene Mutation, Syndromic, Functional"	109.3
+16610	D948	9829	Familial_control	chr2_166211176_166211176_A_G	SCN2A	nonsynonymous SNV	NotAvailable	3.27E-05	0	0	0	missense	1	0	"Rare Single Gene Mutation, Syndromic, Functional"	109.3
+14970	D223	9829	Schizophrenia	chr2_166211176_166211176_A_G	SCN2A	nonsynonymous SNV	NotAvailable	3.27E-05	0	0	0	missense	1	0	"Rare Single Gene Mutation, Syndromic, Functional"	109.3
+17223	D1228	760	Addiction	chr17_62025363_62025363_C_T	SCN4A	nonsynonymous SNV	rs373150395	0	0	0	0	missense	2	0	Rare Single Gene Mutation	0
+15627	D301	167	BPAD	chr2_167162344_167162344_C_T	SCN9A	nonsynonymous SNV	rs73969684	6.00E-04	0.0137	0.0011	0.0042	missense	2	0	Rare Single Gene Mutation	0
+2968	D315	167	Depression	chr2_167162344_167162344_C_T	SCN9A	nonsynonymous SNV	rs73969684	6.00E-04	0.0137	0.0011	0.0042	missense	2	0	Rare Single Gene Mutation	0
+15415	D263	10061	OCD	chr2_167145126_167145126_T_C	SCN9A	nonsynonymous SNV	rs544004654	7.00E-04	6.49E-05	0	0	missense	2	0	Rare Single Gene Mutation	0
+ICNBSX327	NotAvailable	gg28	population_control	chr2_167145126_167145126_T_C	SCN9A	nonsynonymous SNV	rs544004654	7.00E-04	6.49E-05	0	0	missense	2	0	Rare Single Gene Mutation	0
+1267	D684	583	BPAD	chr7_100771831_100771831_C_T	SERPINE1	nonsynonymous SNV	rs761039040	2.00E-04	0	0	0	missense	2	0	Genetic Association	0
+1264	D106	583	BPAD	chr7_100771831_100771831_C_T	SERPINE1	nonsynonymous SNV	rs761039040	2.00E-04	0	0	0	missense	2	0	Genetic Association	0
+1263	D681	583	Familial_control	chr7_100771831_100771831_C_T	SERPINE1	nonsynonymous SNV	rs761039040	2.00E-04	0	0	0	missense	2	0	Genetic Association	0
+4538	D638	275	Familial_control	chr16_30976109_30976109_C_T	SETD1A	nonsynonymous SNV	rs746239302	9.80E-05	0	0	0	missense	1	0	"Rare Single Gene Mutation, Syndromic, Functional"	4.35
+1846	D637	275	Schizophrenia	chr3_9490271_9490271_G_A	SETD5	nonsynonymous SNV	rs759413834	2.00E-04	0	0	0	missense	1	0	"Rare Single Gene Mutation, Syndromic"	28.05
+14833	D194	9766	Schizophrenia	chr3_9512477_9512477_C_A	SETD5	nonsynonymous SNV	NotAvailable	0	0	0	0	missense	1	0	"Rare Single Gene Mutation, Syndromic"	28.05
+17517	D1360	9766	Schizophrenia	chr3_9512477_9512477_C_A	SETD5	nonsynonymous SNV	NotAvailable	0	0	0	0	missense	1	0	"Rare Single Gene Mutation, Syndromic"	28.05
+14349	D67	195	BPAD	chr1_150935088_150935088_G_A	SETDB1	nonsynonymous SNV	rs587677129	4.00E-04	0	0	2.00E-04	missense	2	0	Rare Single Gene Mutation	0
+15064	D228	9829	Familial_control	chr17_78184711_78184711_G_A	SGSH	nonsynonymous SNV	rs144035603	0	2.00E-04	2.90E-05	0	missense	0	1	"Rare Single Gene Mutation, Syndromic"	0
+14970	D223	9829	Schizophrenia	chr17_78184711_78184711_G_A	SGSH	nonsynonymous SNV	rs144035603	0	2.00E-04	2.90E-05	0	missense	0	1	"Rare Single Gene Mutation, Syndromic"	0
+16428	D832	10530	Schizophrenia	chr17_78184421_78184421_C_T	SGSH	nonsynonymous SNV	rs104894639	3.27E-05	0	3.00E-04	0	missense	0	1	"Rare Single Gene Mutation, Syndromic"	0
+2580	D115	760	BPAD	chr11_63174114_63174114_C_T	SLC22A9	stopgain	rs772732345	9.80E-05	0	0	0	LOF	2	0	Rare Single Gene Mutation	0
+17222	D1227	760	BPAD	chr11_63174114_63174114_C_T	SLC22A9	stopgain	rs772732345	9.80E-05	0	0	0	LOF	2	0	Rare Single Gene Mutation	0
+16509	D899	760	BPAD	chr11_63174114_63174114_C_T	SLC22A9	stopgain	rs772732345	9.80E-05	0	0	0	LOF	2	0	Rare Single Gene Mutation	0
+14594	D155	760	Familial_control	chr11_63174114_63174114_C_T	SLC22A9	stopgain	rs772732345	9.80E-05	0	0	0	LOF	2	0	Rare Single Gene Mutation	0
+17224	D1229	760	Familial_control	chr11_63174114_63174114_C_T	SLC22A9	stopgain	rs772732345	9.80E-05	0	0	0	LOF	2	0	Rare Single Gene Mutation	0
+717	D646	36	Dementia	chr5_1411443_1411443_G_A	SLC6A3	nonsynonymous SNV	rs267607069	0	0	0	0	missense	2	0	"Rare Single Gene Mutation, Syndromic, Genetic Association, Functional"	0
+548	D642	280	BPAD	chr16_87873310_87873310_C_T	SLC7A5	nonsynonymous SNV	rs780213182	1.00E-04	0	0	0	missense	2	0	"Rare Single Gene Mutation, Functional"	0
+547	D641	280	BPAD	chr16_87873310_87873310_C_T	SLC7A5	nonsynonymous SNV	rs780213182	1.00E-04	0	0	0	missense	2	0	"Rare Single Gene Mutation, Functional"	0
+ICNBSX323	NotAvailable	gg24	population_control	chr14_23282336_23282336_G_A	SLC7A7	nonsynonymous SNV	rs11568438	4.00E-04	0.0028	0.0051	0	missense	2	0	Rare Single Gene Mutation	0
+ICNBSX326	NotAvailable	gg27	population_control	chr14_23282336_23282336_G_A	SLC7A7	nonsynonymous SNV	rs11568438	4.00E-04	0.0028	0.0051	0	missense	2	0	Rare Single Gene Mutation	0
+1258	D678	580	BPAD	chr3_143567048_143567048_C_T	SLC9A9	stopgain	rs773729951	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association, Functional"	0
+1257	D677	580	BPAD	chr3_143567048_143567048_C_T	SLC9A9	stopgain	rs773729951	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association, Functional"	0
+1252	D674	580	BPAD	chr3_143567048_143567048_C_T	SLC9A9	stopgain	rs773729951	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association, Functional"	0
+1254	D676	580	Familial_control	chr3_143567048_143567048_C_T	SLC9A9	stopgain	rs773729951	0	0	0	0	LOF	2	0	"Rare Single Gene Mutation, Genetic Association, Functional"	0
+676	D645	333	BPAD	chr19_11096030_11096030_G_T	SMARCA4	nonsynonymous SNV	rs779627018	3.27E-05	0	0	0	missense	1	0	"Rare Single Gene Mutation, Syndromic, Functional"	0
+4538	D638	275	Familial_control	chr14_50626392_50626392_C_A	SOS2	nonsynonymous SNV	rs748632850	3.00E-04	0	2.00E-04	0	missense	0	0	"Rare Single Gene Mutation, Syndromic"	0
+13545	D102	518	BPAD	chr12_23998998_23998998_G_A	SOX5	nonsynonymous SNV	NotAvailable	3.27E-05	0	0	0	missense	1	0	"Rare Single Gene Mutation, Syndromic, Genetic Association"	17.6
+1105	D101	518	BPAD	chr12_23998998_23998998_G_A	SOX5	nonsynonymous SNV	NotAvailable	3.27E-05	0	0	0	missense	1	0	"Rare Single Gene Mutation, Syndromic, Genetic Association"	17.6
+14469	D96	518	BPAD	chr12_23998998_23998998_G_A	SOX5	nonsynonymous SNV	NotAvailable	3.27E-05	0	0	0	missense	1	0	"Rare Single Gene Mutation, Syndromic, Genetic Association"	17.6
+5705	D103	518	BPAD	chr12_23998998_23998998_G_A	SOX5	nonsynonymous SNV	NotAvailable	3.27E-05	0	0	0	missense	1	0	"Rare Single Gene Mutation, Syndromic, Genetic Association"	17.6
+14355	D95	518	Familial_control	chr12_23998998_23998998_G_A	SOX5	nonsynonymous SNV	NotAvailable	3.27E-05	0	0	0	missense	1	0	"Rare Single Gene Mutation, Syndromic, Genetic Association"	17.6
+16751	D1012	518	Familial_control	chr12_23998998_23998998_G_A	SOX5	nonsynonymous SNV	NotAvailable	3.27E-05	0	0	0	missense	1	0	"Rare Single Gene Mutation, Syndromic, Genetic Association"	17.6
+1432	D687	629	Schizophrenia	chr12_23757461_23757461_A_G	SOX5	nonsynonymous SNV	rs769948030	3.27E-05	0	0	0	missense	1	0	"Rare Single Gene Mutation, Syndromic, Genetic Association"	17.6
+1832	D1430	771	BPAD	chr12_24048932_24048932_G_A	SOX5	nonsynonymous SNV	rs61756182	4.00E-04	0	5.79E-05	0	missense	1	0	"Rare Single Gene Mutation, Syndromic, Genetic Association"	17.6
+1353	D686	606	Schizophrenia	chr21_34029367_34029367_G_A	SYNJ1	nonsynonymous SNV	rs370346211	8.00E-04	6.17E-05	0	0	missense	2	0	Rare Single Gene Mutation	0
+1357	D685	606	Schizophrenia	chr21_34029367_34029367_G_A	SYNJ1	nonsynonymous SNV	rs370346211	8.00E-04	6.17E-05	0	0	missense	2	0	Rare Single Gene Mutation	0
+1684	D696	712	Schizophrenia	chr21_34029367_34029367_G_A	SYNJ1	nonsynonymous SNV	rs370346211	8.00E-04	6.17E-05	0	0	missense	2	0	Rare Single Gene Mutation	0
+14628	D158	9067	Depression	chr3_100039735_100039735_-_A	TBC1D23	frameshift insertion	rs747637295	5.00E-04	1.00E-04	3.00E-04	2.00E-04	indel	0	1	"Rare Single Gene Mutation, Syndromic"	0
+15099	D231	9877	Addiction	chr10_114925427_114925427_C_G	TCF7L2	nonsynonymous SNV	rs760036701	9.95E-05	0	0	0	missense	1	0	"Rare Single Gene Mutation, Syndromic"	2.1
+16534	D916	9877	BPAD	chr10_114925427_114925427_C_G	TCF7L2	nonsynonymous SNV	rs760036701	9.95E-05	0	0	0	missense	1	0	"Rare Single Gene Mutation, Syndromic"	2.1
+16535	D917	9877	Familial_control	chr10_114925427_114925427_C_G	TCF7L2	nonsynonymous SNV	rs760036701	9.95E-05	0	0	0	missense	1	0	"Rare Single Gene Mutation, Syndromic"	2.1
+15098	D230	9877	Schizophrenia	chr10_114925427_114925427_C_G	TCF7L2	nonsynonymous SNV	rs760036701	9.95E-05	0	0	0	missense	1	0	"Rare Single Gene Mutation, Syndromic"	2.1
+GNPC343	D1435	g184	population_control	chr10_114901060_114901060_G_T	TCF7L2	nonsynonymous SNV	rs190966900	3.27E-05	0	0	0	missense	1	0	"Rare Single Gene Mutation, Syndromic"	2.1
+ICNBSX327	NotAvailable	gg28	population_control	chr10_114925724_114925724_T_C	TCF7L2	nonsynonymous SNV	rs746031799	1.00E-04	0	0	0	missense	1	0	"Rare Single Gene Mutation, Syndromic"	2.1
+1750	D698	737	Schizophrenia	chr17_38241003_38241003_G_T	THRA	nonsynonymous SNV	rs766596317	3.27E-05	0	0	0	missense	2	0	"Rare Single Gene Mutation, Functional"	0
+1749	D699	737	Schizophrenia	chr17_38241003_38241003_G_T	THRA	nonsynonymous SNV	rs766596317	3.27E-05	0	0	0	missense	2	0	"Rare Single Gene Mutation, Functional"	0
+ICNBSX314	NotAvailable	gg15	population_control	chr11_67234825_67234825_G_A	TMEM134	stopgain	rs756229958	3.27E-05	6.18E-05	0	0	LOF	3	0	Rare Single Gene Mutation	0
+ICNBSX311	NotAvailable	gg12	population_control	chr12_53453256_53453256_C_T	TNS2	nonsynonymous SNV	rs748095435	0	0	0	0	missense	3	0	Rare Single Gene Mutation	0
+GNPC570	D1440	g315	population_control	chr2_1491746_1491746_G_A	TPO	nonsynonymous SNV	rs145499396	0	7.00E-04	2.89E-05	0	missense	2	0	Genetic Association	0
+15648	D309	167	BPAD	chr9_119461061_119461061_A_T	TRIM32	nonsynonymous SNV	rs749760133	8.00E-04	0	0	0	missense	3	0	"Rare Single Gene Mutation, Functional"	0
+15627	D301	167	BPAD	chr9_119461061_119461061_A_T	TRIM32	nonsynonymous SNV	rs749760133	8.00E-04	0	0	0	missense	3	0	"Rare Single Gene Mutation, Functional"	0
+1372	D302	167	Familial_control	chr9_119461061_119461061_A_T	TRIM32	nonsynonymous SNV	rs749760133	8.00E-04	0	0	0	missense	3	0	"Rare Single Gene Mutation, Functional"	0
+ICNBSX310	NotAvailable	gg11	population_control	chr15_31339361_31339361_G_A	TRPM1	nonsynonymous SNV	NotAvailable	6.54E-05	0	0	0	missense	2	0	Rare Single Gene Mutation	0
+2301	D727	961	Schizophrenia	chr9_135798764_135798764_C_T	TSC1	nonsynonymous SNV	rs749979841	3.27E-05	4.00E-04	8.68E-05	0	missense	1	0	"Rare Single Gene Mutation, Syndromic, Functional"	17.1
+2299	D729	961	Schizophrenia	chr9_135798764_135798764_C_T	TSC1	nonsynonymous SNV	rs749979841	3.27E-05	4.00E-04	8.68E-05	0	missense	1	0	"Rare Single Gene Mutation, Syndromic, Functional"	17.1
+16331	D789	10496	Addiction	chr9_135772649_135772649_T_C	TSC1	nonsynonymous SNV	rs762213436	0	0	0	0	missense	1	0	"Rare Single Gene Mutation, Syndromic, Functional"	17.1
+14586	D152	190	BPAD	chr16_2134637_2134637_G_A	TSC2	nonsynonymous SNV	rs558737770	2.00E-04	0	0	0	missense	1	0	"Rare Single Gene Mutation, Syndromic, Genetic Association, Functional"	0
+78	D48	190	BPAD	chr16_2122959_2122959_A_G	TSC2	nonsynonymous SNV	rs759528809	6.53E-05	0	0	0	missense	1	0	"Rare Single Gene Mutation, Syndromic, Genetic Association, Functional"	0
+1266	D682	583	BPAD	chr16_2136825_2136825_A_G	TSC2	nonsynonymous SNV	rs749554579	2.00E-04	0	0	0	missense	1	0	"Rare Single Gene Mutation, Syndromic, Genetic Association, Functional"	0
+16275	D619	7862	Familial_control	chr16_2120475_2120475_C_G	TSC2	nonsynonymous SNV	rs45517196	9.00E-04	0	0	0	missense	1	0	"Rare Single Gene Mutation, Syndromic, Genetic Association, Functional"	0
+16726	D998	7862	Familial_control	chr16_2120475_2120475_C_G	TSC2	nonsynonymous SNV	rs45517196	9.00E-04	0	0	0	missense	1	0	"Rare Single Gene Mutation, Syndromic, Genetic Association, Functional"	0
+16273	D617	7862	OCD	chr16_2120475_2120475_C_G	TSC2	nonsynonymous SNV	rs45517196	9.00E-04	0	0	0	missense	1	0	"Rare Single Gene Mutation, Syndromic, Genetic Association, Functional"	0
+16274	D618	7862	OCD	chr16_2120475_2120475_C_G	TSC2	nonsynonymous SNV	rs45517196	9.00E-04	0	0	0	missense	1	0	"Rare Single Gene Mutation, Syndromic, Genetic Association, Functional"	0
+16610	D948	9829	Familial_control	chr16_2138565_2138565_G_A	TSC2	nonsynonymous SNV	rs45506695	2.00E-04	0	6.00E-04	0	missense	1	0	"Rare Single Gene Mutation, Syndromic, Genetic Association, Functional"	0
+14970	D223	9829	Schizophrenia	chr16_2138565_2138565_G_A	TSC2	nonsynonymous SNV	rs45506695	2.00E-04	0	6.00E-04	0	missense	1	0	"Rare Single Gene Mutation, Syndromic, Genetic Association, Functional"	0
+16440	D843	10534	BPAD	chr16_2134637_2134637_G_A	TSC2	nonsynonymous SNV	rs558737770	2.00E-04	0	0	0	missense	1	0	"Rare Single Gene Mutation, Syndromic, Genetic Association, Functional"	0
+ICNBSX329	NotAvailable	gg30	population_control	chr16_2136258_2136258_C_T	TSC2	nonsynonymous SNV	rs45437192	2.00E-04	0	0	0	missense	1	0	"Rare Single Gene Mutation, Syndromic, Genetic Association, Functional"	0
+16302	D766	10487	BPAD	chr2_179615864_179615867_CAGA_-	TTN	frameshift deletion	rs774827197	3.27E-05	0	0	0	indel	2	1	"Rare Single Gene Mutation, Syndromic"	0
+16798	D1043	10487	Familial_control	chr2_179615864_179615867_CAGA_-	TTN	frameshift deletion	rs774827197	3.27E-05	0	0	0	indel	2	1	"Rare Single Gene Mutation, Syndromic"	0
+ICNBSX327	NotAvailable	gg28	population_control	chr2_179433674_179433674_T_A	TTN	stopgain	rs542074139	2.00E-04	0	0	0	LOF	2	1	"Rare Single Gene Mutation, Syndromic"	0
+ICNBSX306	NotAvailable	gg7	population_control	chr15_43258414_43258414_G_A	UBR1	nonsynonymous SNV	rs1017583113	0	0	0	0	missense	1	0	Rare Single Gene Mutation	1.6
+3480	D709	777	Schizophrenia	chr1_216062120_216062120_G_A	USH2A	nonsynonymous SNV	rs748455430	9.80E-05	0	2.89E-05	0	missense	2	0	Rare Single Gene Mutation	0
+13545	D102	518	BPAD	chr12_48272797_48272797_A_G	VDR	nonsynonymous SNV	rs762363150	1.00E-04	0	0	0	missense	2	0	"Genetic Association, Functional"	0
+14469	D96	518	BPAD	chr12_48272797_48272797_A_G	VDR	nonsynonymous SNV	rs762363150	1.00E-04	0	0	0	missense	2	0	"Genetic Association, Functional"	0
+14355	D95	518	Familial_control	chr12_48272797_48272797_A_G	VDR	nonsynonymous SNV	rs762363150	1.00E-04	0	0	0	missense	2	0	"Genetic Association, Functional"	0
+2390	D708	777	Schizophrenia	chr10_50029140_50029140_C_T	WDFY4	stopgain	rs765553426	0	0	0	0	LOF	2	0	Rare Single Gene Mutation	0
+15468	D267	9975	Familial_control	chr16_78466528_78466528_C_T	WWOX	nonsynonymous SNV	rs79399971	8.00E-04	0	2.90E-05	0	missense	2	0	"Rare Single Gene Mutation, Syndromic"	0
+ICNBSX321	NotAvailable	gg22	population_control	chr8_146033433_146033433_C_T	ZNF517	stopgain	rs1040131557	0	0	0	0	LOF	2	0	Rare Single Gene Mutation	0
+6312	D25	72	BPAD	chr19_9452669_9452670_AA_-	ZNF559	frameshift deletion	rs777797342	2.00E-04	0	0.0017	0	indel	2	0	Rare Single Gene Mutation	0
+14639	D21	72	Familial_control	chr19_9452669_9452670_AA_-	ZNF559	frameshift deletion	rs777797342	2.00E-04	0	0.0017	0	indel	2	0	Rare Single Gene Mutation	0
+17223	D1228	760	Addiction	chr19_9453326_9453326_-_G	ZNF559	frameshift insertion	rs769290909	6.53E-05	0	0	0	indel	2	0	Rare Single Gene Mutation	0
+17224	D1229	760	Familial_control	chr19_9453326_9453326_-_G	ZNF559	frameshift insertion	rs769290909	6.53E-05	0	0	0	indel	2	0	Rare Single Gene Mutation	0
