@@ -1,11 +1,4 @@
 ```python
-# import matplotlib
-# matplotlib.use('Agg')
-# import venn
-```
-
-
-```python
 import pandas as pd
 import numpy as np
 import os
