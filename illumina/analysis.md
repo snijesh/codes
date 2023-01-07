@@ -33,11 +33,6 @@ list.files()
 ```
 
 
-<style>
-.list-inline {list-style: none; margin:0; padding: 0}
-.list-inline>li {display: inline-block}
-.list-inline>li:not(:last-child)::after {content: "\00b7"; padding: 0 .5ex}
-</style>
 <ol class=list-inline><li>'GSE28521_non-normalized_data.txt'</li><li>'GSE28521_non-normalized_data.txt.gz'</li><li>'GSE28521_series_matrix.txt'</li><li>'GSE28521_series_matrix.txt.gz'</li><li>'target.txt'</li></ol>
 
 
@@ -50,11 +45,6 @@ head(df,4)
 ```
 
 
-<style>
-.list-inline {list-style: none; margin:0; padding: 0}
-.list-inline>li {display: inline-block}
-.list-inline>li:not(:last-child)::after {content: "\00b7"; padding: 0 .5ex}
-</style>
 <ol class=list-inline><li>24526</li><li>316</li></ol>
 
 
@@ -85,11 +75,6 @@ head(df_sub,4)
 ```
 
 
-<style>
-.list-inline {list-style: none; margin:0; padding: 0}
-.list-inline>li {display: inline-block}
-.list-inline>li:not(:last-child)::after {content: "\00b7"; padding: 0 .5ex}
-</style>
 <ol class=list-inline><li>24526</li><li>79</li></ol>
 
 
@@ -196,11 +181,6 @@ dim(df_sub)
 
 
 
-<style>
-.list-inline {list-style: none; margin:0; padding: 0}
-.list-inline>li {display: inline-block}
-.list-inline>li:not(:last-child)::after {content: "\00b7"; padding: 0 .5ex}
-</style>
 <ol class=list-inline><li>24526</li><li>79</li></ol>
 
 
@@ -214,11 +194,6 @@ head(dfnorm)
 ```
 
 
-<style>
-.list-inline {list-style: none; margin:0; padding: 0}
-.list-inline>li {display: inline-block}
-.list-inline>li:not(:last-child)::after {content: "\00b7"; padding: 0 .5ex}
-</style>
 <ol class=list-inline><li>24526</li><li>79</li></ol>
 
 
@@ -308,32 +283,18 @@ unique(conditions)
 ```
 
 
-<style>
-.list-inline {list-style: none; margin:0; padding: 0}
-.list-inline>li {display: inline-block}
-.list-inline>li:not(:last-child)::after {content: "\00b7"; padding: 0 .5ex}
-</style>
 <ol class=list-inline><li>'autismCerebellum'</li><li>'autismCerebellum'</li><li>'autismCerebellum'</li><li>'autismCerebellum'</li><li>'autismCerebellum'</li><li>'autismCerebellum'</li></ol>
 
 
 
 
-<style>
-.list-inline {list-style: none; margin:0; padding: 0}
-.list-inline>li {display: inline-block}
-.list-inline>li:not(:last-child)::after {content: "\00b7"; padding: 0 .5ex}
-</style>
 <ol class=list-inline><li>autismCerebellum</li><li>controlsCerebellum</li><li>autismFrontalcortex</li><li>controlsFrontalcortex</li><li>autismTemporalcortex</li><li>controlsTemporalcortex</li></ol>
 
 <details>
 	<summary style=display:list-item;cursor:pointer>
 		<strong>Levels</strong>:
 	</summary>
-	<style>
-	.list-inline {list-style: none; margin:0; padding: 0}
-	.list-inline>li {display: inline-block}
-	.list-inline>li:not(:last-child)::after {content: "\00b7"; padding: 0 .5ex}
-	</style>
+
 	<ol class=list-inline><li>'autismCerebellum'</li><li>'controlsCerebellum'</li><li>'autismFrontalcortex'</li><li>'controlsFrontalcortex'</li><li>'autismTemporalcortex'</li><li>'controlsTemporalcortex'</li></ol>
 </details>
 
@@ -527,11 +488,6 @@ head(df,4)
 ```
 
 
-<style>
-.list-inline {list-style: none; margin:0; padding: 0}
-.list-inline>li {display: inline-block}
-.list-inline>li:not(:last-child)::after {content: "\00b7"; padding: 0 .5ex}
-</style>
 <ol class=list-inline><li>24526</li><li>80</li></ol>
 
 
@@ -587,11 +543,6 @@ dim(df1)
 
 
 
-<style>
-.list-inline {list-style: none; margin:0; padding: 0}
-.list-inline>li {display: inline-block}
-.list-inline>li:not(:last-child)::after {content: "\00b7"; padding: 0 .5ex}
-</style>
 <ol class=list-inline><li>17604</li><li>79</li></ol>
 
 
