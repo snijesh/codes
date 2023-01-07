@@ -1,0 +1,80 @@
+ID	Sample_ID	Sample_title	geo_accession	source	DiseaseStatus	brain_region	Group
+X4936551008_G	4936551008_G	A_AN11989_C	GSM706391	postmortem brain tissue	autism	Cerebellum	autismCerebellum
+X4936551006_C	4936551006_C	A_AN16115_C	GSM706392	postmortem brain tissue	autism	Cerebellum	autismCerebellum
+X4936551007_C	4936551007_C	A_AN16641_C	GSM706393	postmortem brain tissue	autism	Cerebellum	autismCerebellum
+X4936551013_C	4936551013_C	A_AN17254_C	GSM706394	postmortem brain tissue	autism	Cerebellum	autismCerebellum
+X4936551012_G	4936551012_G	A_AN19511_C	GSM706395	postmortem brain tissue	autism	Cerebellum	autismCerebellum
+X4936551004_C	4936551004_C	A_AN01570_C	GSM706396	postmortem brain tissue	autism	Cerebellum	autismCerebellum
+X4936551003_C	4936551003_C	A_AN06420_C	GSM706397	postmortem brain tissue	autism	Cerebellum	autismCerebellum
+X4936551012_C	4936551012_C	A_AN08166_C	GSM706398	postmortem brain tissue	autism	Cerebellum	autismCerebellum
+X4936551008_C	4936551008_C	A_AN08873_C	GSM706399	postmortem brain tissue	autism	Cerebellum	autismCerebellum
+X4936551005_C	4936551005_C	A_AN00764_C	GSM706400	postmortem brain tissue	autism	Cerebellum	autismCerebellum
+X4936551013_H	4936551013_H	C_AN10028_C	GSM706401	postmortem brain tissue	controls	Cerebellum	controlsCerebellum
+X4936551031_F	4936551031_F	C_AN12240_C	GSM706402	postmortem brain tissue	controls	Cerebellum	controlsCerebellum
+X4936551011_F	4936551011_F	C_AN13295_C	GSM706403	postmortem brain tissue	controls	Cerebellum	controlsCerebellum
+X4936551007_F	4936551007_F	C_AN14757_C	GSM706404	postmortem brain tissue	controls	Cerebellum	controlsCerebellum
+X4936551005_F	4936551005_F	C_AN15566_C	GSM706405	postmortem brain tissue	controls	Cerebellum	controlsCerebellum
+X4936551006_F	4936551006_F	C_AN17425_C	GSM706406	postmortem brain tissue	controls	Cerebellum	controlsCerebellum
+X4936551015_F	4936551015_F	C_AN19442_C	GSM706407	postmortem brain tissue	controls	Cerebellum	controlsCerebellum
+X4936551004_F	4936551004_F	C_AN19760_C	GSM706408	postmortem brain tissue	controls	Cerebellum	controlsCerebellum
+X4936551003_F	4936551003_F	C_AN01125_C	GSM706409	postmortem brain tissue	controls	Cerebellum	controlsCerebellum
+X4936551012_F	4936551012_F	C_AN03217_C	GSM706410	postmortem brain tissue	controls	Cerebellum	controlsCerebellum
+X4936551014_F	4936551014_F	C_AN00142_C	GSM706411	postmortem brain tissue	controls	Cerebellum	controlsCerebellum
+X4936551006_G	4936551006_G	A_AN11989_F	GSM706412	postmortem brain tissue	autism	Frontal cortex	autismFrontalcortex
+X4936551015_A	4936551015_A	A_AN12457_F	GSM706413	postmortem brain tissue	autism	Frontal cortex	autismFrontalcortex
+X4936551006_A	4936551006_A	A_AN16115_F	GSM706414	postmortem brain tissue	autism	Frontal cortex	autismFrontalcortex
+X4936551007_A	4936551007_A	A_AN16641_F	GSM706415	postmortem brain tissue	autism	Frontal cortex	autismFrontalcortex
+X4936551031_A	4936551031_A	A_AN17138_F	GSM706416	postmortem brain tissue	autism	Frontal cortex	autismFrontalcortex
+X4936551013_A	4936551013_A	A_AN17254_F	GSM706417	postmortem brain tissue	autism	Frontal cortex	autismFrontalcortex
+X4936551011_A	4936551011_A	A_AN17777_F	GSM706418	postmortem brain tissue	autism	Frontal cortex	autismFrontalcortex
+X4936551010_G	4936551010_G	A_AN19511_F	GSM706419	postmortem brain tissue	autism	Frontal cortex	autismFrontalcortex
+X4936551004_A	4936551004_A	A_AN01570_F	GSM706420	postmortem brain tissue	autism	Frontal cortex	autismFrontalcortex
+X4936551003_A	4936551003_A	A_AN06420_F	GSM706421	postmortem brain tissue	autism	Frontal cortex	autismFrontalcortex
+X4936551012_A	4936551012_A	A_AN08166_F	GSM706422	postmortem brain tissue	autism	Frontal cortex	autismFrontalcortex
+X4936551014_A	4936551014_A	A_AN08792_F	GSM706423	postmortem brain tissue	autism	Frontal cortex	autismFrontalcortex
+X4936551008_A	4936551008_A	A_AN08873_F	GSM706424	postmortem brain tissue	autism	Frontal cortex	autismFrontalcortex
+X4936551013_G	4936551013_G	A_AN09730_F	GSM706425	postmortem brain tissue	autism	Frontal cortex	autismFrontalcortex
+X4936551015_G	4936551015_G	A_AN00493_F	GSM706426	postmortem brain tissue	autism	Frontal cortex	autismFrontalcortex
+X4936551005_A	4936551005_A	A_AN00764_F	GSM706427	postmortem brain tissue	autism	Frontal cortex	autismFrontalcortex
+X4936551011_H	4936551011_H	C_AN10028_F	GSM706428	postmortem brain tissue	controls	Frontal cortex	controlsFrontalcortex
+X4936551013_D	4936551013_D	C_AN10833_F	GSM706429	postmortem brain tissue	controls	Frontal cortex	controlsFrontalcortex
+X4936551002_D	4936551002_D	C_AN12137_F	GSM706430	postmortem brain tissue	controls	Frontal cortex	controlsFrontalcortex
+X4936551031_D	4936551031_D	C_AN12240_F	GSM706431	postmortem brain tissue	controls	Frontal cortex	controlsFrontalcortex
+X4936551007_D	4936551007_D	C_AN14757_F	GSM706432	postmortem brain tissue	controls	Frontal cortex	controlsFrontalcortex
+X4936551005_D	4936551005_D	C_AN15566_F	GSM706433	postmortem brain tissue	controls	Frontal cortex	controlsFrontalcortex
+X4936551006_D	4936551006_D	C_AN17425_F	GSM706434	postmortem brain tissue	controls	Frontal cortex	controlsFrontalcortex
+X4936551015_D	4936551015_D	C_AN19442_F	GSM706435	postmortem brain tissue	controls	Frontal cortex	controlsFrontalcortex
+X4936551004_D	4936551004_D	C_AN19760_F	GSM706436	postmortem brain tissue	controls	Frontal cortex	controlsFrontalcortex
+X4936551003_D	4936551003_D	C_AN01125_F	GSM706437	postmortem brain tissue	controls	Frontal cortex	controlsFrontalcortex
+X4936551010_D	4936551010_D	C_AN01410_F	GSM706438	postmortem brain tissue	controls	Frontal cortex	controlsFrontalcortex
+X4936551012_D	4936551012_D	C_AN03217_F	GSM706439	postmortem brain tissue	controls	Frontal cortex	controlsFrontalcortex
+X4936551015_H	4936551015_H	C_AN04479_F	GSM706440	postmortem brain tissue	controls	Frontal cortex	controlsFrontalcortex
+X4936551008_H	4936551008_H	C_AN07176_F	GSM706441	postmortem brain tissue	controls	Frontal cortex	controlsFrontalcortex
+X4936551014_D	4936551014_D	C_AN00142_F	GSM706442	postmortem brain tissue	controls	Frontal cortex	controlsFrontalcortex
+X4936551004_H	4936551004_H	C_AN00544_F	GSM706443	postmortem brain tissue	controls	Frontal cortex	controlsFrontalcortex
+X4936551007_G	4936551007_G	A_AN11989_T	GSM706444	postmortem brain tissue	autism	Temporal cortex	autismTemporalcortex
+X4936551015_B	4936551015_B	A_AN12457_T	GSM706445	postmortem brain tissue	autism	Temporal cortex	autismTemporalcortex
+X4936551007_B	4936551007_B	A_AN16641_T	GSM706446	postmortem brain tissue	autism	Temporal cortex	autismTemporalcortex
+X4936551031_B	4936551031_B	A_AN17138_T	GSM706447	postmortem brain tissue	autism	Temporal cortex	autismTemporalcortex
+X4936551011_B	4936551011_B	A_AN17777_T	GSM706448	postmortem brain tissue	autism	Temporal cortex	autismTemporalcortex
+X4936551011_G	4936551011_G	A_AN19511_T	GSM706449	postmortem brain tissue	autism	Temporal cortex	autismTemporalcortex
+X4936551004_B	4936551004_B	A_AN01570_T	GSM706450	postmortem brain tissue	autism	Temporal cortex	autismTemporalcortex
+X4936551003_B	4936551003_B	A_AN06420_T	GSM706451	postmortem brain tissue	autism	Temporal cortex	autismTemporalcortex
+X4936551012_B	4936551012_B	A_AN08166_T	GSM706452	postmortem brain tissue	autism	Temporal cortex	autismTemporalcortex
+X4936551014_B	4936551014_B	A_AN08792_T	GSM706453	postmortem brain tissue	autism	Temporal cortex	autismTemporalcortex
+X4936551008_B	4936551008_B	A_AN08873_T	GSM706454	postmortem brain tissue	autism	Temporal cortex	autismTemporalcortex
+X4936551014_G	4936551014_G	A_AN09730_T	GSM706455	postmortem brain tissue	autism	Temporal cortex	autismTemporalcortex
+X4936551005_B	4936551005_B	A_AN00764_T	GSM706456	postmortem brain tissue	autism	Temporal cortex	autismTemporalcortex
+X4936551012_H	4936551012_H	C_AN10028_T	GSM706457	postmortem brain tissue	controls	Temporal cortex	controlsTemporalcortex
+X4936551013_E	4936551013_E	C_AN10833_T	GSM706458	postmortem brain tissue	controls	Temporal cortex	controlsTemporalcortex
+X4936551031_E	4936551031_E	C_AN12240_T	GSM706459	postmortem brain tissue	controls	Temporal cortex	controlsTemporalcortex
+X4936551007_E	4936551007_E	C_AN14757_T	GSM706460	postmortem brain tissue	controls	Temporal cortex	controlsTemporalcortex
+X4936551005_E	4936551005_E	C_AN15566_T	GSM706461	postmortem brain tissue	controls	Temporal cortex	controlsTemporalcortex
+X4936551006_E	4936551006_E	C_AN17425_T	GSM706462	postmortem brain tissue	controls	Temporal cortex	controlsTemporalcortex
+X4936551015_E	4936551015_E	C_AN19442_T	GSM706463	postmortem brain tissue	controls	Temporal cortex	controlsTemporalcortex
+X4936551004_E	4936551004_E	C_AN19760_T	GSM706464	postmortem brain tissue	controls	Temporal cortex	controlsTemporalcortex
+X4936551003_E	4936551003_E	C_AN01125_T	GSM706465	postmortem brain tissue	controls	Temporal cortex	controlsTemporalcortex
+X4936551031_H	4936551031_H	C_AN04479_T	GSM706466	postmortem brain tissue	controls	Temporal cortex	controlsTemporalcortex
+X4936551010_H	4936551010_H	C_AN07176_T	GSM706467	postmortem brain tissue	controls	Temporal cortex	controlsTemporalcortex
+X4936551014_E	4936551014_E	C_AN00142_T	GSM706468	postmortem brain tissue	controls	Temporal cortex	controlsTemporalcortex
+X4936551005_H	4936551005_H	C_AN00544_T	GSM706469	postmortem brain tissue	controls	Temporal cortex	controlsTemporalcortex
