@@ -1,4 +1,5 @@
 ```python
+# import the packages
 import os
 import pandas as pd
 import glob
@@ -6,11 +7,13 @@ import glob
 
 
 ```python
+# set the working directory
 os.chdir('ashtest/')
 ```
 
 
 ```python
+# list all files with *.txt extension
 files = glob.glob('*.txt')
 files
 ```
@@ -24,20 +27,18 @@ files
 
 
 ```python
+# read each file and add sample id in new column for each file
 for i in files:
     data=pd.read_table(i, sep="\t", low_memory=False)
     data=data.assign(SampleID=i.replace('.txt', ''))
     data.to_csv(i, sep="\t", index=0)
 ```
 
-    C:\Users\snijesh\AppData\Local\Temp\ipykernel_10296\4194162390.py:2: DtypeWarning: Columns (253,254,258) have mixed types. Specify dtype option on import or set low_memory=False.
-      data=pd.read_table(i, sep="\t")
-    C:\Users\snijesh\AppData\Local\Temp\ipykernel_10296\4194162390.py:2: DtypeWarning: Columns (253,254,258) have mixed types. Specify dtype option on import or set low_memory=False.
-      data=pd.read_table(i, sep="\t")
     
 
 
 ```python
+# combine all *.txt files
 !type *.txt > combined.txt ## use this in windows
 ```
 
@@ -63,7 +64,7 @@ for i in files:
 
 
 ```python
-#read the combined vcf file
+# read the combined file
 vcf = pd.read_table('combined.txt', sep='\t', low_memory=False)
 vcf
 ```
@@ -72,19 +73,6 @@ vcf
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -395,19 +383,7 @@ vcf
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -723,19 +699,7 @@ DDX11L1
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
