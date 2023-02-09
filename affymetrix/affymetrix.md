@@ -80,11 +80,6 @@ rownames(eset)[1:10] #view 10 rownames
 ```
 
 
-<style>
-.list-inline {list-style: none; margin:0; padding: 0}
-.list-inline>li {display: inline-block}
-.list-inline>li:not(:last-child)::after {content: "\00b7"; padding: 0 .5ex}
-</style>
 <ol class=list-inline><li>'1007_s_at'</li><li>'1053_at'</li><li>'117_at'</li><li>'121_at'</li><li>'1255_g_at'</li><li>'1294_at'</li><li>'1316_at'</li><li>'1320_at'</li><li>'1405_i_at'</li><li>'1431_at'</li></ol>
 
 
@@ -158,11 +153,6 @@ head(df,4)
 ```
 
 
-<style>
-.list-inline {list-style: none; margin:0; padding: 0}
-.list-inline>li {display: inline-block}
-.list-inline>li:not(:last-child)::after {content: "\00b7"; padding: 0 .5ex}
-</style>
 <ol class=list-inline><li>54675</li><li>12</li></ol>
 
 
@@ -197,21 +187,12 @@ unique(conditions)
 ```
 
 
-<style>
-.list-inline {list-style: none; margin:0; padding: 0}
-.list-inline>li {display: inline-block}
-.list-inline>li:not(:last-child)::after {content: "\00b7"; padding: 0 .5ex}
-</style>
+
 <ol class=list-inline><li>'Veh'</li><li>'Veh'</li><li>'Veh'</li><li>'Est'</li><li>'Est'</li><li>'Est'</li></ol>
 
 
 
 
-<style>
-.list-inline {list-style: none; margin:0; padding: 0}
-.list-inline>li {display: inline-block}
-.list-inline>li:not(:last-child)::after {content: "\00b7"; padding: 0 .5ex}
-</style>
 <ol class=list-inline><li>Veh</li><li>Est</li><li>Dex</li><li>DexEst</li></ol>
 
 <details>
