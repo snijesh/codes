@@ -15,7 +15,7 @@ rsync -avP /media/home/hdd/R3279_R1.fastq.gz /media/home/edrive/data/R3279_R1.fa
 
 If you want to copy all the files in the directory to another directory follow:
 ```
-if rsync -avP /media/molmed/Data/sfari/samples/S1/ /media/molmed/sfaridata/fastq; then echo "transfer complete" else echo "transfer failed" fi
+if rsync -avP /media/home/hdd/ /media/home/edrive/data; then echo "transfer complete" else echo "transfer failed" fi
 ```
 
 
@@ -24,7 +24,7 @@ if rsync -avP /media/molmed/Data/sfari/samples/S1/ /media/molmed/sfaridata/fastq
 In shell script copy.sh
 ```
 #!/bin/bash
-if rsync -avP /media/molmed/Data/sfari/samples/S1/ /media/molmed/sfaridata/fastq; then
+if rsync -avP /media/home/hdd/ /media/home/edrive/data; then
   echo "transfer complete"
 else
   echo "transfer failed"
