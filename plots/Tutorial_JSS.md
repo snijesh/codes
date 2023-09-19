@@ -23,11 +23,6 @@ head(df,4)
 ```
 
 
-<style>
-.list-inline {list-style: none; margin:0; padding: 0}
-.list-inline>li {display: inline-block}
-.list-inline>li:not(:last-child)::after {content: "\00b7"; padding: 0 .5ex}
-</style>
 <ol class=list-inline><li>100</li><li>9</li></ol>
 
 
@@ -160,15 +155,7 @@ dim(gene_info)
 head(gene_info,3)
 ```
 
-
-<style>
-.list-inline {list-style: none; margin:0; padding: 0}
-.list-inline>li {display: inline-block}
-.list-inline>li:not(:last-child)::after {content: "\00b7"; padding: 0 .5ex}
-</style>
 <ol class=list-inline><li>100</li><li>2</li></ol>
-
-
 
 
 <table class="dataframe">
@@ -219,16 +206,7 @@ dim(sam_info)
 head(sam_info,3)
 ```
 
-
-<style>
-.list-inline {list-style: none; margin:0; padding: 0}
-.list-inline>li {display: inline-block}
-.list-inline>li:not(:last-child)::after {content: "\00b7"; padding: 0 .5ex}
-</style>
 <ol class=list-inline><li>9</li><li>1</li></ol>
-
-
-
 
 <table class="dataframe">
 <caption>A data.frame: 3 × 1</caption>
@@ -309,15 +287,7 @@ head(df,3)
 ```
 
 
-<style>
-.list-inline {list-style: none; margin:0; padding: 0}
-.list-inline>li {display: inline-block}
-.list-inline>li:not(:last-child)::after {content: "\00b7"; padding: 0 .5ex}
-</style>
 <ol class=list-inline><li>6</li><li>101</li></ol>
-
-
-
 
 <table class="dataframe">
 <caption>A data.frame: 3 × 101</caption>
